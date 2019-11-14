@@ -1,0 +1,14 @@
+package com.capability.qa.Base;
+
+public class Login extends BaseTest{
+	Login()
+	{
+		super();
+	}
+
+	public static void main(String[] args) {
+		BaseTest.initialization();
+
+	}
+
+}

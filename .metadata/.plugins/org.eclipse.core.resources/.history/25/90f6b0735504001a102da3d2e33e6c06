@@ -1,0 +1,15 @@
+package com.capability.qa.Base;
+
+public class Login {
+	Login()
+	{
+		super();
+	}
+
+	public static void main(String[] args) {
+		BaseTest.initialization();
+		// TODO Auto-generated method stub
+
+	}
+
+}

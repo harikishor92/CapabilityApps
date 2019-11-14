@@ -1,0 +1,13 @@
+package com.capability.qa.Base;
+
+import java.util.Properties;
+
+public class BaseTest {
+	
+	public BaseTest()
+	{
+		Properties prob = new Properties(); 
+		
+	}
+
+}

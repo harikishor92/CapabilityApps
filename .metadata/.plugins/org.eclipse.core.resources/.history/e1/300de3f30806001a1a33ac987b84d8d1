@@ -1,0 +1,67 @@
+package com.capability.qa.testcases;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.apache.poi.ss.usermodel.WorkbookFactory;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
+
+import com.capability.qa.Base.BaseTest;
+import com.capability.qa.Util.TestUtil;
+
+public class WelcomePageTest extends BaseTest{
+	
+	Logger logger = LogManager.getFormatterLogger(WelcomePageTest.class);
+	
+	String sheetName = "";
+	WelcomePageTest()
+	{
+		super();
+	}
+	
+	@BeforeMethod
+	public void setUp()
+	{
+		initialization();
+	}
+	
+	@DataProvider()
+	public Object[][] getCapabilityTestData()
+	{
+		Object[][] data = TestUtil.getTestData(sheetName);
+		return data;
+		
+	}
+	
+	@Test //(dataProvider = "getCapabilityTestData")
+	public void test()
+	{
+		System.out.println("******WelcomePageTest**********");
+		logger.debug("This is a debug message");
+        logger.info("This is an info message");
+        logger.warn("This is a warn message");
+        logger.error("This is an error message");
+        logger.fatal("This is a fatal message");
+        logger.trace("Trace");
+
+		
+		
+	}
+	
+	
+	
+	@AfterMethod
+	public void tearDown()
+	{
+		driver.quit();
+	}
+	
+	
+	
+
+}

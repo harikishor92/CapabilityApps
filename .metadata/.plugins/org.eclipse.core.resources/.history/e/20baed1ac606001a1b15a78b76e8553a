@@ -1,0 +1,23 @@
+package com.capability.qa.Pages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+import com.capability.qa.Base.BaseTest;
+
+public class LoginPage extends BaseTest{
+	
+	@FindBy(xpath = "//h3[contains(text(),'Welcome To Capability App')]")
+	WebElement LoginPagelogotext;
+	
+	
+	@FindBy(xpath = "//h3[contains(text(),'Welcome To Capability App')]")
+	WebElement username;
+	
+	@FindBy(xpath = "//h3[contains(text(),'Welcome To Capability App')]")
+	WebElement passwd;
+	
+	@FindBy(xpath = "//h3[contains(text(),'Welcome To Capability App')]")
+	WebElement loginbtn;
+
+}

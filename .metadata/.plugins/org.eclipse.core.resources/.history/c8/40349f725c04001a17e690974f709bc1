@@ -1,0 +1,8 @@
+package com.capability.qa.testcases;
+
+public class WelcomePageTest {
+	
+	@BeforeMethods
+	
+
+}

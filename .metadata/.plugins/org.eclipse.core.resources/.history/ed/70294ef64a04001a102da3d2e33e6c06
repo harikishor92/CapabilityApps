@@ -1,0 +1,22 @@
+package com.capability.qa.Base;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.util.Properties;
+
+public class BaseTest {
+	public static Properties prob;
+	
+	public BaseTest()
+	{
+		prob = new Properties(); 
+		try {
+			FileInputStream fis = new FileInputStream("./src/main/java/com/capability/qa/Config/config.properties");
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+
+}

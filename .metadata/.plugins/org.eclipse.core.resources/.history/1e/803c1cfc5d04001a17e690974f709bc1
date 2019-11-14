@@ -1,0 +1,14 @@
+package com.capability.qa.testcases;
+
+import com.capability.qa.Base.BaseTest;
+
+public class WelcomePageTest extends BaseTest{
+	WelcomePageTest()
+	{
+		super();
+	}
+	
+	
+	
+
+}

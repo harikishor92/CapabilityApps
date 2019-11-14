@@ -1,0 +1,28 @@
+[DEBUG] 2019-11-13 15:14:59.816 [main] WelcomePageTest - This is a debug message
+[INFO ] 2019-11-13 15:14:59.820 [main] WelcomePageTest - This is an info message
+[WARN ] 2019-11-13 15:14:59.821 [main] WelcomePageTest - This is a warn message
+[ERROR] 2019-11-13 15:14:59.821 [main] WelcomePageTest - This is an error message
+[FATAL] 2019-11-13 15:14:59.821 [main] WelcomePageTest - This is a fatal message
+[DEBUG] 2019-11-13 15:15:00.329 [main] WelcomePageTest - This is a debug message
+[INFO ] 2019-11-13 15:15:00.332 [main] WelcomePageTest - This is an info message
+[WARN ] 2019-11-13 15:15:00.333 [main] WelcomePageTest - This is a warn message
+[ERROR] 2019-11-13 15:15:00.333 [main] WelcomePageTest - This is an error message
+[FATAL] 2019-11-13 15:15:00.333 [main] WelcomePageTest - This is a fatal message
+[DEBUG] 2019-11-13 15:16:37.297 [main] WelcomePageTest - This is a debug message
+[INFO ] 2019-11-13 15:16:37.302 [main] WelcomePageTest - This is an info message
+[WARN ] 2019-11-13 15:16:37.302 [main] WelcomePageTest - This is a warn message
+[ERROR] 2019-11-13 15:16:37.302 [main] WelcomePageTest - This is an error message
+[FATAL] 2019-11-13 15:16:37.302 [main] WelcomePageTest - This is a fatal message
+[TRACE] 2019-11-13 15:16:37.303 [main] WelcomePageTest - Trace
+[DEBUG] 2019-11-13 15:19:38.003 [main] WelcomePageTest - This is a debug message
+[INFO ] 2019-11-13 15:19:38.007 [main] WelcomePageTest - This is an info message
+[WARN ] 2019-11-13 15:19:38.008 [main] WelcomePageTest - This is a warn message
+[ERROR] 2019-11-13 15:19:38.008 [main] WelcomePageTest - This is an error message
+[FATAL] 2019-11-13 15:19:38.008 [main] WelcomePageTest - This is a fatal message
+[TRACE] 2019-11-13 15:19:38.008 [main] WelcomePageTest - Trace
+[DEBUG] 2019-11-13 15:19:38.536 [main] WelcomePageTest - This is a debug message
+[INFO ] 2019-11-13 15:19:38.540 [main] WelcomePageTest - This is an info message
+[WARN ] 2019-11-13 15:19:38.540 [main] WelcomePageTest - This is a warn message
+[ERROR] 2019-11-13 15:19:38.540 [main] WelcomePageTest - This is an error message
+[FATAL] 2019-11-13 15:19:38.540 [main] WelcomePageTest - This is a fatal message
+[TRACE] 2019-11-13 15:19:38.541 [main] WelcomePageTest - Trace
