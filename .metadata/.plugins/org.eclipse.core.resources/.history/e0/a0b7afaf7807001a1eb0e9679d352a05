@@ -1,0 +1,18 @@
+package com.capability.qa.Pages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+import com.capability.qa.Base.BaseTest;
+
+public class HomePage extends BaseTest{
+	@FindBy(xpath = "//a[contains(text(),'Dashboard')]")
+	private WebElement dashboard;
+	
+	@FindBy(xpath = "//h6[contains(text(),'DEv2')]")
+	private WebElement topic;
+	
+	@FindBy(xpath = "//button[@id='btn']")
+	private WebElement addQuestions;
+
+}

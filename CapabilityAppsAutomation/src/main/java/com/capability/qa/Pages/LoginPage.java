@@ -32,12 +32,12 @@ public class LoginPage extends BaseTest{
 		return LoginPagelogotext.isDisplayed();
 	}
 	
-	public HomePage login(String un, String pwd)
+	public DashBoardPage login(String un, String pwd)
 	{
 		username.sendKeys(un);
 		passwd.sendKeys(pwd);
 		LoginPageLoginbtn.click();
-		return new HomePage();
+		return new DashBoardPage();
 	}
 
 }

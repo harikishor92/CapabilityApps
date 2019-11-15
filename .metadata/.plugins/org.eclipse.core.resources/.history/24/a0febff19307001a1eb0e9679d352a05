@@ -1,0 +1,14 @@
+package com.capability.qa.Pages;
+
+import org.testng.Assert;
+
+public class VerifyTopic extends DashBoardPage{
+	
+	public void topics()
+	{
+		velidateDev2Tab();
+		Assert.assertTrue(true);
+	}
+	
+
+}

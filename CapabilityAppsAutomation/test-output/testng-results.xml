@@ -1,41 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="52514" started-at="2019-11-15T06:46:01Z" finished-at="2019-11-15T06:46:54Z">
+  <suite name="CapabilityAppsAutomation" duration-ms="146167" started-at="2019-11-15T12:39:05Z" finished-at="2019-11-15T12:41:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="52514" started-at="2019-11-15T06:46:01Z" finished-at="2019-11-15T06:46:54Z">
-      <class name="com.capability.qa.testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@38d8f54a]" name="setUp" is-config="true" duration-ms="17385" started-at="2019-11-15T12:16:01Z" finished-at="2019-11-15T12:16:19Z">
+    <test name="CapabilityAppsTestReport" duration-ms="146167" started-at="2019-11-15T12:39:05Z" finished-at="2019-11-15T12:41:31Z">
+      <class name="com.capability.qa.testcases.WelcomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.WelcomePageTest@55b699ef]" name="setUp" is-config="true" duration-ms="22634" started-at="2019-11-15T18:09:05Z" finished-at="2019-11-15T18:09:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="LoginPageLOGOTextTest()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@38d8f54a]" name="LoginPageLOGOTextTest" duration-ms="77" started-at="2019-11-15T12:16:19Z" finished-at="2019-11-15T12:16:19Z">
+        <test-method status="PASS" signature="WelcomePageLOGOTextTest()[pri:0, instance:com.capability.qa.testcases.WelcomePageTest@55b699ef]" name="WelcomePageLOGOTextTest" duration-ms="65" started-at="2019-11-15T18:09:28Z" finished-at="2019-11-15T18:09:28Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginPageLOGOTextTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@38d8f54a]" name="tearDown" is-config="true" duration-ms="662" started-at="2019-11-15T12:16:19Z" finished-at="2019-11-15T12:16:20Z">
+        </test-method> <!-- WelcomePageLOGOTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.WelcomePageTest@55b699ef]" name="tearDown" is-config="true" duration-ms="645" started-at="2019-11-15T18:09:28Z" finished-at="2019-11-15T18:09:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@38d8f54a]" name="setUp" is-config="true" duration-ms="16078" started-at="2019-11-15T12:16:20Z" finished-at="2019-11-15T12:16:36Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.WelcomePageTest@55b699ef]" name="setUp" is-config="true" duration-ms="18622" started-at="2019-11-15T18:09:29Z" finished-at="2019-11-15T18:09:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginPageTest()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@38d8f54a]" name="loginPageTest" duration-ms="332" started-at="2019-11-15T12:16:36Z" finished-at="2019-11-15T12:16:36Z">
+        <test-method status="PASS" signature="WelcomePageTitleTest()[pri:0, instance:com.capability.qa.testcases.WelcomePageTest@55b699ef]" name="WelcomePageTitleTest" duration-ms="14" started-at="2019-11-15T18:09:47Z" finished-at="2019-11-15T18:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WelcomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.WelcomePageTest@55b699ef]" name="tearDown" is-config="true" duration-ms="647" started-at="2019-11-15T18:09:47Z" finished-at="2019-11-15T18:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.capability.qa.testcases.WelcomePageTest -->
+      <class name="com.capability.qa.testcases.DashBoardPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.DashBoardPageTest@689604d9]" name="setUp" is-config="true" duration-ms="19668" started-at="2019-11-15T18:10:50Z" finished-at="2019-11-15T18:11:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dashBoardPageLOGOTextTest()[pri:0, instance:com.capability.qa.testcases.DashBoardPageTest@689604d9]" name="dashBoardPageLOGOTextTest" duration-ms="365" started-at="2019-11-15T18:11:10Z" finished-at="2019-11-15T18:11:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashBoardPageLOGOTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.DashBoardPageTest@689604d9]" name="tearDown" is-config="true" duration-ms="647" started-at="2019-11-15T18:11:10Z" finished-at="2019-11-15T18:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.capability.qa.testcases.DashBoardPageTest -->
+      <class name="com.capability.qa.testcases.Dev2TopicPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.Dev2TopicPageTest@18078bef]" name="setUp" is-config="true" duration-ms="20056" started-at="2019-11-15T18:11:11Z" finished-at="2019-11-15T18:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dev2TopicPageLOGOTextTest()[pri:0, instance:com.capability.qa.testcases.Dev2TopicPageTest@18078bef]" name="dev2TopicPageLOGOTextTest" duration-ms="38" started-at="2019-11-15T18:11:31Z" finished-at="2019-11-15T18:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dev2TopicPageLOGOTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.Dev2TopicPageTest@18078bef]" name="tearDown" is-config="true" duration-ms="671" started-at="2019-11-15T18:11:31Z" finished-at="2019-11-15T18:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.capability.qa.testcases.Dev2TopicPageTest -->
+      <class name="com.capability.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@35d019a3]" name="setUp" is-config="true" duration-ms="19163" started-at="2019-11-15T18:09:48Z" finished-at="2019-11-15T18:10:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageLOGOTextTest()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@35d019a3]" name="loginPageLOGOTextTest" duration-ms="47" started-at="2019-11-15T18:10:07Z" finished-at="2019-11-15T18:10:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLOGOTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@35d019a3]" name="tearDown" is-config="true" duration-ms="655" started-at="2019-11-15T18:10:07Z" finished-at="2019-11-15T18:10:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@35d019a3]" name="setUp" is-config="true" duration-ms="21068" started-at="2019-11-15T18:10:08Z" finished-at="2019-11-15T18:10:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTest()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@35d019a3]" name="loginPageTest" duration-ms="238" started-at="2019-11-15T18:10:29Z" finished-at="2019-11-15T18:10:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@38d8f54a]" name="tearDown" is-config="true" duration-ms="668" started-at="2019-11-15T12:16:36Z" finished-at="2019-11-15T12:16:37Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@35d019a3]" name="tearDown" is-config="true" duration-ms="643" started-at="2019-11-15T18:10:29Z" finished-at="2019-11-15T18:10:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@38d8f54a]" name="setUp" is-config="true" duration-ms="16114" started-at="2019-11-15T12:16:37Z" finished-at="2019-11-15T12:16:53Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@35d019a3]" name="setUp" is-config="true" duration-ms="19094" started-at="2019-11-15T18:10:30Z" finished-at="2019-11-15T18:10:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginPageTest(java.lang.String, java.lang.String)[pri:0, instance:com.capability.qa.testcases.LoginPageTest@38d8f54a]" name="loginPageTest" duration-ms="275" started-at="2019-11-15T12:16:53Z" data-provider="getCapabilityTestData" finished-at="2019-11-15T12:16:53Z">
+        <test-method status="PASS" signature="loginPageTest(java.lang.String, java.lang.String)[pri:0, instance:com.capability.qa.testcases.LoginPageTest@35d019a3]" name="loginPageTest" duration-ms="280" started-at="2019-11-15T18:10:49Z" data-provider="getCapabilityTestData" finished-at="2019-11-15T18:10:49Z">
           <params>
             <param index="0">
               <value>
@@ -51,11 +105,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@38d8f54a]" name="tearDown" is-config="true" duration-ms="686" started-at="2019-11-15T12:16:53Z" finished-at="2019-11-15T12:16:54Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.LoginPageTest@35d019a3]" name="tearDown" is-config="true" duration-ms="649" started-at="2019-11-15T18:10:49Z" finished-at="2019-11-15T18:10:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.capability.qa.testcases.LoginPageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- CapabilityAppsTestReport -->
+  </suite> <!-- CapabilityAppsAutomation -->
 </testng-results>

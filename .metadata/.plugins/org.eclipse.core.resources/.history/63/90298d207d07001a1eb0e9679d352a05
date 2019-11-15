@@ -1,0 +1,17 @@
+package com.capability.qa.testcases;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+import com.capability.qa.Base.BaseTest;
+import com.capability.qa.Pages.LoginPage;
+import com.capability.qa.Pages.WelcomePage;
+
+public class DashBoardPageTest extends BaseTest{
+Logger logger = LogManager.getFormatterLogger(DashBoardPageTest.class);
+	
+	String sheetName = "";
+	WelcomePage wlcm;
+	LoginPage loginPage;
+
+}

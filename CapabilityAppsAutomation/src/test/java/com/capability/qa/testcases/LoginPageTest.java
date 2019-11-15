@@ -9,18 +9,18 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.capability.qa.Base.BaseTest;
-import com.capability.qa.Pages.HomePage;
+import com.capability.qa.Pages.DashBoardPage;
 import com.capability.qa.Pages.LoginPage;
 import com.capability.qa.Pages.WelcomePage;
 import com.capability.qa.Util.TestUtil;
 
 public class LoginPageTest extends BaseTest{
-Logger logger = LogManager.getFormatterLogger(WelcomePageTest.class);
+Logger logger = LogManager.getFormatterLogger(LoginPageTest.class);
 	
 	String sheetName = "Login_Details";
 	WelcomePage wlcm;
 	LoginPage loginPage;
-	HomePage homePage;
+	DashBoardPage dashBoardPage;
 	
 	
 	LoginPageTest()
@@ -48,7 +48,7 @@ Logger logger = LogManager.getFormatterLogger(WelcomePageTest.class);
 	}
 	
 	@Test
-	public void LoginPageLOGOTextTest()
+	public void loginPageLOGOTextTest()
 	{
 		logger.info("Start executing the test case");
 		
@@ -64,7 +64,7 @@ Logger logger = LogManager.getFormatterLogger(WelcomePageTest.class);
 	{
 		logger.info("Start executing the test case");
 		
-		homePage = loginPage.login(prob.getProperty("userName"),prob.getProperty("password") );
+		dashBoardPage = loginPage.login(prob.getProperty("userName"),prob.getProperty("password") );
 		 
 		logger.info("Test case execution completed");
 	}
@@ -76,7 +76,7 @@ Logger logger = LogManager.getFormatterLogger(WelcomePageTest.class);
 	{
 		logger.info("Start executing the test case");
 		
-		homePage = loginPage.login(username, password);
+		dashBoardPage = loginPage.login(username, password);
 		 
 		logger.info("Test case execution completed");
 	}

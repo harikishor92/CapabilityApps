@@ -1,0 +1,6 @@
+package com.capability.qa.Pages;
+
+public class VerifyTopic extends DashBoardPage{
+	
+
+}
