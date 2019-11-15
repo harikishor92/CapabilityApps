@@ -9,6 +9,86 @@
 	<atom:link rel="self" href="http://planeteclipse.org/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>Christopher Guindon: Show Your Support for Open Source IoT at the Eclipse Foundation</title>
+	<guid isPermaLink="true">https://www.chrisguindon.com/post/show-your-support-for-open-source-iot-at-the-eclipse-foundation/</guid>
+	<link>https://www.chrisguindon.com/post/show-your-support-for-open-source-iot-at-the-eclipse-foundation/</link>
+	<description>&lt;p&gt;The &lt;a href=&quot;https://iot.eclipse.org&quot;&gt;Eclipse IoT&lt;/a&gt; working group is launching a campaign to identify the adopters of Eclipse IoT open source projects. Companies — whether or not they are working group members — can be listed as &lt;a href=&quot;https://iot.eclipse.org/adopters/&quot;&gt;adopters&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Adopters are organizations that voluntarily show their support for the Eclipse IoT projects they have adopted (i.e. shipping commercial products based on the projects and/or using the projects for non-commercial or internal reasons).&lt;/p&gt;
+&lt;p&gt;You can add your organization logo to our list of adopters by submitting a &lt;a href=&quot;https://github.com/EclipseFdn/iot.eclipse.org/pulls&quot;&gt;pull request&lt;/a&gt; or by creating an &lt;a href=&quot;https://github.com/EclipseFdn/iot.eclipse.org/issues/new?template=adopter_request.md&quot;&gt;issue&lt;/a&gt;. You can attach files to an issue by dragging and dropping them in the text editor of the form.&lt;/p&gt;
+&lt;p&gt;If you plan on submitting a pull request, you will need to make the following changes to the website codebase:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Add a colored and a white organization logo to &lt;a href=&quot;https://github.com/EclipseFdn/iot.eclipse.org/tree/master/static/assets/images/adopters&quot;&gt;static/assets/images/adoptors&lt;/a&gt;. We expect that all submitted logos to be transparent svg.&lt;/li&gt;
+&lt;li&gt;Update the adopter data file: &lt;a href=&quot;https://github.com/EclipseFdn/iot.eclipse.org/blob/master/data/adopters.yml&quot;&gt;data/adopters.yml&lt;/a&gt; If your organization wishes to express support for multiple projects, you will need to add your organization’s YAML definition to the adopters list of each of the relevant project nodes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Your participation in this initiative will publicly show your support for open source innovation.&lt;/p&gt;
+&lt;h3 id=&quot;list-eclipse-iot-adopters-on-an-eclipse-project-website&quot;&gt;List Eclipse IoT adopters on an Eclipse project website&lt;/h3&gt;
+&lt;p&gt;Eclipse projects can showcase the logos of their adopters on their project websites. We built a JavaScript plugin to make this process easier. If you are a project committer, here are quick instructions on how to use the &lt;a href=&quot;https://iot.eclipse.org/assets/js/eclipsefdn.adopters.js&quot;&gt;eclipsefdn-adopters.js&lt;/a&gt; on your Eclipse project website:&lt;/p&gt;
+&lt;h4 id=&quot;usage&quot;&gt;Usage&lt;/h4&gt;
+&lt;p&gt;Include the plugin’s JS in the  section of the page:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;script src=&quot;//iot.eclipse.org/assets/js/eclipsefdn.adopters.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Load the plugin:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;script&amp;gt;
+eclipseFdnAdopters.getList({
+project_id: &quot;[project_id]&quot;
+});
+&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Create an HTML element containing the chosen selector:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&quot;eclipsefdn-adopters&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;By default, the selector’s value is &lt;code&gt;eclipsefdn-adopters&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;options&quot;&gt;Options&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;script&amp;gt;
+eclipseFdnAdopters.getList({
+project_id: &quot;[project_id]&quot;,
+selector: &quot;.eclipsefdn-adopters&quot;,
+ul_classes: &quot;list-inline&quot;,
+logo_white: false
+});
+&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Attribute&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Default&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;project_id&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;String&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;: Select adopters from a specific project ID.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;selector&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;String&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.eclipsefdn-adopters&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Define the selector that the plugin will insert adopters into.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;ul_classes&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;String&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Define classes that will be assigned to the ul element.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;logo_white&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Boolean&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Whether or not we use the white version of the logo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
+	<pubDate>Thu, 14 Nov 2019 16:35:00 +0000</pubDate>
+</item>
+<item>
 	<title>Wayne Beaton: Eclipse IP Policy: Reviewing Third Party Content</title>
 	<guid isPermaLink="false">http://waynebeaton.wordpress.com/?p=5601</guid>
 	<link>https://waynebeaton.wordpress.com/2019/11/13/reviewing-third-party-content/</link>
@@ -1964,25 +2044,6 @@ client.connect().get();&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;I hope this helps a bit in getting started with Milo 0.3.x. And please be sure to read the &lt;a href=&quot;https://dentrassi.de/2017/09/14/creating-opc-ua-solutions-eclipse-milo/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;original post&lt;/a&gt;, giving a more detailed introduction, as well.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://dentrassi.de/2019/07/06/eclipse-milo-0-3-updated-examples/&quot; rel=&quot;nofollow&quot;&gt;Eclipse Milo 0.3, updated examples&lt;/a&gt; appeared first on &lt;a href=&quot;https://dentrassi.de&quot; rel=&quot;nofollow&quot;&gt;ctron's blog&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Sat, 06 Jul 2019 20:22:28 +0000</pubDate>
-</item>
-<item>
-	<title>itemis: Graphical Editing Framework (GEF) 5.1.0 Release</title>
-	<guid isPermaLink="true">https://blogs.itemis.com/en/graphical-editing-framework-gef-5.1.0-release</guid>
-	<link>https://blogs.itemis.com/en/graphical-editing-framework-gef-5.1.0-release</link>
-	<description>&lt;p&gt;The Eclipse GEF team is happy to announce that version 5.1.0 of the &lt;a href=&quot;https://www.eclipse.org/gef/&quot; title=&quot; Eclipse&quot;&gt;Eclipse Graphical Editing Framework&lt;/a&gt; is part of the Eclipse 2019-06 simultaneous release:&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;img alt=&quot;GEF_Installation&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog%20(2019)/Eclipse/GRAPHICAL%20EDITING%20FRAMEWORK%20(GEF)%205.1.0%20RELEASE/GEF_Installation.jpg?width=869&amp;amp;name=GEF_Installation.jpg&quot; style=&quot;width: 869px;&quot; width=&quot;869&quot; /&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;The project team has worked hard since the &lt;strong&gt;&lt;a href=&quot;https://blogs.itemis.com/en/graphical-editing-framework-gef-5.0.0-release&quot; title=&quot; Graphical Editing Framework (GEF) 5.0.0 Release&quot;&gt; Eclipse GEF 5.0.0 release &lt;/a&gt;&lt;/strong&gt; two years ago. The new release fixes &lt;a href=&quot;https://projects.eclipse.org/projects/tools.gef/releases/5.1.0-2019-06/bugs&quot;&gt;&lt;strong&gt;issues&lt;/strong&gt;&lt;/a&gt; on the &lt;em&gt;GEF MVC&lt;/em&gt;, &lt;em&gt;GEF Zest&lt;/em&gt;, and &lt;em&gt;GEF DOT&lt;/em&gt; components.&lt;/p&gt; 
-&lt;p&gt;We would like to thank all contributors who made this release possible:&lt;/p&gt; 
-&lt;p&gt;&lt;img alt=&quot;GEF_Contributions&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog%20(2019)/Embedded/GRAPHICAL%20EDITING%20FRAMEWORK%20(GEF)%205.1.0%20RELEASE/GEF_Contributions.png?width=874&amp;amp;name=GEF_Contributions.png&quot; style=&quot;width: 874px;&quot; width=&quot;874&quot; /&gt;&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Your feedback regarding the new release is highly appreciated. If you have any questions or suggestions, please let us know via the &lt;a href=&quot;https://www.eclipse.org/forums/index.php?t=thread&amp;amp;frm_id=81&quot; title=&quot;Eclipse GEF forum&quot;&gt;&lt;strong&gt;Eclipse GEF forum&lt;/strong&gt;&lt;/a&gt; or create an issue on &lt;a href=&quot;https://bugs.eclipse.org/bugs/describecomponents.cgi?product=GEF&quot; title=&quot;Eclipse Bugzilla&quot;&gt;&lt;strong&gt;Eclipse Bugzilla&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt; 
-&lt;p&gt;For further information, we recommend to take a look at the &lt;strong&gt;&lt;a href=&quot;https://blogs.itemis.com/topic/gef&quot; title=&quot;More Eclipse GEF blog articles&quot;&gt;Eclipse GEF blog articles&lt;/a&gt;&lt;/strong&gt;, watch the &lt;a href=&quot;https://www.youtube.com/watch?v=GnSVLNYfGlk&quot; title=&quot;Eclipse GEF DOT Video&quot;&gt;&lt;strong&gt;Eclipse GEF session on the EclipseCon Europe 2018&lt;/strong&gt;&lt;/a&gt;, and try out the&lt;strong&gt; &lt;a href=&quot;https://info.itemis.com/en/gef/tutorials/&quot; title=&quot;Online tutorial: Getting started with GEF 5.0&quot;&gt;Getting started with Eclipse GEF online tutorial&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt; 
-&lt;p&gt;&lt;/p&gt;  
-&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track.hubspot.com/__ptq.gif?a=761475&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblogs.itemis.com%2Fen%2Fgraphical-editing-framework-gef-5.1.0-release&amp;amp;bu=https%253A%252F%252Fblogs.itemis.com&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
-	<pubDate>Tue, 25 Jun 2019 08:00:00 +0000</pubDate>
-	<author>miklossy@itemis.de (Tamas Miklossy)</author>
 </item>
 
 </channel>

@@ -17,7 +17,7 @@ import com.capability.qa.Util.TestUtil;
 public class LoginPageTest extends BaseTest{
 Logger logger = LogManager.getFormatterLogger(WelcomePageTest.class);
 	
-	String sheetName = "";
+	String sheetName = "Login_Details";
 	WelcomePage wlcm;
 	LoginPage loginPage;
 	HomePage homePage;
@@ -57,13 +57,26 @@ Logger logger = LogManager.getFormatterLogger(WelcomePageTest.class);
 		logger.info("Test case execution completed");
 	}
 	
+	//Login app by using config file for username and password 
 	
 	@Test
 	public void loginPageTest()
 	{
 		logger.info("Start executing the test case");
 		
-		homePage = loginPage.login("admin", "admin");
+		homePage = loginPage.login(prob.getProperty("userName"),prob.getProperty("password") );
+		 
+		logger.info("Test case execution completed");
+	}
+	
+	//Login app by using Excel sheet test data for username and password 
+	
+	@Test(dataProvider = "getCapabilityTestData")
+	public void loginPageTest(String username, String password)
+	{
+		logger.info("Start executing the test case");
+		
+		homePage = loginPage.login(username, password);
 		 
 		logger.info("Test case execution completed");
 	}

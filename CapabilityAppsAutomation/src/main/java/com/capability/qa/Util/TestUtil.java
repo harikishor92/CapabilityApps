@@ -21,7 +21,7 @@ import com.capability.qa.Base.BaseTest;
 
 public class TestUtil extends BaseTest{
 	static Logger logger = LogManager.getFormatterLogger(TestUtil.class);
-	static String TESTDATA_SHEET_PATH = "./src/main/java/com/capability/qa/Testdata/data.xls";
+	static String TESTDATA_SHEET_PATH = "./src/main/java/com/capability/qa/Testdata/CapabilityApp_testData.xls";
 	static Workbook book;
 	static Sheet sheet;
 	
