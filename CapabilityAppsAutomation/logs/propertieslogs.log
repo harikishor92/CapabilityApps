@@ -1,36 +1,8 @@
-[INFO ] 2019-11-15 18:09:28.436 [main] WelcomePageTest - Welcome page launched successfully
-[INFO ] 2019-11-15 18:09:28.470 [main] WelcomePageTest - Start executing the test case
-[INFO ] 2019-11-15 18:09:28.525 [main] WelcomePageTest - Test case execution completed
-[INFO ] 2019-11-15 18:09:29.171 [main] WelcomePageTest - Closed the browser successfully
-[INFO ] 2019-11-15 18:09:47.792 [main] WelcomePageTest - Welcome page launched successfully
-[INFO ] 2019-11-15 18:09:47.798 [main] WelcomePageTest - Start executing the test case
-[INFO ] 2019-11-15 18:09:47.808 [main] WelcomePageTest - Test case execution completed
-[INFO ] 2019-11-15 18:09:48.455 [main] WelcomePageTest - Closed the browser successfully
-[INFO ] 2019-11-15 18:10:07.498 [main] LoginPageTest - Welcome page launched successfully
-[INFO ] 2019-11-15 18:10:07.622 [main] LoginPageTest - Login page launched successfully
-[INFO ] 2019-11-15 18:10:07.624 [main] LoginPageTest - Start executing the test case
-[INFO ] 2019-11-15 18:10:07.670 [main] LoginPageTest - Test case execution completed
-[INFO ] 2019-11-15 18:10:08.325 [main] LoginPageTest - Closed the browser successfully
-[INFO ] 2019-11-15 18:10:29.268 [main] LoginPageTest - Welcome page launched successfully
-[INFO ] 2019-11-15 18:10:29.395 [main] LoginPageTest - Login page launched successfully
-[INFO ] 2019-11-15 18:10:29.396 [main] LoginPageTest - Start executing the test case
-[INFO ] 2019-11-15 18:10:29.633 [main] LoginPageTest - Test case execution completed
-[INFO ] 2019-11-15 18:10:30.276 [main] LoginPageTest - Closed the browser successfully
-[INFO ] 2019-11-15 18:10:49.429 [main] LoginPageTest - Welcome page launched successfully
-[INFO ] 2019-11-15 18:10:49.597 [main] LoginPageTest - Login page launched successfully
-[INFO ] 2019-11-15 18:10:49.598 [main] LoginPageTest - Start executing the test case
-[INFO ] 2019-11-15 18:10:49.877 [main] LoginPageTest - Test case execution completed
-[INFO ] 2019-11-15 18:10:50.527 [main] LoginPageTest - Closed the browser successfully
-[INFO ] 2019-11-15 18:11:09.832 [main] DashBoardPageTest - Welcome page launched successfully
-[INFO ] 2019-11-15 18:11:09.970 [main] DashBoardPageTest - Login page launched successfully
-[INFO ] 2019-11-15 18:11:10.197 [main] DashBoardPageTest - DashBoard page launched successfully
-[INFO ] 2019-11-15 18:11:10.198 [main] DashBoardPageTest - Start executing the test case
-[INFO ] 2019-11-15 18:11:10.563 [main] DashBoardPageTest - Test case execution completed
-[INFO ] 2019-11-15 18:11:11.211 [main] DashBoardPageTest - Closed the browser successfully
-[INFO ] 2019-11-15 18:11:30.052 [main] Dev2TopicPageTest - Welcome page launched successfully
-[INFO ] 2019-11-15 18:11:30.193 [main] Dev2TopicPageTest - Login page launched successfully
-[INFO ] 2019-11-15 18:11:30.443 [main] Dev2TopicPageTest - DashBoard page launched successfully
-[INFO ] 2019-11-15 18:11:31.267 [main] Dev2TopicPageTest - Dev2Topic page launched successfully
-[INFO ] 2019-11-15 18:11:31.269 [main] Dev2TopicPageTest - Start executing the test case
-[INFO ] 2019-11-15 18:11:31.306 [main] Dev2TopicPageTest - Test case execution completed
-[INFO ] 2019-11-15 18:11:31.978 [main] Dev2TopicPageTest - Closed the browser successfully
+[INFO ] 2019-11-18 13:16:02.120 [main] WelcomePageTest - Welcome page launched successfully
+[INFO ] 2019-11-18 13:16:02.139 [main] WelcomePageTest - Start executing the test case
+[INFO ] 2019-11-18 13:16:02.200 [main] WelcomePageTest - Test case execution completed
+[INFO ] 2019-11-18 13:16:02.875 [main] WelcomePageTest - Closed the browser successfully
+[INFO ] 2019-11-18 13:16:17.205 [main] WelcomePageTest - Welcome page launched successfully
+[INFO ] 2019-11-18 13:16:17.209 [main] WelcomePageTest - Start executing the test case
+[INFO ] 2019-11-18 13:16:17.219 [main] WelcomePageTest - Test case execution completed
+[INFO ] 2019-11-18 13:16:17.902 [main] WelcomePageTest - Closed the browser successfully

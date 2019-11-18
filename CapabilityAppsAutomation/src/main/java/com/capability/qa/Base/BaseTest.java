@@ -4,8 +4,7 @@ import java.io.FileInputStream;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -14,10 +13,9 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 //import org.openqa.selenium.support.events.WebDriverEventListener;
 
 import com.capability.qa.Util.WebEventListener;
-import com.capability.qa.testcases.WelcomePageTest;
 
 public class BaseTest {
-	static Logger logger = LogManager.getFormatterLogger(BaseTest.class);
+	static Logger logger = Logger.getLogger(BaseTest.class);
 	public static Properties prob;
 	public static WebDriver driver;
 	public  static EventFiringWebDriver e_driver;

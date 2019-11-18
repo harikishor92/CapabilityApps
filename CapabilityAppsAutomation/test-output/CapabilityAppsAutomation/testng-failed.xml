@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [CapabilityAppsAutomation]">
+  <listeners>
+    <listener class-name="com.capability.qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="CapabilityAppsTestReport(failed)">
+    <classes>
+      <class name="com.capability.qa.testcases.Dev2TopicPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="dev2TopicPageLOGOTextTest"/>
+        </methods>
+      </class> <!-- com.capability.qa.testcases.Dev2TopicPageTest -->
+    </classes>
+  </test> <!-- CapabilityAppsTestReport(failed) -->
+</suite> <!-- Failed suite [CapabilityAppsAutomation] -->

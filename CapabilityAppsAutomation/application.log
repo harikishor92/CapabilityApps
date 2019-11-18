@@ -1,10 +1,132 @@
-2019-11-15 18:11:32,331 DEBUG [main] cache:44 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-2019-11-15 18:11:32,337 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-2019-11-15 18:11:32,340 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2019-11-15 18:11:32,341 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2019-11-15 18:11:32,342 DEBUG [main] cache:44 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Lenovo/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-2019-11-15 18:11:32,648 DEBUG [main] cache:44 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-2019-11-15 18:11:32,649 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-2019-11-15 18:11:32,649 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2019-11-15 18:11:32,650 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2019-11-15 18:11:32,650 DEBUG [main] cache:44 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Lenovo/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-18 14:52:28,179  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:52:28,182  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:52:28,200  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:52:28,201  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:52:28,212  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:52:28,213  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:52:28,219  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:52:28,219  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:52:28,260  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-18 14:52:34,346  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:52:34,346  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:52:43,286  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-18 14:52:43,301  INFO [main] WelcomePageTest:35 - Welcome page launched successfully
+2019-11-18 14:52:43,302  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:52:43,302  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:52:43,326  INFO [main] WelcomePageTest:62 - Start executing the test case
+2019-11-18 14:52:43,408  INFO [main] WelcomePageTest:66 - Test case execution completed
+2019-11-18 14:52:44,073  INFO [main] WelcomePageTest:77 - Closed the browser successfully
+2019-11-18 14:52:44,075  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-18 14:52:49,442  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:52:49,444  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:52:57,928  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-18 14:52:57,954  INFO [main] WelcomePageTest:35 - Welcome page launched successfully
+2019-11-18 14:52:57,954  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:52:57,955  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:52:57,958  INFO [main] WelcomePageTest:52 - Start executing the test case
+2019-11-18 14:52:57,967  INFO [main] WelcomePageTest:56 - Test case execution completed
+2019-11-18 14:52:58,618  INFO [main] WelcomePageTest:77 - Closed the browser successfully
+2019-11-18 14:52:58,624  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-18 14:53:03,859  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:03,859  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:12,807  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-18 14:53:12,815  INFO [main] LoginPageTest:35 - Welcome page launched successfully
+2019-11-18 14:53:12,815  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:12,816  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:13,026  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:13,027  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:13,030  INFO [main] LoginPageTest:38 - Login page launched successfully
+2019-11-18 14:53:13,030  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:13,031  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:13,034  INFO [main] LoginPageTest:53 - Start executing the test case
+2019-11-18 14:53:13,083  INFO [main] LoginPageTest:57 - Test case execution completed
+2019-11-18 14:53:13,739  INFO [main] LoginPageTest:89 - Closed the browser successfully
+2019-11-18 14:53:13,739  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-18 14:53:19,045  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:19,047  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:28,000  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-18 14:53:28,008  INFO [main] LoginPageTest:35 - Welcome page launched successfully
+2019-11-18 14:53:28,008  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:28,009  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:28,157  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:28,158  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:28,158  INFO [main] LoginPageTest:38 - Login page launched successfully
+2019-11-18 14:53:28,158  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:28,159  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:28,161  INFO [main] LoginPageTest:65 - Start executing the test case
+2019-11-18 14:53:28,404  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:28,404  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:28,405  INFO [main] LoginPageTest:69 - Test case execution completed
+2019-11-18 14:53:29,059  INFO [main] LoginPageTest:89 - Closed the browser successfully
+2019-11-18 14:53:29,280  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-18 14:53:34,443  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:34,444  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:43,433  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-18 14:53:43,442  INFO [main] LoginPageTest:35 - Welcome page launched successfully
+2019-11-18 14:53:43,442  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:43,443  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:43,651  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:43,652  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:43,653  INFO [main] LoginPageTest:38 - Login page launched successfully
+2019-11-18 14:53:43,654  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:43,654  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:43,657  INFO [main] LoginPageTest:77 - Start executing the test case
+2019-11-18 14:53:43,948  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:43,948  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:43,949  INFO [main] LoginPageTest:81 - Test case execution completed
+2019-11-18 14:53:44,607  INFO [main] LoginPageTest:89 - Closed the browser successfully
+2019-11-18 14:53:44,610  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-18 14:53:49,865  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:49,865  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:58,194  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-18 14:53:58,210  INFO [main] DashBoardPageTest:34 - Welcome page launched successfully
+2019-11-18 14:53:58,210  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:58,212  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:58,374  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:58,375  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:58,376  INFO [main] DashBoardPageTest:37 - Login page launched successfully
+2019-11-18 14:53:58,376  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:58,377  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:58,614  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:58,615  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:58,615  INFO [main] DashBoardPageTest:40 - DashBoard page launched successfully
+2019-11-18 14:53:58,615  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:53:58,616  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:53:58,617  INFO [main] DashBoardPageTest:55 - Start executing the test case
+2019-11-18 14:54:02,023  INFO [main] DashBoardPageTest:59 - Test case execution completed
+2019-11-18 14:54:02,663  INFO [main] DashBoardPageTest:67 - Closed the browser successfully
+2019-11-18 14:54:02,664  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-18 14:54:07,915  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:54:07,916  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:54:16,305  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-18 14:54:16,314  INFO [main] JavaTopicPageTest:35 - Welcome page has launched successfully
+2019-11-18 14:54:16,315  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:54:16,315  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:54:16,574  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:54:16,575  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:54:16,576  INFO [main] JavaTopicPageTest:38 - Login Page has launched successfully
+2019-11-18 14:54:16,576  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:54:16,576  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:54:16,804  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:54:16,804  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:54:16,804  INFO [main] JavaTopicPageTest:41 - DashBoard Page has launched successfully
+2019-11-18 14:54:16,805  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:54:16,805  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:54:20,722  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:54:20,722  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:54:20,725  INFO [main] JavaTopicPageTest:60 - Start executing the test case
+2019-11-18 14:54:20,725  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-18 14:54:20,725  INFO [main] BaseTest:35 - Read the config file
+2019-11-18 14:54:20,768  INFO [main] JavaTopicPageTest:64 - Java Topic Page has launched successfully
+2019-11-18 14:54:20,768  INFO [main] JavaTopicPageTest:65 - Test case execution completed
+2019-11-18 14:54:20,898  INFO [main] JavaTopicPageTest:73 - Closed the browser successfully
+2019-11-18 14:54:21,204 DEBUG [main] cache:44 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-11-18 14:54:21,205 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-11-18 14:54:21,207 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-18 14:54:21,208 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-18 14:54:21,209 DEBUG [main] cache:44 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Lenovo/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-18 14:54:21,429 DEBUG [main] cache:44 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-11-18 14:54:21,430 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-11-18 14:54:21,430 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-18 14:54:21,431 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-18 14:54:21,431 DEBUG [main] cache:44 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Lenovo/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

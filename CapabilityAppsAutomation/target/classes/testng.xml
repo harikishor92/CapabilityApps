@@ -11,7 +11,7 @@
 			<class name="com.capability.qa.testcases.WelcomePageTest" />
 			<class name="com.capability.qa.testcases.LoginPageTest" />
 			<class name="com.capability.qa.testcases.DashBoardPageTest" />
-			<class name="com.capability.qa.testcases.Dev2TopicPageTest" />
+			<class name="com.capability.qa.testcases.JavaTopicPageTest" />
 		</classes>
 	</test> <!-- CapabilityAppsTestReport -->
 </suite> <!-- CapabilityAppsAutomation -->

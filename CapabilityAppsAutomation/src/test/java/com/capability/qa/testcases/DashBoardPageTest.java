@@ -1,7 +1,6 @@
 package com.capability.qa.testcases;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -15,7 +14,7 @@ import com.capability.qa.Pages.WelcomePage;
 import com.capability.qa.Util.TestUtil;
 
 public class DashBoardPageTest extends BaseTest{
-Logger logger = LogManager.getFormatterLogger(DashBoardPageTest.class);
+Logger logger = Logger.getLogger(DashBoardPageTest.class);
 	
 	String sheetName = "";
 	WelcomePage wlcm;

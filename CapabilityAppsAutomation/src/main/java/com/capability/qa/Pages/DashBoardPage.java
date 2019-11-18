@@ -35,11 +35,6 @@ public class DashBoardPage extends BaseTest{
 		return dev2Topicbtn.isDisplayed();
 	}
 	
-	public Dev2TopicPage clickOnDev2TopicTab()
-	{
-		dev2Topicbtn.click();
-		return new Dev2TopicPage();
-	}
 	
 	public JavaTopicPage clickOnJavaTopicTab()
 	{

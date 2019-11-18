@@ -8,19 +8,18 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
+import org.testng.log4testng.Logger;
 
 import com.capability.qa.Base.BaseTest;
 
 public class TestUtil extends BaseTest{
-	static Logger logger = LogManager.getFormatterLogger(TestUtil.class);
+	static Logger logger = Logger.getLogger(TestUtil.class);
 	static String TESTDATA_SHEET_PATH = "./src/main/java/com/capability/qa/Testdata/CapabilityApp_testData.xls";
 	static Workbook book;
 	static Sheet sheet;

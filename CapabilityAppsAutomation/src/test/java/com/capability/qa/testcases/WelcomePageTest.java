@@ -2,8 +2,8 @@ package com.capability.qa.testcases;
 
 
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+
+import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -17,7 +17,7 @@ import com.capability.qa.Util.TestUtil;
 
 public class WelcomePageTest extends BaseTest{
 	
-	Logger logger = LogManager.getFormatterLogger(WelcomePageTest.class);
+	Logger logger = Logger.getLogger(WelcomePageTest.class);
 	
 	String sheetName = "";
 	WelcomePage wlcm;
