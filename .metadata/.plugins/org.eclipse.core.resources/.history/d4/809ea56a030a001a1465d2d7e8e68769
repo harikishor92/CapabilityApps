@@ -1,0 +1,11 @@
+package ObjectRepository;
+
+public class OR {
+	
+	// Add Questions
+	public  final static String selectTopic = "(//select[@class = 'form-control'])[1]";
+	public  static String selectComplexcity = "(//select[@class = 'form-control'])[2]";
+	public  static String selectType = "";
+	public  static String selectChapter = "";
+
+}

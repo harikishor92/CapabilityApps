@@ -1,0 +1,84 @@
+package com.capability.qa.Pages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.Select;
+
+import com.capability.qa.Base.BaseTest;
+import com.capability.qa.ObjectRepository.OR;
+import com.capability.qa.Util.TestUtil;
+
+
+
+public class AddQuestionsPage extends BaseTest{
+	//drop downs
+	@FindBy(xpath = "(//select[@class = 'form-control'])[1]")
+	private WebElement selectTopic;
+	
+	@FindBy(xpath = "(//select[@class = 'form-control'])[2]")
+	private WebElement selectComplexcity;
+	
+	@FindBy(xpath = "(//select[@class = 'form-control'])[3]")
+	//@FindBy(xpath = OR.selectType)
+	private WebElement selectType;
+	
+	@FindBy(xpath = "(//select[@class = 'form-control'])[4]")
+	//@FindBy(xpath = OR.selectChapter)
+	private WebElement selectChapter;
+	
+	//write text
+	@FindBy(xpath = "//textarea[@id='text']")
+	private WebElement writeQuestion;
+	
+	@FindBy(xpath = "(//input[@class = 'form-control'])[1]")
+	private WebElement writeOptionA;
+	
+	@FindBy(xpath = "(//input[@class = 'form-control'])[2]")
+	private WebElement writeOptionB;
+	
+	@FindBy(xpath = "(//input[@class = 'form-control'])[3]")
+	private WebElement writeOptionC;
+	
+	@FindBy(xpath = "(//input[@class = 'form-control'])[4]")
+	private WebElement writeOptionD;
+	
+	//Select Answar for single select radio button
+	@FindBy(xpath = "(//input[@name = 'selectedRadio'])[1]")
+	private WebElement selectOptionA;
+	@FindBy(xpath = "(//input[@name = 'selectedRadio'])[2]")
+	private WebElement selectOptionB;
+	@FindBy(xpath = "(//input[@name = 'selectedRadio'])[3]")
+	private WebElement selectOptionC;
+	@FindBy(xpath = "(//input[@name = 'selectedRadio'])[4]")
+	private WebElement selectOptionD;
+	
+	
+	public AddQuestionsPage()
+	{
+		PageFactory.initElements(driver, this);
+	}
+	
+	
+	public void addQuestions()
+	{
+		TestUtil.selectDropDown(selectTopic, "JAVA");
+		TestUtil.selectDropDown(selectComplexcity, "Simple");
+		TestUtil.selectDropDown(selectType, "Single Choice Question");
+		TestUtil.selectDropDown(selectChapter, "Inheritance");
+		TestUtil.passValues(writeQuestion, "What is Java ??");
+		TestUtil.passValues(writeOptionA, "It's a programming language. ");
+		TestUtil.passValues(writeOptionB, "It's not a programming language.");
+		TestUtil.passValues(writeOptionC, "It's a method.");
+		TestUtil.passValues(writeOptionD, "It's a query.");
+	}
+	
+	public void rbutton()
+	{
+		selectOptionA.click();
+	}
+	
+	
+	
+	
+}

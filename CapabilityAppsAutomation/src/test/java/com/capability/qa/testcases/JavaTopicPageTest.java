@@ -41,6 +41,8 @@ public class JavaTopicPageTest extends BaseTest{
 		logger.info("DashBoard Page has launched successfully");
 		dashBaord = new DashBoardPage();
 		dashBaord.clickOnJavaTopicTab();
+		logger.info("Clicked on java tab successfully");
+		jtp = new JavaTopicPage();
 		
 	}
 	
@@ -58,7 +60,6 @@ public class JavaTopicPageTest extends BaseTest{
 	{
 		
 		logger.info("Start executing the test case");
-		jtp = new JavaTopicPage();
 		jtp.verifyJavaPage();
 		Assert.assertTrue(true);
 		logger.info("Java Topic Page has launched successfully");

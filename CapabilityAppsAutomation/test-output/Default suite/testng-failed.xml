@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.capability.qa.testcases.JavaTopicPageTest">
+      <class name="com.capability.qa.testcases.AddQuestionsPageTest">
         <methods>
-          <include name="javaTopicPageTest"/>
+          <include name="selectdd"/>
           <include name="setUp"/>
-          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.capability.qa.testcases.JavaTopicPageTest -->
+      </class> <!-- com.capability.qa.testcases.AddQuestionsPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
