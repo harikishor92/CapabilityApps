@@ -61,24 +61,33 @@ Logger logger = Logger.getLogger(JavaTopicPageTest.class);
 		
 	}
 	
-	@Test
-	public void selectdd()
+	@Test(dataProvider = "getCapabilityTestData")
+	public void selectdd(String selectTopic,String complexcity,String type, String chapter,
+			String question,String optionA,String optionB, String optionC, String optionD,
+			String A,String B, String C, String D)
 	{
 		logger.info("Start executing the test case");
+		addQues.selectTopicDropDown(selectTopic);
+		addQues.selectComplexicityDropDown(complexcity);
+		addQues.selectTypeDropDown(type);
+		addQues.selectChapterDropDown(chapter);
+		addQues.writeQuestion(question);
+		addQues.writeOptionA(optionA);
+		addQues.writeOptionB(optionB);
+		addQues.writeOptionC(optionC);
+		addQues.writeOptionD(optionD);
+		System.out.println(type);
+		addQues.AnswarOptions(type, A, B, C, D);
+		//addQues.clickOnSaveButton();
 		
-		addQues.addQuestions();
-		
-		addQues.rbutton();
-		
-		logger.info("add Questions Page has launched successfully");
 		logger.info("Test case execution completed");
 	}
 	
-	/*@AfterMethod
+	@AfterMethod
 	public void tearDown()
 	{
 		driver.close();
 		logger.info("Closed the browser successfully");
-	}*/
+	}
 
 }

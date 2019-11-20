@@ -6,6 +6,78 @@
     <language>en</language>
      <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Wild Web Developer: HTML, CSS, JavaScript, TypeScript,  Node.js, Angular, JSON, YAML (+Kubernetes), XML</title>
+    <link>http://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wild-web-developer-marketplace-logo.png&quot; width=&quot;110&quot; height=&quot;78&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-11-19 14:55&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Wild%20Web%20Developers%20Contributors%22&quot;&gt;Eclipse Wild Web Developers Contributors&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-13 10:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mistria/listings&quot; title=&quot;Mickael Istria&quot;&gt;Mickael Istria&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Edit HTML, CSS, JavaScript, TypeScript, JSON (+schema), XML (+schema), YAML (+schema)&lt;/strong&gt;, with specialized support for &lt;strong&gt;Angular, React and Kubernetes&lt;/strong&gt; and &lt;strong&gt;debug Node.js and HTML+JS web-apps &lt;/strong&gt;simply and efficiently in the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;To see it in action, open the desired file with the &lt;em&gt;Generic Editor&lt;/em&gt; that&#039;s included by default in the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;Supported file formats for edition:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;CSS, SCSS, SASS, LESS&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;JavaScript (EcmaScript 2018 - 9th edition)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;TypeScript 3.3&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;JSON&lt;/em&gt; and &lt;em&gt;JSONC&lt;/em&gt; (including schema support)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;YAML&lt;/em&gt; (including schema support)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;XML&lt;/em&gt; (including schema support),&lt;em&gt; XSL, XSD, DTD&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported frameworks (file specialization) for edition:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;Angular&lt;/em&gt; (template assistance in HTML and TS files)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kubernetes&lt;/em&gt; (schema built-in when editing YAML)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;React&lt;/em&gt; (JSX, TSX, embedded HTML)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported feature for edition are&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Validation (diagnostics, markers)&lt;/li&gt;
+&lt;li&gt;Code Completion&lt;/li&gt;
+&lt;li&gt;Hover&lt;/li&gt;
+&lt;li&gt;Outline&lt;/li&gt;
+&lt;li&gt;Rename refactoring&lt;/li&gt;
+&lt;li&gt;Jump to declaration&lt;/li&gt;
+&lt;li&gt;Find references&lt;/li&gt;
+&lt;li&gt;Color preview&lt;/li&gt;
+&lt;li&gt;... and other features part of the Language Server Protocol&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported debugging target&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;Node.js&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Firefox&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Chromium&lt;/em&gt; and &lt;em&gt;Chrome&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 13 Apr 2017 14:52:25 +0000</pubDate>
+ <dc:creator>mistria</dc:creator>
+ <guid isPermaLink="false">3394048 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml#comments</comments>
+  </item>
+  <item>
+    <title>Dart Plugin for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/dart-plugin-eclipse-0</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Group%20%283%29.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-11-19 04:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Dartboard%20Contributors%22&quot;&gt;Eclipse Dartboard Contributors&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-07-09 04:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jhungershausen/listings&quot; title=&quot;Jonas Hungershausen&quot;&gt;Jonas Hungershausen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Dartboard&lt;/strong&gt; is an &lt;strong&gt;Eclipse&lt;/strong&gt; plugin for &lt;strong&gt;Dart&lt;/strong&gt; development. It allows to easily edit &lt;strong&gt;Dart&lt;/strong&gt; source code with analysis as-you-type and syntax highlighting, execution of &lt;strong&gt;Dart&lt;/strong&gt; programs directly from the IDE, &lt;strong&gt;Pub&lt;/strong&gt; dependency management and all known features of the &lt;strong&gt;Eclipse IDE&lt;/strong&gt; in standard fashion.&lt;/p&gt;
+&lt;p&gt;Under the hood it uses the &lt;em&gt;dart &lt;/em&gt;command line tools and provides classic &lt;strong&gt;Eclipse&lt;/strong&gt; &lt;strong&gt;wizards&lt;/strong&gt; and workflows for each frequently used command.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you encounter any issues during usage or installation of the plugin, please report them to&lt;/em&gt; &lt;strong&gt;&lt;a href=&quot;https://github.com/eclipse/dartboard/issues&quot; rel=&quot;nofollow&quot;&gt;https://github.com/eclipse/dartboard/issues&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Dart and the related logo and Flutter and the related logo are trademarks of Google LLC. We are not endorsed by or affiliated with Google LLC.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 09 Jul 2019 08:59:49 +0000</pubDate>
+ <dc:creator>jhungershausen</dc:creator>
+ <guid isPermaLink="false">4711459 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/dart-plugin-eclipse-0#comments</comments>
+  </item>
+  <item>
+    <title>WindowBuilder</title>
+    <link>http://marketplace.eclipse.org/content/windowbuilder</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-11-19 04:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Foundation%22&quot;&gt;Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2016-09-22 09:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/hvoormann/listings&quot; title=&quot;Holger Voormann&quot;&gt;Holger Voormann&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;WindowBuilder&lt;/strong&gt; is composed of &lt;strong&gt;SWT Designer&lt;/strong&gt; and &lt;strong&gt;Swing Designer&lt;/strong&gt; and makes it very easy to create Java GUI applications without spending a lot of time writing code. Use the &lt;strong&gt;WYSIWYG visual designer&lt;/strong&gt; and layout tools to create simple forms to complex windows; the Java code will be generated for you. Easily add controls using drag-and-drop, add event handlers to your controls, change various properties of controls using a property editor, internationalize your app and much more.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 22 Sep 2016 13:02:40 +0000</pubDate>
+ <dc:creator>hvoormann</dc:creator>
+ <guid isPermaLink="false">3085446 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/windowbuilder#comments</comments>
+  </item>
+  <item>
+    <title>Protector4J</title>
+    <link>http://marketplace.eclipse.org/content/protector4j</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/android-chrome-512x512.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-11-19 03:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22VLINX%20Software%22&quot;&gt;VLINX Software&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-27 05:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ylin0gf/listings&quot; title=&quot;Yongfa Lin&quot;&gt;Yongfa Lin&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A new solution to Protect Java App from Decompilation by encrypting the classes.&lt;/p&gt;
+&lt;p&gt;Support JavaSE App, Tomcat Web App, Spring Boot App, GlassFish App, Payara App and Java 8, Java 11 Environment.&lt;/p&gt;
+&lt;p&gt;Guide of installation: &lt;a href=&quot;https://doc.protector4j.com/eclipse-plugin&quot; rel=&quot;nofollow&quot;&gt;https://doc.protector4j.com/eclipse-plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Documention: &lt;a href=&quot;https://doc.protector4j.com/get-started&quot; rel=&quot;nofollow&quot;&gt;https://doc.protector4j.com/get-started&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For further information: &lt;a href=&quot;https://protector4j.com&quot; rel=&quot;nofollow&quot;&gt;https://protector4j.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 27 Jun 2017 09:41:40 +0000</pubDate>
+ <dc:creator>ylin0gf</dc:creator>
+ <guid isPermaLink="false">3513853 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/protector4j#comments</comments>
+  </item>
+  <item>
     <title>Kotlin Plugin for Eclipse</title>
     <link>http://marketplace.eclipse.org/content/kotlin-plugin-eclipse</link>
     <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/em_size.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-11-18 15:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22JetBrains%22&quot;&gt;JetBrains&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2015-03-25 19:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jjetbrains/listings&quot; title=&quot;JB JetBrains&quot;&gt;JB JetBrains&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Kotlin Plugin for Eclipse helps you write, run, debug and test programs in &lt;a href=&quot;http://kotlinlang.org/&quot; rel=&quot;nofollow&quot;&gt;Kotlin language&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
@@ -125,81 +197,6 @@ The service is started as two processes with name &quot;aix-node(.exe)&
  <dc:creator>atregnaghi</dc:creator>
  <guid isPermaLink="false">3536358 at http://marketplace.eclipse.org</guid>
  <comments>http://marketplace.eclipse.org/content/bash-editor#comments</comments>
-  </item>
-  <item>
-    <title>Ruby Solargraph</title>
-    <link>http://marketplace.eclipse.org/content/ruby-solargraph</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo_42.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pybigourdan/listings&quot; title=&quot;Pierre-Yves B.&quot;&gt;Pierre-Yves B.&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2019-11-16 09:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-04-26 16:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Modern Ruby plugin combining the powers of the Eclipse IDE and the Solargraph language server!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Currently supported features:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Rich syntax highlighting and code folding&lt;/li&gt;
-&lt;li&gt;Code completion&lt;/li&gt;
-&lt;li&gt;Documentation hovers&lt;/li&gt;
-&lt;li&gt;Rename refactoring&lt;/li&gt;
-&lt;li&gt;Find references&lt;/li&gt;
-&lt;li&gt;Jump to declaration&lt;/li&gt;
-&lt;li&gt;Code outline&lt;/li&gt;
-&lt;li&gt;Run files as Ruby scripts with customisable launch configurations&lt;/li&gt;
-&lt;li&gt;Run &lt;em&gt;bundle install&lt;/em&gt; on Gemfiles and &lt;em&gt;gem build&lt;/em&gt; on gemspec files&lt;/li&gt;
-&lt;li&gt;Various other features part of the Language Server Protocol&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Tips and tricks:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;
-&lt;p&gt;To improve code completion and intellisense, it is recommended to generate YARD documentation for your gems (run &lt;em&gt;yard gems&lt;/em&gt; in a terminal).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You can fine-tune Solargraph&#039;s behaviour on a per-project basis by &lt;a href=&quot;https://solargraph.org/guides/configuration&quot; rel=&quot;nofollow&quot;&gt;creating a .solargraph.yml configuration file&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Support the project by &lt;strong&gt;starring the plugin&lt;/strong&gt; on the marketplace and &lt;a href=&quot;https://github.com/PyvesB/eclipse-solargraph&quot; rel=&quot;nofollow&quot;&gt;on GitHub&lt;/a&gt;!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Fri, 26 Apr 2019 20:11:21 +0000</pubDate>
- <dc:creator>pybigourdan</dc:creator>
- <guid isPermaLink="false">4611382 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/ruby-solargraph#comments</comments>
-  </item>
-  <item>
-    <title>Notepad4e</title>
-    <link>http://marketplace.eclipse.org/content/notepad4e</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/note.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pybigourdan/listings&quot; title=&quot;Pierre-Yves B.&quot;&gt;Pierre-Yves B.&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2019-11-16 06:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2016-10-08 08:14&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Create highly customisable notes in Eclipse and never lose track of your thoughts, ideas or code snippets!&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Create as many notes as you like in a dedicated Eclipse view.&lt;/li&gt;
-&lt;li&gt;Modify the text style (font, color, bold, italic, underlined, strikeout, etc.).&lt;/li&gt;
-&lt;li&gt;Customise the appearance and functionality of the plugin via its preference page.&lt;/li&gt;
-&lt;li&gt;Create lists of text elements.&lt;/li&gt;
-&lt;li&gt;Automatically save the contents of your notes to a default or custom location.&lt;/li&gt;
-&lt;li&gt;Use editable shortcuts to boost your productivity.&lt;/li&gt;
-&lt;li&gt;Export notes as text files.&lt;/li&gt;
-&lt;li&gt;Lightweight and user-friendly interface.&lt;/li&gt;
-&lt;li&gt;Source code fully available.&lt;/li&gt;
-&lt;li&gt;More to discover and to come in future updates!&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Notepad4e is free, without ads and open-source. Support the project by starring it on the marketplace and/or on &lt;strong&gt;&lt;a href=&quot;https://github.com/PyvesB/Notepad4e&quot; rel=&quot;nofollow&quot;&gt;GitHub&lt;/a&gt;&lt;/strong&gt;!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Sat, 08 Oct 2016 12:14:08 +0000</pubDate>
- <dc:creator>pybigourdan</dc:creator>
- <guid isPermaLink="false">3108021 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/notepad4e#comments</comments>
-  </item>
-  <item>
-    <title>Groovy Development Tools</title>
-    <link>http://marketplace.eclipse.org/content/groovy-development-tools</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/groovy-logo-medium.png&quot; width=&quot;110&quot; height=&quot;55&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-11-15 15:58&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2012-07-04 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aclement/listings&quot; title=&quot;Andrew Clement&quot;&gt;Andrew Clement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Groovy Development Tools (GDT) provides Eclipse and Maven (m2e) support for the &lt;a href=&quot;http://groovy-lang.org&quot; rel=&quot;nofollow&quot;&gt;Apache Groovy&lt;/a&gt; programming language. GDT adds full-featured IDE support including editors, wizards, content assist, debugging, refactoring and searching.&lt;/p&gt;
-&lt;p&gt;The GDT requires the &lt;a href=&quot;https://marketplace.eclipse.org/content/eclipse-java-development-tools-0&quot; rel=&quot;nofollow&quot;&gt;Eclipse Java Development Tools&lt;/a&gt; (JDT) as it builds upon Java/JVM support, including Java interoperability (bi-directional dependencies via joint compilation). If your Eclipse flavor does not include JDT, you must install it first.&lt;/p&gt;
-&lt;p&gt;GDT does not provide any direct support for &lt;a href=&quot;http://grails.org&quot; rel=&quot;nofollow&quot;&gt;Grails&lt;/a&gt;. If you want Grails tooling, then please consider &lt;a href=&quot;https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse&quot; rel=&quot;nofollow&quot;&gt;Groovy-Grails Tools Suite&lt;/a&gt; or &lt;a href=&quot;https://github.com/spring-projects/grails-ide&quot; rel=&quot;nofollow&quot;&gt;spring-projects/grails-ide&lt;/a&gt; for your Grails projects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Wed, 04 Jul 2012 17:05:41 +0000</pubDate>
- <dc:creator>aclement</dc:creator>
- <guid isPermaLink="false">321859 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/groovy-development-tools#comments</comments>
-  </item>
-  <item>
-    <title>Synopsys Code Sight</title>
-    <link>http://marketplace.eclipse.org/content/synopsys-code-sight</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/snps-logo-sts-purple-grey.jpg&quot; width=&quot;110&quot; height=&quot;35&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-11-15 10:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Synopsys%20Inc%22&quot;&gt;Synopsys Inc&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-02-15 16:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/scodesight/listings&quot; title=&quot;Synopsys Code Sight&quot;&gt;Synopsys Code Sight&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Synopsys® Code Sight™ plug-in helps identify quality bugs and security vulnerabilities in your software.&lt;/p&gt;
-&lt;p&gt;Using the Coverity Static Analysis tool, it automatically scans your code for these types of issues and highlights them in the development-environment editor as you code.&lt;/p&gt;
-&lt;p&gt;Connecting to a Synopsys server improves scan performance and enables your entire development team to collaborate on writing better code faster.&lt;/p&gt;
-&lt;p&gt;In the future, the plug-in will support our other tools including Black Duck for SCA &amp;amp; Seeker for IAST.&lt;/p&gt;
-&lt;p&gt;See what the plug-in looks like in our interactive demo: &lt;a href=&quot;http://ior.ad/6wOM&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Code Sight Quick Tour&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A functional Coverity license is required to run Code Sight. Please check with your local administrator or contact  &lt;strong&gt;&lt;a href=&quot;mailto:sales@synopsys.com&quot; rel=&quot;nofollow&quot;&gt;sales@synopsys.com&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Documentation for Installation, Getting Started, etc. can be found here: &lt;a href=&quot;https://community.synopsys.com/s/code-sight-hub&quot; rel=&quot;nofollow&quot;&gt;https://community.synopsys.com/s/code-sight-hub&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Please &lt;a href=&quot;https://www.synopsys.com/content/dam/synopsys/sig-assets/legal/eulm/2019-2/eEULM-(all%20regions)-v2019-2-final.pdf&quot; rel=&quot;nofollow&quot;&gt;click here&lt;/a&gt; to read the Synopsys End User License Agreement.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Fri, 15 Feb 2019 21:30:35 +0000</pubDate>
- <dc:creator>scodesight</dc:creator>
- <guid isPermaLink="false">4503269 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/synopsys-code-sight#comments</comments>
   </item>
   </channel>
 </rss>

@@ -9,6 +9,231 @@
 	<atom:link rel="self" href="http://planeteclipse.org/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>Christopher Guindon: Modernizing our GitHub Sync Toolset</title>
+	<guid isPermaLink="true">https://www.chrisguindon.com/post/modernizing-our-github-sync-script/</guid>
+	<link>https://www.chrisguindon.com/post/modernizing-our-github-sync-script/</link>
+	<description>&lt;p&gt;I am happy to announce that my team is ready to deploy a new version of our &lt;a href=&quot;https://github.com/EclipseFdn/eclipsefdn-github-sync&quot;&gt;GitHub Sync Toolset&lt;/a&gt; on November 26, 2019 from 10:00 to 11:00 am EST.&lt;/p&gt;
+&lt;p&gt;We are not expecting any disruption of service but it’s possible that some committers may lose write access to their Eclipse project GitHub repositories during this 1 hour maintenance window.&lt;/p&gt;
+&lt;p&gt;This toolset is responsible for syncronizing Eclipse committers accross all our GitHub repositories and on top of that, this new release will start syncronizing contributors.&lt;/p&gt;
+&lt;p&gt;In this context, a contributor is a GitHub user with read access to the project GitHub repositories. This new feature will allow committers to assign issues to contributors who currently don’t have write access to the repository. This feature was requested in 2015 via &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=483563&quot;&gt;Bug 483563&lt;/a&gt; - Allow assignment of GitHub issues to contributors.&lt;/p&gt;
+&lt;p&gt;Eclipse Committers are reponsible for maintaining a list of GitHub contributors from their &lt;a href=&quot;https://projects.eclipse.org/&quot;&gt;project&lt;/a&gt; page on the Eclipse Project Management Infrastructure (PMI).&lt;/p&gt;
+&lt;p&gt;To become an Eclipse contributor on a GitHub for a project, please make sure to tell us your &lt;strong&gt;GitHub Username&lt;/strong&gt; in your &lt;a href=&quot;https://accounts.eclipse.org/user/edit&quot;&gt;Eclipse account&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Tue, 19 Nov 2019 20:10:46 +0000</pubDate>
+</item>
+<item>
+	<title>Tanja Obradovic: Jakarta EE Community Update November 2019</title>
+	<guid isPermaLink="false">6745 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/tanja-obradovic/jakarta-ee-community-update-november-2019</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Now that Jakarta EE 8 has been available for a couple of months, I want to share news about some of the great committee work that’s been happening. I also want to tell you about our latest Jakarta EE-compatible product, and make sure you have links to the recordings of our Jakarta EE community calls and presentations.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; Due to the timing of this update, I’ve included news about activities in the first half of November as well as October.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Another Jakarta EE-Compatible Product&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;I’m very pleased to tell you that Payara Server is now fully certified as a&lt;a href=&quot;https://jakarta.ee/compatibility/&quot;&gt; Jakarta EE 8-compatible implementation&lt;/a&gt;. If you’re not familiar with Payara Server, take a few minutes to learn more about this&lt;a href=&quot;https://www.payara.fish/software/downloads/&quot;&gt; innovative, cloud native application server&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; The Payara team told us they found the compatibility process smooth and easy. To learn more about the benefits of being certified as a Jakarta EE-compatible product and the process to get listed,&lt;a href=&quot;https://jakarta.ee/compatibility/get_listed/&quot;&gt; click here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Jakarta EE 8 Feedback Will Drive Improvements&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;The Jakarta EE Steering Committee started a community retrospective on the Jakarta EE 8 release, sharing&lt;a href=&quot;https://docs.google.com/document/d/1E7uHGyvjDH0fimxxdHwHtC6iZIC9wwEBfWLRilVQs80/edit&quot;&gt; this document&lt;/a&gt; to drive the process.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;You’ll also see retrospectives from each of the other Jakarta EE Working Group committees as they look to gather community input on improvements for the next release. Once all of the input is collected, we’ll summarize and publish the findings.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Jakarta EE 9 Delivery Plan to Be Ready December 9&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Jakarta EE 9 planning is underway, and the Steering Committee has published a resolution requesting Jakarta EE Platform Project leaders to deliver a Jakarta EE 9 Delivery Plan, including a release date, to the Steering Committee no later than December 9, 2019.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; According to the resolution, the Jakarta EE 9 Delivery Plan should:&lt;/p&gt;
+
+&lt;ul dir=&quot;ltr&quot;&gt;
+	&lt;li&gt;Implement the “big bang”&lt;/li&gt;
+	&lt;li&gt;Include an explicit means to identify and enable specifications that are unnecessary or unwanted to be deprecated or removed &lt;/li&gt;
+	&lt;li&gt;Move all remaining specification APIs to the Jakarta namespace&lt;/li&gt;
+	&lt;li&gt;Add no new specifications, apart from those pruned from Java SE 8 where appropriate, unless those specifications will not impact the target delivery date&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;The resolution is now with the Jakarta EE Platform Project team, which is actively looking into the Steering Committee requests. The Platform Project team will put a higher priority on meeting the Steering Committee resolution requests as soon as possible rather than adding more functionality to the release.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; You can read the minutes of the Jakarta EE Platform Project team meetings&lt;a href=&quot;https://eclipse-ee4j.github.io/jakartaee-platform/&quot;&gt; here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;New Chair for the Jakarta EE Specification Committee&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;We welcome Paul Buck as the non-voting Chair of the Jakarta EE Specification Committee. Paul is Vice President of Community Development at the Eclipse Foundation, and was unanimously elected to his new role.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Jakarta EE 8 Restructuring Continues&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;In the push to complete Jakarta EE 8, a number of planned improvements were deferred. Here’s a brief summary of the improvements the Jakarta EE Specification Committee is currently discussing:&lt;/p&gt;
+
+&lt;ul dir=&quot;ltr&quot;&gt;
+	&lt;li&gt;Updating project ids and technical namespaces. For example:
+	&lt;ul&gt;
+		&lt;li&gt;ee4j.jms becomes ee4j.messaging&lt;/li&gt;
+		&lt;li&gt;https://github.com/eclipse-ee4j/jms-api becomes https://github.com/eclipse-ee4j/messaging-api&lt;/li&gt;
+		&lt;li&gt;javax.jms becomes jakarta.messaging&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Updating project names. For example:
+	&lt;ul&gt;
+		&lt;li&gt;Jakarta Server Faces becomes Jakarta Faces&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Whether top-level projects should be changed to include both specifications and compatible implementations as subpages&lt;/li&gt;
+	&lt;li&gt;How to address the decision to rename TCK files from “eclipse-” to “jakarta-”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Time to Jakartify More Specifications&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;When Jakarta EE 8 was released, we provided specifications for the Jakarta EE Full Profile and Jakarta EE Web Profile. Now that we’ve acquired the copyright for additional specifications, it’s time for the community to Jakartify them so they can be contributed to Jakarta EE.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;To help you get started:&lt;/p&gt;
+
+&lt;ul dir=&quot;ltr&quot;&gt;
+	&lt;li&gt;The Specification Committee has created a document that explains&lt;a href=&quot;https://github.com/jakartaee/specification-committee/blob/master/steps_javaee_to_jakartaee.adoc&quot;&gt; how to convert Java EE specifications to Jakarta EE&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Ivar Grimstand provided a demo during the monthly community call on October 16. You can&lt;a href=&quot;https://www.youtube.com/watch?v=s8Kwz5_u88Y&amp;amp;list=PLy7t4z5SYNaSY0Um6Vbez3G5Lc2AMaMw7&amp;amp;index=5&quot;&gt; view it here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;And, here’s the list of specifications that are ready for the community to &quot;Jakartify&quot;:&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Annotations&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Enterprise Beans&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Expression Language&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Security&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Server Faces&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Interceptors&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Authorization&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Activation&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Managed Beans&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Deployment&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta XML RPC&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Authentication&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Mail&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta XML Binding&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta RESTful Web Services&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Web Services Metadata&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta XML Web Services&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Connectors&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Persistence&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta JSON Binding&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta JSON Processing&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Debugging Support for Other Languages&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Server Pages&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta Transactions&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;•    Jakarta WebSocket&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;On a related note, the Specification Committee is also working to further define compatibility testing requirements for the full platform and web profile specifications for subsequent releases of&lt;a href=&quot;https://jakarta.ee/compatibility/&quot;&gt; Jakarta EE-compatible products&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Jakarta EE Marketing Plan Nearly Finalized&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;We expect the Jakarta EE 2020 marketing plan and budget to be approved by the end of November.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;The Marketing Committee is also looking to choose a Committee Chair very soon. In the meantime, the Eclipse Foundation will be actively participating in &lt;a href=&quot;https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/&quot;&gt;KubeCon, NA&lt;/a&gt;. If you’re there, be sure to drop by booth S5 to talk to our technical experts and check out the demos on the cloud native Java projects.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Join Community Update Calls&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Every month, the Jakarta EE community holds a Community Call for everyone in the Jakarta EE community. For upcoming dates and connection details, see the&lt;a href=&quot;https://calendar.google.com/calendar/embed?src=eclipse-foundation.org_3281qms6riu4kdf354jn5idon0%40group.calendar.google.com&amp;amp;ctz=America%2FToronto&quot;&gt; Jakarta EE Community Calendar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; We know it’s not always possible to join calls in real time, so here are links to the recordings and presentations:&lt;/p&gt;
+
+&lt;ul dir=&quot;ltr&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLy7t4z5SYNaSY0Um6Vbez3G5Lc2AMaMw7&quot;&gt;The complete playlist&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=H-XifUPIbS8&quot;&gt; October 16th call&lt;/a&gt; and&lt;a href=&quot;https://drive.google.com/drive/u/0/folders/1ANrmkg3nGfQIUC9WqfRvK9zLeyustsIg&quot;&gt; presentation&lt;/a&gt;, featuring Ivar Grimstad demo on &lt;a href=&quot;https://docs.google.com/document/d/1HUp0ftvbPeXJoNE3VnpjygbTnTs6tZLdYs7uxKfN50s/edit&quot;&gt;Steps to Jakartify a Specification document &lt;/a&gt; and Ed Bratt’s Jakarta EE 8 release wrap-up and invitation to add to the&lt;a href=&quot;https://docs.google.com/document/d/1E7uHGyvjDH0fimxxdHwHtC6iZIC9wwEBfWLRilVQs80/edit&quot;&gt; retrospective document&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=clnUiRDfbkI&amp;amp;list=PLy7t4z5SYNaSY0Um6Vbez3G5Lc2AMaMw7&amp;amp;index=1&quot;&gt; November 13 call&lt;/a&gt; and&lt;a href=&quot;https://drive.google.com/drive/u/0/folders/16NZvBw82MiSurZbnR5qhHjnOKTh1TwkI&quot;&gt; presentation&lt;/a&gt;, featuring updates from community members, Arjan Tijms - Jakarta Security and  Markus Karg - Jakarta RESTful Web, about their experiences Jakartifying specifications as well as Steve Millage - Jakarta EE Platform team member on the Jakarta EE 9 release roadmap, and Jakarta EE election results&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;A Look Back at October Events&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;October was another busy month for Jakarta EE and cloud native Java events as we participated in. Beside &lt;a href=&quot;https://www.eclipsecon.org/europe2019&quot;&gt;EclipseCon Europe 2019&lt;/a&gt;, we were present at &lt;a href=&quot;https://2019.trondheimdc.no/&quot;&gt;Trondheim Developer Conference&lt;/a&gt; in Norway, &lt;a href=&quot;https://events19.linuxfoundation.org/events/open-source-summit-europe-2019/&quot;&gt;Open Source Summit EU&lt;/a&gt; in France, &lt;a href=&quot;https://springoneplatform.io/&quot;&gt;SpringOne Platform&lt;/a&gt;, &lt;a href=&quot;https://www.ibm.com/uk-en/events/think-summit/&quot;&gt;Think London - UK&lt;/a&gt; and &lt;a href=&quot;https://jokerconf.com/en/&quot;&gt;Joker&amp;lt;?&amp;gt;&lt;/a&gt; - Russia.&lt;/p&gt;
+
+&lt;p&gt;In addition to many reports and blogs you may find on the participation, I would like to point out the ECE 2019 Community Day collaboration between IoT and Cloud Native Java teams. Even though it was just a starting point attempt to work on the solution by both teams, it was great seeing two Eclipse Foundation communities working together! I am looking for more of these collaborations in the future. Please look for blog from Jens Reimann (@ctron) from Red Hat on this. &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Stay Connected With the Jakarta EE Community&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;The Jakarta EE community is very active and there are a number of channels to help you stay up to date with all of the latest and greatest news and information. Tanja Obradovic’s&lt;a href=&quot;https://blogs.eclipse.org/post/tanja-obradovic/jakarta-ee-community-engagement&quot;&gt; blog&lt;/a&gt; summarizes the community engagement plan, which includes:&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;•      Social media:&lt;a href=&quot;https://twitter.com/jakartaee&quot;&gt; Twitter&lt;/a&gt;,&lt;a href=&quot;https://www.facebook.com/JakartaEE/&quot;&gt; Facebook&lt;/a&gt;,&lt;a href=&quot;https://www.linkedin.com/groups/13597511/&quot;&gt; LinkedIn Group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;•      Mailing lists: jakarta.ee-community@eclipse.org and jakarta.ee-wg@eclipse.org&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;•      Newsletters, blogs, and emails:&lt;a href=&quot;https://www.eclipse.org/community/eclipse_newsletter/&quot;&gt; Eclipse newsletter&lt;/a&gt;,&lt;a href=&quot;https://jakartablogs.ee/#main-content&quot;&gt; Jakarta EE blogs&lt;/a&gt;, monthly update emails to jakarta.ee-community@eclipse.org, and community blogs on&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1JflN_xJ9d5ZWu5VUbDV9Spj7mc8WuPGMfd6EZgabXz0/edit#gid=0&quot;&gt; “how are you involved with Jakarta EE”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;•      Meetings:&lt;a href=&quot;https://www.meetup.com/jakartatechtalks_/&quot;&gt; Jakarta Tech Talks&lt;/a&gt;,&lt;a href=&quot;https://calendar.google.com/calendar/embed?src=eclipse-foundation.org_3281qms6riu4kdf354jn5idon0%40group.calendar.google.com&amp;amp;ctz=America%2FToronto&quot;&gt; Jakarta EE Update&lt;/a&gt;, Jakarta Town Hall, and Eclipse Foundation events and conferences&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Subscribe to your preferred channels today. And, get involved in the&lt;a href=&quot;https://jakarta.ee/membership/&quot;&gt; Jakarta EE Working Group&lt;/a&gt; to help shape the future of open source, cloud native Java.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;To learn more about Jakarta EE-related plans and check the date for the next Jakarta Tech Talk, be sure to bookmark the&lt;a href=&quot;https://calendar.google.com/calendar/embed?src=eclipse-foundation.org_3281qms6riu4kdf354jn5idon0%40group.calendar.google.com&amp;amp;ctz=America%2FToronto&quot;&gt; Jakarta EE Community Calendar&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Tue, 19 Nov 2019 18:52:38 +0000</pubDate>
+</item>
+<item>
 	<title>Christian Pontesegger: Jakarta Microprofile REST Client in Eclipse</title>
 	<guid isPermaLink="false">tag:blogger.com,1999:blog-3460102793186140898.post-3693889557082666010</guid>
 	<link>http://codeandme.blogspot.com/2019/11/jakarta-microprofile-rest-client-in.html</link>
@@ -1072,28 +1297,6 @@ The interesting thing about</description>
 	<pubDate>Mon, 07 Oct 2019 03:08:13 +0000</pubDate>
 </item>
 <item>
-	<title>Tanja Obradovic: JakartaOne Livestream Wrap up</title>
-	<guid isPermaLink="false">6731 at https://blogs.eclipse.org</guid>
-	<link>https://blogs.eclipse.org/post/tanja-obradovic/%C2%A0jakartaone-livestream-wrap-%C2%A0</link>
-	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;September 10th, 2019 was a big day in the Jakarta EE global circles. Not just that we released the very first version of the Jakarta EE, but we also got very ambitious and organized the very first JakartaOne Livestream conference. What an experience that was!&lt;/p&gt;
-
-&lt;p&gt;The intention was to mark an important milestone, the release of the very first vendor neutral, Java EE 8 compatible release of Jakarta EE using the new Jakarta EE Specification Process. &lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;After almost two years since the Oracle announcement of Java EE contribution to Eclipse Foundation on September 10th, we’ll finally have the base level release that will enable existing products certified on Java EE 8 to move easily and seamlessly Jakarta EE 8 release. The release is a result of cross-community collaboration at the Eclipse Foundation, it has the same Java EE 8 APIs using the javax namespace, its Jakarta EE 8 TCKs are fully compatible with Java EE 8 TCKs, and new compatibility/branding process is available for compatible products.&lt;/p&gt;
-
-&lt;p&gt;It was very obvious from the beginning that this may be bigger than we expected, here is why. We have approached a few well-respected leaders in Java EE community to help out and be on the JakartaOne Livestream Program Committee. What a thrill that was! Reza Rahman graciously accepted to be the Program Committee Chair, and the rest of the members of the committee were equally eager and interested to help out: Josh Juneau, Ivar Grimstad, Adam Bien, Arun Gupta and from the Eclipse Foundation - Tanja Obradovic. It was a great pleasure working with this team. &lt;/p&gt;
-
-&lt;p&gt;We started the work on the conference in early June, and with all members having busy schedules and summer vacations, we made most of the time we had: made a plan and put out CFP for the conference. The response was another indicator that there is an interest in the wider community for something like this. We got well over 50 talk submissions of a great quality and we had a difficult task selecting the best. We had a great mixture of introductory / overview talks, specification specific talks, cloud native focused talks, keynotes from Mike Milinkovich and James Gosling, as well as industry keynotes from Jakarta EE Working Group Steering Committee members: Tomitribe, IBM, Fujitsu, Oracle, Payara, Red Hat, demos and panel discussions. We selected 16 talks, which meant 18 hours of the program with keynotes and panel discussions. Adam Bien accepted to be MC of the event and I would be available to help out. In the end, the Program Committee chose the following collection of talks and a reminder that the talks themselves can still be viewed via &lt;a href=&quot;http://jakartaone.org&quot;&gt;jakartaone.org&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You may call it beginner's luck, but on the day of the event, we had well over 1350 registered attendees, with a number of questions that were almost immediately answered on the chat by someone from the community. The level of positivity and the sense of the community coming together was overwhelming, illustrating the true power of the open source. With very few technical difficulties, talks were going one after another and even when we had issues Reza Rahman yet again was available to save the day with an additional Q&amp;amp;A session. &lt;img src=&quot;https://lh5.googleusercontent.com/rpH4NKJumLNaL7ho1lYvyyW13VNQRJEV4rR_RRDtr6dSwCzgNSI3_Bq1qePX7jVhKAjrv9MLlw_ADn5XKlTSDQD6xEhRHOciR8NFCh_1xk5ayTXo5GSEzxj3BCdm9JWZfZS9yA0g&quot; style=&quot;height: 349px; width: 624px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;And to leave the best for last - in terms of running the event, the work done by my colleagues of the Eclipse Foundation staff, was impressive. I could not ask for better help than working with Stephanie Swart, Laura Tran and Shabnam Mayel, as well as the great effort by all our marketing and web teams ahead of the event. The level of dedication, professionalism and readiness to improvise in order to deal with issues presented, was amazing. And did I mention for all four of us this was the very first conference we worked on! Let’s take a deep breath, enjoy the success for another moment before we start working on the next Jakarta EE release.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-	<pubDate>Thu, 03 Oct 2019 11:12:44 +0000</pubDate>
-</item>
-<item>
 	<title>N4JS: Instanceof Type Guards in N4JS</title>
 	<guid isPermaLink="false">tag:blogger.com,1999:blog-7569987920628430132.post-5441381820374499063</guid>
 	<link>https://n4js.blogspot.com/2019/09/instanceof-type-guards-in-n4js.html</link>
@@ -1954,14 +2157,6 @@ https://twitter.com/CloudNativeFdn/status/1154783210221527040
 
 &lt;p&gt;&lt;/p&gt;</description>
 	<pubDate>Fri, 12 Jul 2019 14:03:10 +0000</pubDate>
-</item>
-<item>
-	<title>Christian Pontesegger: Building UIs with EASE</title>
-	<guid isPermaLink="false">tag:blogger.com,1999:blog-3460102793186140898.post-390668608738243831</guid>
-	<link>http://codeandme.blogspot.com/2019/07/building-uis-with-ease.html</link>
-	<description>You probably used &lt;a href=&quot;https://www.eclipse.org/ease/&quot; target=&quot;_blank&quot;&gt;EASE&lt;/a&gt; before to automate daily tasks in your IDE or to &lt;a href=&quot;http://codeandme.blogspot.com/2014/12/ease-scripts-conquer-ui.html&quot; target=&quot;_blank&quot;&gt;augment toolbars and menus&lt;/a&gt; with custom functionality. But so far scripts could not be used to build UIs. This changed with the recent contribution of the &lt;i&gt;UI Builder&lt;/i&gt; module.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;u&gt;What it is all about&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;The &lt;i&gt;UI Builder&lt;/i&gt; module allows to create views and dialogs by pure script code in your IDE. It is great for custom views that developers do not want to put into their products, for rapid prototyping and even for mocking.&lt;br /&gt;&lt;br /&gt;The aim of EASE is to hide layout complexity as much as possible and provide a simple, yet flexible way to implement typical UI tasks.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;u&gt;Example 1: Input Form&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;We will start by creating a simple input form for address data.&lt;br /&gt;&lt;br /&gt;&lt;pre class=&quot;brush: javascript&quot;&gt;loadModule(&quot;/System/UI Builder&quot;);&lt;br /&gt;createView(&quot;Create Contact&quot;);&lt;br /&gt;&lt;br /&gt;setColumnCount(2);&lt;br /&gt;createLabel(&quot;First Name:&quot;);&lt;br /&gt;var txtFirstName = createText();&lt;br /&gt;createLabel(&quot;Last Name:&quot;);&lt;br /&gt;var txtLastName = createText();&lt;br /&gt;&lt;/pre&gt;This snippet will create a dynamic view as shown below:&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-brN2-68HYis/XSNop8MmpuI/AAAAAAAABHQ/iEPADCmZMakR19LW21MSDgjGPj7gmKjtwCLcBGAs/s1600/script_form.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;155&quot; src=&quot;https://1.bp.blogspot.com/-brN2-68HYis/XSNop8MmpuI/AAAAAAAABHQ/iEPADCmZMakR19LW21MSDgjGPj7gmKjtwCLcBGAs/s400/script_form.png&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;The renderer used will apply a &lt;a href=&quot;https://www.eclipse.org/articles/Article-Understanding-Layouts/Understanding-Layouts.htm&quot; target=&quot;_blank&quot;&gt;GridLayout&lt;/a&gt;. By setting the &lt;i&gt;columnCount&lt;/i&gt; to 2 we may simply add our elements without providing any additional layout information - a simple way to create basic layouts.&lt;br /&gt;&lt;br /&gt;If needed EASE provides more control by providing layout information when creating components:&lt;br /&gt;&lt;br /&gt;&lt;pre class=&quot;brush: javascript&quot;&gt;createView(&quot;Create Contact&quot;);&lt;br /&gt;createLabel(&quot;First Name:&quot;, &quot;1/1 &amp;gt;x&quot;);&lt;br /&gt;var txtFirstName = createText(&quot;2-4/1 o!&quot;);&lt;br /&gt;createLabel(&quot;Last Name:&quot;, &quot;1/2 &amp;gt;x&quot;);&lt;br /&gt;var txtLastName = createText(&quot;2-4/2 o!&quot;);&lt;br /&gt;&lt;/pre&gt;Creates the same view as above, but now with detailed layout information.&lt;br /&gt;As an example &lt;i&gt;&quot;1/2 &amp;gt;x&quot;&lt;/i&gt; means: first column, second row, horizontal align right, vertical align middle. A full documentation on the syntax is provided in the module documentation (Hover over the &lt;i&gt;UI Builder&lt;/i&gt; module in the &lt;i&gt;Modules Explorer&lt;/i&gt; view).&lt;br /&gt;&lt;br /&gt;Now lets create a combo viewer to select a country for the address:&lt;br /&gt;&lt;pre class=&quot;brush: javascript&quot;&gt;cmbCountry = createComboViewer([&quot;Austria&quot;, &quot;Germany&quot;, &quot;India&quot;, &quot;USA&quot;])&lt;br /&gt;&lt;/pre&gt;Simple, isn't it?&lt;br /&gt;&lt;br /&gt;So far we did not need to react on any of our UI elements. Next step is to create a button which needs some kind of callback action:&lt;br /&gt;&lt;pre class=&quot;brush: javascript&quot;&gt;createButton(&quot;Save 1&quot;, 'print(&quot;you hit the save button&quot;)')&lt;br /&gt;createButton(&quot;Save 2&quot;, saveAddress)&lt;br /&gt;&lt;br /&gt;function saveAddress() {&lt;br /&gt; print(&quot;This is the save method&quot;);&lt;br /&gt;}&lt;br /&gt;&lt;/pre&gt;The first version of a button adds the callback code as string argument. When the button gets pressed, the callback code will be executed. You may call any script code that the engine is capable of interpreting.&lt;br /&gt;&lt;br /&gt;The second version looks a bit cleaner, as it defines a function &lt;i&gt;saveAddress() &lt;/i&gt;which is called on a button click. Note that we provide a function reference to &lt;i&gt;createButton()&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/tree/Demos/UI%20Builder%20Examples/AddressBook/Address%20Input.js&quot; target=&quot;_blank&quot;&gt;View the full example&lt;/a&gt; of this script on our &lt;a href=&quot;https://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/tree&quot; target=&quot;_blank&quot;&gt;script repository&lt;/a&gt;. In addition to some more layouting it also contains a working implementation of the save action to store addresses as JSON data files.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/--lzn_mY5Qgk/XSOChZd5CcI/AAAAAAAABHg/m7V3kv57g4Y-a3oHdQEhIBd44Pq6KaESQCLcBGAs/s1600/script_form2.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;211&quot; src=&quot;https://1.bp.blogspot.com/--lzn_mY5Qgk/XSOChZd5CcI/AAAAAAAABHg/m7V3kv57g4Y-a3oHdQEhIBd44Pq6KaESQCLcBGAs/s400/script_form2.png&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Interacting with SWT controls&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;The saveAddress() method needs to read data from the input fields of our form. This could be done using&lt;/div&gt;&lt;pre class=&quot;brush: javascript&quot;&gt;var firstName = txtFirstName.getText();&lt;/pre&gt;Unfortunately SWT Controls can only be queried in the UI thread, while the script engine is executed in its own thread. To move code execution to the UI thread, the UI module provides a function executeUI(). By default this functionality is disabled as a bad script executed in the UI thread might stall your Eclipse IDE. To enable it you need to set a checkbox in &lt;i&gt;Preferences/Scripting&lt;/i&gt;. The full call then looks like this:&lt;br /&gt;&lt;pre class=&quot;brush: javascript&quot;&gt;loadModule(&quot;/System/UI&quot;)&lt;br /&gt;var firstName = executeUI('txtFirstName.getText();');&lt;/pre&gt;&lt;br /&gt;&lt;b&gt;&lt;u&gt;Example 2: A viewer for our phone numbers&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Now that we are able to create some sample data, we also need a viewer for our phone numbers. Say we are able to load all our addresses into an array, the only thing we need is a table viewer to visualize our entries. Following 2 lines will do the job:&lt;br /&gt;&lt;pre class=&quot;brush: javascript&quot;&gt;var addresses = readAddresses();&lt;br /&gt;var tableViewer = createTableViewer(addresses)&lt;br /&gt;&lt;/pre&gt;Where &lt;i&gt;readAddresses()&lt;/i&gt; collects our &lt;i&gt;*.address&lt;/i&gt; files and stores them into an array.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-68LKx5DHLtI/XSOGL7c-VsI/AAAAAAAABHs/sTsk1alaXqMcfAsazcqoIM7gam9lEw1tACLcBGAs/s1600/phonebook_1.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;135&quot; src=&quot;https://1.bp.blogspot.com/-68LKx5DHLtI/XSOGL7c-VsI/AAAAAAAABHs/sTsk1alaXqMcfAsazcqoIM7gam9lEw1tACLcBGAs/s400/phonebook_1.png&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;So the viewer works, however we need to define how our columns shall be rendered.&lt;br /&gt;&lt;pre class=&quot;brush: javascript&quot;&gt;createViewerColumn(tableViewer, &quot;Name&quot;, createLabelProvider(&quot;getProviderElement().firstName + ' ' + getProviderElement().lastName&quot;))&lt;br /&gt;createViewerColumn(tableViewer, &quot;Phone&quot;, createLabelProvider(&quot;getProviderElement().phone&quot;))&lt;br /&gt;&lt;/pre&gt;Whenever a callback needs a viewer element, getProviderElement() holds the actual element.&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-Y62uH5tW7DY/XSOH3xupNrI/AAAAAAAABH4/nc-_VNd0Zq0zqyNDTvoj3qKzbOtZOc3pwCLcBGAs/s1600/phonebook_2.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;135&quot; src=&quot;https://1.bp.blogspot.com/-Y62uH5tW7DY/XSOH3xupNrI/AAAAAAAABH4/nc-_VNd0Zq0zqyNDTvoj3qKzbOtZOc3pwCLcBGAs/s400/phonebook_2.png&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;We are done! 3 lines of code for a TableViewer does not sound too bad, right? Again a &lt;a href=&quot;https://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/tree/Demos/UI%20Builder%20Examples/AddressBook/List.js&quot; target=&quot;_blank&quot;&gt;full example&lt;/a&gt; is available on our script repository. It automatically loads &lt;i&gt;*.address&lt;/i&gt; files from your workspace and displays them in the view.&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Example 3: A workspace viewer&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;We had a &lt;i&gt;TableViewer&lt;/i&gt; before, now lets try a &lt;i&gt;TreeViewer&lt;/i&gt;. As a tree needs structure, we need to provide a callback to calculate child elements from a given parent:&lt;/div&gt;&lt;pre class=&quot;brush: javascript&quot;&gt;var viewer = createTreeViewer(getWorkspace().getProjects(), getChildren);&lt;br /&gt;&lt;br /&gt;function getChildren() {&lt;br /&gt; if (getProviderElement() instanceof org.eclipse.core.resources.IContainer)&lt;br /&gt;  return getProviderElement().members();&lt;br /&gt; &lt;br /&gt; return null;&lt;br /&gt;}&lt;/pre&gt;So simple! The &lt;a href=&quot;https://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/tree/Demos/UI%20Builder%20Examples/Project%20Info%20Viewer.js&quot; target=&quot;_blank&quot;&gt;full example&lt;/a&gt; looks like this:&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-2MQ7dKZ66Ss/XSOJgJTpDsI/AAAAAAAABIE/29WKkpR8C7MMNsg_P2MVCcj2qZD46KNKQCLcBGAs/s1600/project_viewer.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https://1.bp.blogspot.com/-2MQ7dKZ66Ss/XSOJgJTpDsI/AAAAAAAABIE/29WKkpR8C7MMNsg_P2MVCcj2qZD46KNKQCLcBGAs/s1600/project_viewer.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;b&gt;&lt;u&gt;Example 4: Math function viewer&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The last example demonstrates how to add a custom &lt;i&gt;Control&lt;/i&gt; to a view.&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-_rcEjTB8-xI/XSOKb3F8QCI/AAAAAAAABIM/f8-GYaCBZmMrMkw4VBFso6qqvkPX3vOFwCLcBGAs/s1600/functions.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;304&quot; src=&quot;https://1.bp.blogspot.com/-_rcEjTB8-xI/XSOKb3F8QCI/AAAAAAAABIM/f8-GYaCBZmMrMkw4VBFso6qqvkPX3vOFwCLcBGAs/s640/functions.png&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/div&gt;For plotting we use the Charting module that is shipped with EASE. The &lt;a href=&quot;https://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/tree/Demos/UI%20Builder%20Examples/Plot%20function.js&quot; target=&quot;_blank&quot;&gt;source code&lt;/a&gt; should be pretty much self explanatory.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;u&gt;Some Tips &amp;amp; Tricks&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Layouting is dynamic.&lt;br /&gt;Unlike the Java &lt;i&gt;GridLayout&lt;/i&gt; you do not need to fill all cells of your layout. The EASE renderer takes care to automatically fill empty cells with placeholders&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Elements can be replaced.&lt;br /&gt;If you use coordinates when creating controls, you may easily replace a given control by another one. This simplifies the process of layouting (eg if you experience with alignments) and even allows a view to dynamically change its components depending on some external data/events&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Full control.&lt;br /&gt;While some methods from SWT do not have a corresponding script function, still all SWT calls may be used as the &lt;i&gt;create*&lt;/i&gt; methods expose the underlying SWT instances.&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Layout help.&lt;br /&gt;To simplify layouting use the &lt;i&gt;showGrid()&lt;/i&gt; function. It displays cell borders that help you to see row/column borders.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;br /&gt;</description>
-	<pubDate>Mon, 08 Jul 2019 18:54:52 +0000</pubDate>
-	<author>noreply@blogger.com (Christian Pontesegger)</author>
 </item>
 
 </channel>

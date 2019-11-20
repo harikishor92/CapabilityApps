@@ -1,32 +1,122 @@
-2019-11-19 14:47:45,878  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:47:45,884  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:47:45,943  INFO [main] BaseTest:41 - Lunching the browser
-2019-11-19 14:47:52,780  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:47:52,780  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:48:02,656  INFO [main] BaseTest:69 - Lunched the browser
-2019-11-19 14:48:02,668  INFO [main] JavaTopicPageTest:38 - Welcome page has launched successfully
-2019-11-19 14:48:02,670  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:48:02,670  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:48:02,903  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:48:02,903  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:48:02,904  INFO [main] JavaTopicPageTest:41 - Login Page has launched successfully
-2019-11-19 14:48:02,905  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:48:02,905  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:48:03,203  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:48:03,203  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:48:03,205  INFO [main] JavaTopicPageTest:44 - DashBoard Page has launched successfully
-2019-11-19 14:48:03,205  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:48:03,205  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:48:07,154  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:48:07,155  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:48:07,156  INFO [main] JavaTopicPageTest:47 - Clicked on java tab successfully
-2019-11-19 14:48:07,157  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:48:07,157  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:48:07,222  INFO [main] JavaTopicPageTest:50 - Java Topic Page has launched successfully
-2019-11-19 14:48:10,096  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:48:10,096  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:48:10,098  INFO [main] BaseTest:26 - Start reading the config file
-2019-11-19 14:48:10,099  INFO [main] BaseTest:35 - Read the config file
-2019-11-19 14:48:10,106  INFO [main] JavaTopicPageTest:67 - Start executing the test case
-2019-11-19 14:48:12,025  INFO [main] JavaTopicPageTest:73 - add Questions Page has launched successfully
-2019-11-19 14:48:12,025  INFO [main] JavaTopicPageTest:74 - Test case execution completed
+2019-11-20 12:39:28,487  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:28,490  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:28,700  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-20 12:39:35,050  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:35,052  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:45,252  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-20 12:39:45,261  INFO [main] JavaTopicPageTest:38 - Welcome page has launched successfully
+2019-11-20 12:39:45,261  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:45,264  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:45,449  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:45,450  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:45,450  INFO [main] JavaTopicPageTest:41 - Login Page has launched successfully
+2019-11-20 12:39:45,450  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:45,452  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:45,767  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:45,768  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:45,769  INFO [main] JavaTopicPageTest:44 - DashBoard Page has launched successfully
+2019-11-20 12:39:45,770  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:45,770  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:49,781  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:49,782  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:49,784  INFO [main] JavaTopicPageTest:47 - Clicked on java tab successfully
+2019-11-20 12:39:49,785  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:49,785  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:49,849  INFO [main] JavaTopicPageTest:50 - Java Topic Page has launched successfully
+2019-11-20 12:39:52,862  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:52,863  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:52,866  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:39:52,867  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:39:52,877  INFO [main] JavaTopicPageTest:69 - Start executing the test case
+2019-11-20 12:39:55,526  INFO [main] JavaTopicPageTest:83 - Test case execution completed
+2019-11-20 12:39:55,654  INFO [main] JavaTopicPageTest:90 - Closed the browser successfully
+2019-11-20 12:39:55,655  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-20 12:40:01,220  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:01,222  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:12,770  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-20 12:40:12,791  INFO [main] JavaTopicPageTest:38 - Welcome page has launched successfully
+2019-11-20 12:40:12,792  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:12,793  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:13,069  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:13,071  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:13,072  INFO [main] JavaTopicPageTest:41 - Login Page has launched successfully
+2019-11-20 12:40:13,074  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:13,077  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:13,363  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:13,364  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:13,365  INFO [main] JavaTopicPageTest:44 - DashBoard Page has launched successfully
+2019-11-20 12:40:13,365  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:13,365  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:17,484  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:17,485  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:17,485  INFO [main] JavaTopicPageTest:47 - Clicked on java tab successfully
+2019-11-20 12:40:17,486  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:17,486  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:17,538  INFO [main] JavaTopicPageTest:50 - Java Topic Page has launched successfully
+2019-11-20 12:40:20,969  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:20,970  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:20,972  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:20,973  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:20,977  INFO [main] JavaTopicPageTest:69 - Start executing the test case
+2019-11-20 12:40:23,772  INFO [main] JavaTopicPageTest:83 - Test case execution completed
+2019-11-20 12:40:23,872  INFO [main] JavaTopicPageTest:90 - Closed the browser successfully
+2019-11-20 12:40:23,873  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-20 12:40:29,266  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:29,268  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:39,364  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-20 12:40:39,388  INFO [main] JavaTopicPageTest:38 - Welcome page has launched successfully
+2019-11-20 12:40:39,389  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:39,390  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:39,597  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:39,598  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:39,599  INFO [main] JavaTopicPageTest:41 - Login Page has launched successfully
+2019-11-20 12:40:39,599  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:39,599  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:39,864  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:39,865  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:39,865  INFO [main] JavaTopicPageTest:44 - DashBoard Page has launched successfully
+2019-11-20 12:40:39,865  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:39,865  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:43,895  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:43,896  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:43,896  INFO [main] JavaTopicPageTest:47 - Clicked on java tab successfully
+2019-11-20 12:40:43,896  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:43,897  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:43,938  INFO [main] JavaTopicPageTest:50 - Java Topic Page has launched successfully
+2019-11-20 12:40:47,500  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:47,501  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:47,501  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:47,502  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:40:47,504  INFO [main] JavaTopicPageTest:69 - Start executing the test case
+2019-11-20 12:40:49,600  INFO [main] JavaTopicPageTest:83 - Test case execution completed
+2019-11-20 12:40:49,693  INFO [main] JavaTopicPageTest:90 - Closed the browser successfully
+2019-11-20 12:40:49,694  INFO [main] BaseTest:41 - Lunching the browser
+2019-11-20 12:40:55,039  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:40:55,040  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:41:05,470  INFO [main] BaseTest:69 - Lunched the browser
+2019-11-20 12:41:05,481  INFO [main] JavaTopicPageTest:38 - Welcome page has launched successfully
+2019-11-20 12:41:05,482  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:41:05,482  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:41:05,638  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:41:05,639  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:41:05,640  INFO [main] JavaTopicPageTest:41 - Login Page has launched successfully
+2019-11-20 12:41:05,640  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:41:05,640  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:41:05,950  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:41:05,950  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:41:05,951  INFO [main] JavaTopicPageTest:44 - DashBoard Page has launched successfully
+2019-11-20 12:41:05,951  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:41:05,951  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:41:10,251  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:41:10,252  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:41:10,253  INFO [main] JavaTopicPageTest:47 - Clicked on java tab successfully
+2019-11-20 12:41:10,253  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:41:10,253  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:41:10,297  INFO [main] JavaTopicPageTest:50 - Java Topic Page has launched successfully
+2019-11-20 12:41:13,494  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:41:13,494  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:41:13,495  INFO [main] BaseTest:26 - Start reading the config file
+2019-11-20 12:41:13,497  INFO [main] BaseTest:35 - Read the config file
+2019-11-20 12:41:13,499  INFO [main] JavaTopicPageTest:69 - Start executing the test case
+2019-11-20 12:41:15,660  INFO [main] JavaTopicPageTest:83 - Test case execution completed
+2019-11-20 12:41:15,769  INFO [main] JavaTopicPageTest:90 - Closed the browser successfully

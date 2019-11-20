@@ -1,20 +1,328 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26109" started-at="2019-11-19T09:17:45Z" finished-at="2019-11-19T09:18:12Z">
+  <suite name="Default suite" duration-ms="107251" started-at="2019-11-20T07:09:28Z" finished-at="2019-11-20T07:11:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26109" started-at="2019-11-19T09:17:45Z" finished-at="2019-11-19T09:18:12Z">
+    <test name="Default test" duration-ms="107251" started-at="2019-11-20T07:09:28Z" finished-at="2019-11-20T07:11:15Z">
       <class name="com.capability.qa.testcases.AddQuestionsPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@56235b8e]" name="setUp" is-config="true" duration-ms="24161" started-at="2019-11-19T14:47:45Z" finished-at="2019-11-19T14:48:10Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="setUp" is-config="true" duration-ms="24172" started-at="2019-11-20T12:39:28Z" finished-at="2019-11-20T12:39:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="selectdd()[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@56235b8e]" name="selectdd" duration-ms="1925" started-at="2019-11-19T14:48:10Z" finished-at="2019-11-19T14:48:12Z">
+        <test-method status="PASS" signature="selectdd(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="selectdd" duration-ms="2658" started-at="2019-11-20T12:39:52Z" data-provider="getCapabilityTestData" finished-at="2019-11-20T12:39:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JAVA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Simple]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Multiple Choice Question]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Inheritance]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[What is Java ??   Please select incorrect answar. ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[It's a programming language. ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[It's not a programming language.]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[It's a method.]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[It's a query.]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectdd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="tearDown" is-config="true" duration-ms="125" started-at="2019-11-20T12:39:55Z" finished-at="2019-11-20T12:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="setUp" is-config="true" duration-ms="25319" started-at="2019-11-20T12:39:55Z" finished-at="2019-11-20T12:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectdd(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="selectdd" duration-ms="2798" started-at="2019-11-20T12:40:20Z" data-provider="getCapabilityTestData" finished-at="2019-11-20T12:40:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JAVA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Simple]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Multiple Choice Question]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Inheritance]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[What is Java ??   Please select incorrect answar. ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[It's not a programming language.]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[It's a programming language. ]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[It's a method.]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[It's a query.]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectdd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="tearDown" is-config="true" duration-ms="98" started-at="2019-11-20T12:40:23Z" finished-at="2019-11-20T12:40:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="setUp" is-config="true" duration-ms="23630" started-at="2019-11-20T12:40:23Z" finished-at="2019-11-20T12:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectdd(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="selectdd" duration-ms="2097" started-at="2019-11-20T12:40:47Z" data-provider="getCapabilityTestData" finished-at="2019-11-20T12:40:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JAVA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Simple]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Single Choice Question]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Inheritance]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[What is Java ??]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[It's a programming language. ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[It's not a programming language.]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[It's a method.]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[It's a query.]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectdd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="tearDown" is-config="true" duration-ms="91" started-at="2019-11-20T12:40:49Z" finished-at="2019-11-20T12:40:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="setUp" is-config="true" duration-ms="23804" started-at="2019-11-20T12:40:49Z" finished-at="2019-11-20T12:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectdd(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="selectdd" duration-ms="2163" started-at="2019-11-20T12:41:13Z" data-provider="getCapabilityTestData" finished-at="2019-11-20T12:41:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JAVA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Simple]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Single Choice Question]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Inheritance]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[What is Java ??]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[It's a method.]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[It's not a programming language.]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[It's a programming language. ]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[It's a query.]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectdd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.capability.qa.testcases.AddQuestionsPageTest@3632be31]" name="tearDown" is-config="true" duration-ms="109" started-at="2019-11-20T12:41:15Z" finished-at="2019-11-20T12:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- com.capability.qa.testcases.AddQuestionsPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
