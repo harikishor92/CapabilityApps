@@ -168,7 +168,7 @@ public class AddQuestionsPage extends BaseTest{
 	{
 		mSelectOptionD.click();
 	}
-	public void AnswarOptions(String choice, String A, String B, String C, String D)
+	public void selectAnswarOptions(String choice, String A, String B, String C, String D)
 	{
 		if(choice.equals("Single Choice Question"))
 		{

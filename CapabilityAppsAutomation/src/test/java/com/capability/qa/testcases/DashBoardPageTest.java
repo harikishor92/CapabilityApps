@@ -28,7 +28,7 @@ Logger logger = Logger.getLogger(DashBoardPageTest.class);
 	
 	
 	@BeforeMethod
-	public void setUp()
+	public void setUp() throws InterruptedException
 	{
 		initialization();
 		logger.info("Welcome page launched successfully");

@@ -67,8 +67,8 @@ public class BaseTest {
 		driver.manage().deleteAllCookies();
 		driver.get(prob.getProperty("url"));
 		logger.info("Lunched the browser");
-		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
-		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.manage().timeouts().pageLoadTimeout(50, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	}
 
 }

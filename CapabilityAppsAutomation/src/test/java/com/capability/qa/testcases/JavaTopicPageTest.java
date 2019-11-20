@@ -29,7 +29,7 @@ public class JavaTopicPageTest extends BaseTest{
 	}
 	
 	@BeforeMethod
-	public void setUp()
+	public void setUp() throws InterruptedException
 	{
 		initialization();
 		logger.info("Welcome page has launched successfully");

@@ -5,8 +5,9 @@
     <classes>
       <class name="com.capability.qa.testcases.AddQuestionsPageTest">
         <methods>
-          <include name="selectdd"/>
+          <include name="tearDown"/>
           <include name="setUp"/>
+          <include name="addQuestions" invocation-numbers="10 11 12 22 23 24"/>
         </methods>
       </class> <!-- com.capability.qa.testcases.AddQuestionsPageTest -->
     </classes>

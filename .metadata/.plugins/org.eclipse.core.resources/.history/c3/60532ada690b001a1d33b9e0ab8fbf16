@@ -1,0 +1,7 @@
+package com.capability.qa.testcases;
+
+import com.capability.qa.Base.BaseTest;
+
+public class EditQuestionsPageTest extends BaseTest{
+
+}

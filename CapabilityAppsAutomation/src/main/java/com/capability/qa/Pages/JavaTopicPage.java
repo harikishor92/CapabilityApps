@@ -11,8 +11,15 @@ public class JavaTopicPage extends BaseTest{
 	@FindBy(xpath = "//h6[.='Questions']")
 	private WebElement verifyJavaPage;
 	
-	@FindBy(xpath = "//button[@xpath = '1' and  @class = 'MuiButtonBase-root MuiIconButton-root jss248']")
+	@FindBy(xpath = "//body/div[@id='root']/div/div/div[@class='side-content mt-5']"
+			+ "/div[@class='MuiPaper-root MuiPaper-elevation4 jss251 mt-5 MuiPaper-rounded']"
+			+ "/div[@class='MuiToolbar-root MuiToolbar-regular jss286 MuiToolbar-gutters']"
+			+ "/div[@class='jss288']/button[@class='MuiButtonBase-root MuiIconButton-root jss291']"
+			+ "/span[@class='MuiIconButton-label']/*[1] ")
 	private WebElement searchBtn;
+	
+	@FindBy(xpath = "//input[@class='MuiInputBase-input MuiInput-input']")
+	private WebElement enterValueSearchBox;
 	
 	@FindBy(xpath = "//button[.='Add Question']")
 	private WebElement addQuestionbtn;
@@ -50,6 +57,11 @@ public class JavaTopicPage extends BaseTest{
 	public void clickOnSearchBtn()
 	{
 		searchBtn.click();
+	}
+	
+	public void enterValueInSearchBox(String value)
+	{
+		enterValueSearchBox.sendKeys(value);
 	}
 	
 	public void clickOnFilterBtn()
