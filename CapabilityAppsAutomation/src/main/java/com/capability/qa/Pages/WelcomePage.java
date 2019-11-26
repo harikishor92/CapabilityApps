@@ -43,7 +43,7 @@ public class WelcomePage extends BaseTest{
 	
 	public LoginPage clickOnLoginButton() throws InterruptedException
 	{
-		Thread.sleep(2000);
+		Thread.sleep(1500);
 		loginbtn.click();
 		
 		return new LoginPage();

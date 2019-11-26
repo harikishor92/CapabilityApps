@@ -57,6 +57,11 @@ public class TestUtil extends BaseTest{
 		
 	}
 	
+	public void switchToFrame()
+	{
+		driver.switchTo().frame("");
+	}
+	
 	
 	public static void takeScreenshotAtEndOfTest() throws IOException {
 		File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
@@ -69,12 +74,18 @@ public class TestUtil extends BaseTest{
 	    return new SimpleDateFormat("yyyy-MM-dd HH-mm-ss").format(new Date());
 	}
 	
+	
 	public static void selectDropDown(WebElement sValue, String option)
 	{
 		Select s1 = new Select(sValue);
 		s1.selectByVisibleText(option);
 	}
 	
+	public static void editOptions(WebElement sOption, String sValue)
+	{
+		sOption.clear();
+		sOption.sendKeys(sValue);
+	}
 	public static void passValues(WebElement sElement,String option)
 	{
 		sElement.sendKeys(option);

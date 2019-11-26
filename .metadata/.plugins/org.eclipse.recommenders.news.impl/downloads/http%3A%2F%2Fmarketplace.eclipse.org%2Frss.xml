@@ -6,197 +6,402 @@
     <language>en</language>
      <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
       <item>
-    <title>Wild Web Developer: HTML, CSS, JavaScript, TypeScript,  Node.js, Angular, JSON, YAML (+Kubernetes), XML</title>
-    <link>http://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wild-web-developer-marketplace-logo.png&quot; width=&quot;110&quot; height=&quot;78&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-11-19 14:55&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Wild%20Web%20Developers%20Contributors%22&quot;&gt;Eclipse Wild Web Developers Contributors&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-13 10:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mistria/listings&quot; title=&quot;Mickael Istria&quot;&gt;Mickael Istria&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Edit HTML, CSS, JavaScript, TypeScript, JSON (+schema), XML (+schema), YAML (+schema)&lt;/strong&gt;, with specialized support for &lt;strong&gt;Angular, React and Kubernetes&lt;/strong&gt; and &lt;strong&gt;debug Node.js and HTML+JS web-apps &lt;/strong&gt;simply and efficiently in the Eclipse IDE.&lt;/p&gt;
-&lt;p&gt;To see it in action, open the desired file with the &lt;em&gt;Generic Editor&lt;/em&gt; that&#039;s included by default in the Eclipse IDE.&lt;/p&gt;
-&lt;p&gt;Supported file formats for edition:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;CSS, SCSS, SASS, LESS&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;JavaScript (EcmaScript 2018 - 9th edition)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;TypeScript 3.3&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;JSON&lt;/em&gt; and &lt;em&gt;JSONC&lt;/em&gt; (including schema support)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;YAML&lt;/em&gt; (including schema support)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;XML&lt;/em&gt; (including schema support),&lt;em&gt; XSL, XSD, DTD&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Supported frameworks (file specialization) for edition:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;em&gt;Angular&lt;/em&gt; (template assistance in HTML and TS files)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Kubernetes&lt;/em&gt; (schema built-in when editing YAML)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;React&lt;/em&gt; (JSX, TSX, embedded HTML)&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Supported feature for edition are&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Validation (diagnostics, markers)&lt;/li&gt;
-&lt;li&gt;Code Completion&lt;/li&gt;
-&lt;li&gt;Hover&lt;/li&gt;
-&lt;li&gt;Outline&lt;/li&gt;
-&lt;li&gt;Rename refactoring&lt;/li&gt;
-&lt;li&gt;Jump to declaration&lt;/li&gt;
-&lt;li&gt;Find references&lt;/li&gt;
-&lt;li&gt;Color preview&lt;/li&gt;
-&lt;li&gt;... and other features part of the Language Server Protocol&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Supported debugging target&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;em&gt;Node.js&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Firefox&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Chromium&lt;/em&gt; and &lt;em&gt;Chrome&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Thu, 13 Apr 2017 14:52:25 +0000</pubDate>
- <dc:creator>mistria</dc:creator>
- <guid isPermaLink="false">3394048 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml#comments</comments>
+    <title>Codewind OpenAPI Tools</title>
+    <link>http://marketplace.eclipse.org/content/codewind-openapi-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/codewind_blue_2000px_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-11-25 15:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-06-28 15:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jkim/listings&quot; title=&quot;Joseph Kim&quot;&gt;Joseph Kim&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Codewind OpenAPI Tools for Eclipse provides wizards that invoke the OpenAPI Generator to create API clients, server stubs, and HTML documentation from OpenAPI Specifications. The tools are integrated with and are customized to work with Codewind for Eclipse but they also work standalone with a base Eclipse IDE for Java EE Developers installation.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 28 Jun 2019 19:29:10 +0000</pubDate>
+ <dc:creator>jkim</dc:creator>
+ <guid isPermaLink="false">4697987 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/codewind-openapi-tools#comments</comments>
   </item>
   <item>
-    <title>Dart Plugin for Eclipse</title>
-    <link>http://marketplace.eclipse.org/content/dart-plugin-eclipse-0</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Group%20%283%29.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-11-19 04:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Dartboard%20Contributors%22&quot;&gt;Eclipse Dartboard Contributors&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-07-09 04:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jhungershausen/listings&quot; title=&quot;Jonas Hungershausen&quot;&gt;Jonas Hungershausen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Dartboard&lt;/strong&gt; is an &lt;strong&gt;Eclipse&lt;/strong&gt; plugin for &lt;strong&gt;Dart&lt;/strong&gt; development. It allows to easily edit &lt;strong&gt;Dart&lt;/strong&gt; source code with analysis as-you-type and syntax highlighting, execution of &lt;strong&gt;Dart&lt;/strong&gt; programs directly from the IDE, &lt;strong&gt;Pub&lt;/strong&gt; dependency management and all known features of the &lt;strong&gt;Eclipse IDE&lt;/strong&gt; in standard fashion.&lt;/p&gt;
-&lt;p&gt;Under the hood it uses the &lt;em&gt;dart &lt;/em&gt;command line tools and provides classic &lt;strong&gt;Eclipse&lt;/strong&gt; &lt;strong&gt;wizards&lt;/strong&gt; and workflows for each frequently used command.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;If you encounter any issues during usage or installation of the plugin, please report them to&lt;/em&gt; &lt;strong&gt;&lt;a href=&quot;https://github.com/eclipse/dartboard/issues&quot; rel=&quot;nofollow&quot;&gt;https://github.com/eclipse/dartboard/issues&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Dart and the related logo and Flutter and the related logo are trademarks of Google LLC. We are not endorsed by or affiliated with Google LLC.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Tue, 09 Jul 2019 08:59:49 +0000</pubDate>
- <dc:creator>jhungershausen</dc:creator>
- <guid isPermaLink="false">4711459 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/dart-plugin-eclipse-0#comments</comments>
+    <title>Codewind </title>
+    <link>http://marketplace.eclipse.org/content/codewind</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/codewind_blue_2000px.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-11-25 15:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-05-16 13:09&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jkim/listings&quot; title=&quot;Joseph Kim&quot;&gt;Joseph Kim&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The goal of Eclipse Codewind is to provide tools to help building high-quality cloud-native applications, regardless of which IDE or language you use. The first step is the capability to rapidly create an application from a template project, support for launching, updating, testing, and debugging in Docker containers on the desktop.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Create new containerized projects or add existing ones&lt;/li&gt;
+&lt;li&gt;View your containerized projects including the application and build status&lt;/li&gt;
+&lt;li&gt;Debug Microprofile/Java EE and Spring applications&lt;/li&gt;
+&lt;li&gt;Set up a debug session in a Chromium-based browser for Node.js applications&lt;/li&gt;
+&lt;li&gt;View application and build logs in the Console view&lt;/li&gt;
+&lt;li&gt;Integrate validation errors into the Markers view&lt;/li&gt;
+&lt;li&gt;Open a shell session into an application container&lt;/li&gt;
+&lt;li&gt;Toggle the project auto build setting and manually initiate project builds&lt;/li&gt;
+&lt;li&gt;Open your application or the application monitor in a browser&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more info, see &lt;a href=&quot;https://www.eclipse.org/codewind/&quot; rel=&quot;nofollow&quot;&gt;https://www.eclipse.org/codewind/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 16 May 2019 17:09:11 +0000</pubDate>
+ <dc:creator>jkim</dc:creator>
+ <guid isPermaLink="false">4638524 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/codewind#comments</comments>
   </item>
   <item>
-    <title>WindowBuilder</title>
-    <link>http://marketplace.eclipse.org/content/windowbuilder</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-11-19 04:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Foundation%22&quot;&gt;Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2016-09-22 09:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/hvoormann/listings&quot; title=&quot;Holger Voormann&quot;&gt;Holger Voormann&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;WindowBuilder&lt;/strong&gt; is composed of &lt;strong&gt;SWT Designer&lt;/strong&gt; and &lt;strong&gt;Swing Designer&lt;/strong&gt; and makes it very easy to create Java GUI applications without spending a lot of time writing code. Use the &lt;strong&gt;WYSIWYG visual designer&lt;/strong&gt; and layout tools to create simple forms to complex windows; the Java code will be generated for you. Easily add controls using drag-and-drop, add event handlers to your controls, change various properties of controls using a property editor, internationalize your app and much more.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Thu, 22 Sep 2016 13:02:40 +0000</pubDate>
- <dc:creator>hvoormann</dc:creator>
- <guid isPermaLink="false">3085446 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/windowbuilder#comments</comments>
+    <title>Eclipse 4GL Plug-In</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-4gl-plug</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-11-25 10:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22CHILIBYTES%20GmbH%22&quot;&gt;CHILIBYTES GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2015-04-17 05:22&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/cmisingname48x/listings&quot; title=&quot;Marc Boehm&quot;&gt;Marc Boehm&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;v0.5.2.x // The &lt;strong&gt;Eclipse4GL Plug-In&lt;/strong&gt; has been developed in Java by CHILIBYTES and allows convenient editing of 4GL source code files within the Eclipse IDE. Among other features, Eclipse4GL offers: • Syntax Highlighting • Outlining • Code Folding • Auto Completion • IntelliSense • Global Includes Direct Access &lt;strong&gt;Benefits&lt;/strong&gt; Simple and fast code editing directly from inside the IDE. Multiple developers can work on the same projects. Complete versioning support in the IDE provided by the plug-in. &lt;strong&gt;Technical Information&lt;/strong&gt; • &lt;em&gt;Operating systems:&lt;/em&gt; aix, hpux, linux, macosx, qnx, solaris, win32 • &lt;em&gt;Window systems:&lt;/em&gt; carbon, gtk, motif, photon, win32, wpf • &lt;em&gt;Language support:&lt;/em&gt; de, de-DE, en, en-EN • &lt;em&gt;Architecture:&lt;/em&gt; ia64, ia64_32, PA_RISC, ppc, sparc, x86, x86_64 &lt;strong&gt;Documentation, User Guide, Change Log&lt;/strong&gt; &lt;a href=&quot;https://cda.chilibytes.com/confluence/display/E4P/Eclipse+4GL+Plugin&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Eclipse4Gl Plug-In&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Apr 2015 09:22:54 +0000</pubDate>
+ <dc:creator>cmisingname48x</dc:creator>
+ <guid isPermaLink="false">2296271 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-4gl-plug#comments</comments>
+  </item>
+  <item>
+    <title>Palladio Nightly</title>
+    <link>http://marketplace.eclipse.org/content/palladio-nightly</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/palladio-logo-eclipse-marketplace-2010_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-11-25 10:26&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Palladio%20Team%22&quot;&gt;The Palladio Team&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2019-11-24 15:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/sseifermann57y/listings&quot; title=&quot;Stephan Seifermann&quot;&gt;Stephan Seifermann&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Please note that this entry uses the latest nightly builds which cannot be considered stable.&lt;/p&gt;
+&lt;p&gt;Palladio is a software architecture simulation approach which analyses your software at the model level for performance bottlenecks, scalability issues, reliability threats, and allows for a subsequent optimisation. Palladio requires neither buying expensive execution environments (servers, networks, or storage) nor fully implementing a software product. Construction rules are automatically checked by Palladio and thus allow optimal software architectures without costly trial-and-error-cycles. Like in other engineering disciplines, Palladio enables software engineers to construct software straight and in the right way. Use Palladio to&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Forecast the impact of your design decisions&lt;/li&gt;
+&lt;li&gt;Lower the costs for trial-and-error-cycles&lt;/li&gt;
+&lt;li&gt;Build highly reliable, scalable, and resource-efficient software architectures&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The Palladio Component Model is implemented using the Eclipse Modeling Framework (EMF). We have implemented an integrated modelling environment (called Palladio-Bench) based on the Eclipse IDE. It enables developers to create PCM model instances with graphical editors and derive performance metrics from the models using analytical techniques and simulation. The best way for getting started with the Palladio-Bench is looking through the &lt;a href=&quot;http://www.palladio-simulator.com/tools/screencasts/&quot; rel=&quot;nofollow&quot;&gt;screencasts&lt;/a&gt; and &lt;a href=&quot;http://www.palladio-simulator.com/tools/tutorials/&quot; rel=&quot;nofollow&quot;&gt;tutorials&lt;/a&gt; provided on the &lt;a href=&quot;http://www.palladio-simulator.com/&quot; rel=&quot;nofollow&quot;&gt;webpage&lt;/a&gt;. The project community is managed by project leads of: the Karlsruhe Institute of Technology (&lt;a href=&quot;http://www.kit.edu&quot; rel=&quot;nofollow&quot;&gt;www.kit.edu&lt;/a&gt;), the FZI - Research Center for Information Technology (&lt;a href=&quot;http://www.fzi.de&quot; rel=&quot;nofollow&quot;&gt;www.fzi.de&lt;/a&gt;), Chemnitz University of Technology (&lt;a href=&quot;https://www.tu-chemnitz.de&quot; rel=&quot;nofollow&quot;&gt;www.tu-chemnitz.de&lt;/a&gt;), and University of Stuttgart (&lt;a href=&quot;https://www.uni-stuttgart.de&quot; rel=&quot;nofollow&quot;&gt;www.uni-stuttgart.de&lt;/a&gt;).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 24 Nov 2019 20:36:08 +0000</pubDate>
+ <dc:creator>sseifermann57y</dc:creator>
+ <guid isPermaLink="false">4894582 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/palladio-nightly#comments</comments>
   </item>
   <item>
     <title>Protector4J</title>
     <link>http://marketplace.eclipse.org/content/protector4j</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/android-chrome-512x512.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-11-19 03:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22VLINX%20Software%22&quot;&gt;VLINX Software&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-27 05:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ylin0gf/listings&quot; title=&quot;Yongfa Lin&quot;&gt;Yongfa Lin&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A new solution to Protect Java App from Decompilation by encrypting the classes.&lt;/p&gt;
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/android-chrome-512x512.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-11-25 09:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22VLINX%20Software%22&quot;&gt;VLINX Software&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-27 05:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ylin0gf/listings&quot; title=&quot;Yongfa Lin&quot;&gt;Yongfa Lin&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A New Solution to Protect Java App from Decompilation by Encrypting the Java Classes, beyond Obfuscation&lt;/p&gt;
 &lt;p&gt;Support JavaSE App, Tomcat Web App, Spring Boot App, GlassFish App, Payara App and Java 8, Java 11 Environment.&lt;/p&gt;
-&lt;p&gt;Guide of installation: &lt;a href=&quot;https://doc.protector4j.com/eclipse-plugin&quot; rel=&quot;nofollow&quot;&gt;https://doc.protector4j.com/eclipse-plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guide of installation of eclipse plugin: &lt;a href=&quot;https://doc.protector4j.com/eclipse-plugin&quot; rel=&quot;nofollow&quot;&gt;https://doc.protector4j.com/eclipse-plugin&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Documention: &lt;a href=&quot;https://doc.protector4j.com/get-started&quot; rel=&quot;nofollow&quot;&gt;https://doc.protector4j.com/get-started&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;For further information: &lt;a href=&quot;https://protector4j.com&quot; rel=&quot;nofollow&quot;&gt;https://protector4j.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+&lt;p&gt;Site: &lt;a href=&quot;https://protector4j.com&quot; rel=&quot;nofollow&quot;&gt;https://protector4j.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;After installed, please click Window -&amp;gt; Show View-&amp;gt;Other..., then find the Protector4J View in the dialog&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Tue, 27 Jun 2017 09:41:40 +0000</pubDate>
  <dc:creator>ylin0gf</dc:creator>
  <guid isPermaLink="false">3513853 at http://marketplace.eclipse.org</guid>
  <comments>http://marketplace.eclipse.org/content/protector4j#comments</comments>
   </item>
   <item>
-    <title>Kotlin Plugin for Eclipse</title>
-    <link>http://marketplace.eclipse.org/content/kotlin-plugin-eclipse</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/em_size.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-11-18 15:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22JetBrains%22&quot;&gt;JetBrains&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2015-03-25 19:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jjetbrains/listings&quot; title=&quot;JB JetBrains&quot;&gt;JB JetBrains&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Kotlin Plugin for Eclipse helps you write, run, debug and test programs in &lt;a href=&quot;http://kotlinlang.org/&quot; rel=&quot;nofollow&quot;&gt;Kotlin language&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Wed, 25 Mar 2015 23:04:10 +0000</pubDate>
- <dc:creator>jjetbrains</dc:creator>
- <guid isPermaLink="false">2257536 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/kotlin-plugin-eclipse#comments</comments>
+    <title>UML Lab Modeling IDE</title>
+    <link>http://marketplace.eclipse.org/content/uml-lab-modeling-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Eclipse%20Marketplace%20Listing%20-%20Round-Trip-Engineering%20%282%29%20110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-11-25 04:45&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Yatta%20Solutions%20GmbH%22&quot;&gt;Yatta Solutions GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2010-11-11 09:06&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/lgeiger/listings&quot; title=&quot;Leif Geiger&quot;&gt;Leif Geiger&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;UML Lab Modeling IDE&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&quot;http://www.uml-lab.com/uml-lab/eclipse/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;UML Lab&lt;/a&gt; is the first Modeling IDE to seamlessly combine modeling and programming with an intuitive UML diagram editor and &lt;a href=&quot;http://www.uml-lab.com/uml-lab/features/roundtrip/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;next-gen round-trip engineering&lt;/a&gt;. Import your software project and get a nice overview via UML within seconds. Experience truly agile modeling and coding within your Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.uml-lab.com/en/uml-lab/videos/round-trip-engineering-ng-video/&quot; target=&quot;UML Lab Gallery&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In short, &lt;a href=&quot;http://www.uml-lab.com/uml-lab/eclipse/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;UML Lab&lt;/a&gt; helps you develop great software.&lt;/p&gt;
+&lt;h3&gt;UML Lab Features for Eclipse Modeling&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Template-based Reverse- and Round-Trip-Engineering NG&lt;/li&gt;
+&lt;li&gt;UML 2.5 class diagram editor with Xpand/Xtend integration&lt;/li&gt;
+&lt;li&gt;Java templates with best practices and patterns included (POJO, JPA, JEE)&lt;/li&gt;
+&lt;li&gt;Java 8 ready&lt;/li&gt;
+&lt;li&gt;PHP templates including MySQL, Zend Framework and CakePHP support&lt;/li&gt;
+&lt;li&gt;Model-based code validation (OCL)&lt;/li&gt;
+&lt;li&gt;Navigation and model exploration&lt;/li&gt;
+&lt;li&gt;Quick overview for any Mylyn task with Context Class Diagrams&lt;/li&gt;
+&lt;li&gt;Task-focussed modeling with Mylyn and round-trip context synchronization&lt;/li&gt;
+&lt;li&gt;XMI import/export (Rational Software Architect, TopCASED, Eclipse UML2)&lt;/li&gt;
+&lt;li&gt;Diagram export (svg, png, jpg, bmp)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Get UML Lab&lt;/h3&gt;
+&lt;p&gt;Visit our &lt;a href=&quot;http://www.uml-lab.com/uml-lab/eclipse/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;website&lt;/a&gt; for more information, pricing and to download a &lt;a href=&quot;http://www.uml-lab.com/download/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;FREE 30-Day Trial&lt;/a&gt; of UML Lab. Annual licenses are available from EUR 199 including support and updates; &lt;a href=&quot;http://www.uml-lab.com/academic/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;Academic Licenses&lt;/a&gt; are free.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://marketplace.yatta.de/profiles/kbut&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Contact us&lt;/h3&gt;
+&lt;p&gt;Missing some information? Post your question in our &lt;a href=&quot;http://www.forum.yatta.de/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;forum&lt;/a&gt; or &lt;a href=&quot;http://www.yatta.de/kontakt/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;contact us&lt;/a&gt; and follow the latest Yatta News on &lt;a href=&quot;http://twitter.com/YattaSolutions/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt; (e.g. UMLlab ) and &lt;a href=&quot;http://facebook.com/YattaSolutions/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please note: Some SWT compatibility issues with Eclipse 4.x under Mac OS X. We are working on a solution. For the time being, we suggest using UML Lab in Mac OS X only with Eclipse 3.x. Thank you for your understanding.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 11 Nov 2010 14:06:52 +0000</pubDate>
+ <dc:creator>lgeiger</dc:creator>
+ <guid isPermaLink="false">19495 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/uml-lab-modeling-ide#comments</comments>
   </item>
   <item>
-    <title>OfficeFloor</title>
-    <link>http://marketplace.eclipse.org/content/officefloor</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/OfficeFloorLogo.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-11-18 11:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22OfficeFloor%22&quot;&gt;OfficeFloor&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2011-02-13 09:46&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/dmisingname27y/listings&quot; title=&quot;Daniel Sagenschneider&quot;&gt;Daniel Sagenschneider&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;OfficeFloor is inversion of coupling control.&lt;/p&gt;
-&lt;p class=&quot;rtecenter&quot;&gt;&lt;em&gt;Inversion of Coupling Control = Dependency Injection + Thread Injection + Continuation Injection &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;For more information visit the OfficeFloor web site ( &lt;a href=&quot;http://www.officefloor.net&quot; rel=&quot;nofollow&quot;&gt;http://www.officefloor.net&lt;/a&gt; )&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Sun, 13 Feb 2011 14:46:13 +0000</pubDate>
- <dc:creator>dmisingname27y</dc:creator>
- <guid isPermaLink="false">32712 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/officefloor#comments</comments>
+    <title>JDeodorant</title>
+    <link>http://marketplace.eclipse.org/content/jdeodorant</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/LogoF_profile_280x210_0.png&quot; width=&quot;107&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2019-11-24 20:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Department%20of%20Computer%20Science%20%26%20Software%20Engineering%2C%20Concordia%20University%22&quot;&gt;Department of Computer Science &amp;amp; Software Engineering, Concordia University&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2007-11-28 10:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tnikolaos/listings&quot; title=&quot;Nikolaos Tsantalis&quot;&gt;Nikolaos Tsantalis&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;JDeodorant is an Eclipse plug-in that identifies design problems in software, known as bad smells, and resolves them by applying appropriate refactorings.&lt;/p&gt;
+&lt;p&gt;JDeodorant employs a variety of novel methods and techniques in order to identify code smells and suggest the appropriate refactorings that resolve them. For the moment, the tool identifies five kinds of bad smells, namely &lt;strong&gt;Feature Envy&lt;/strong&gt;, &lt;strong&gt;Type Checking&lt;/strong&gt;, &lt;strong&gt;Long Method&lt;/strong&gt;, &lt;strong&gt;God Class&lt;/strong&gt; and &lt;strong&gt;Duplicated Code&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Feature Envy problems are resolved by appropriate &lt;em&gt;Move Method&lt;/em&gt; refactorings. Type Checking problems are resolved by appropriate &lt;em&gt;Replace Conditional with Polymorphism&lt;/em&gt; and &lt;em&gt;Replace Type code with State/Strategy&lt;/em&gt; refactorings. Long Method problems are resolved by appropriate &lt;em&gt;Extract Method&lt;/em&gt; refactorings. God Class problems are resolved by appropriate &lt;em&gt;Extract Class&lt;/em&gt; refactorings. Duplicated Code problems are resolved by appropriate &lt;em&gt;Extract Clone&lt;/em&gt; refactorings.&lt;/p&gt;
+&lt;p&gt;The tool is the outcome of the research performed in the &lt;a href=&quot;http://users.encs.concordia.ca/~nikolaos/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Software Refactoring Lab&lt;/a&gt; Department of Computer Science and Software Engineering, Concordia University, Canada and the &lt;a href=&quot;http://se.uom.gr/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Software Engineering Group&lt;/a&gt; at the Department of Applied Informatics, University of Macedonia, Thessaloniki, Greece.&lt;/p&gt;
+&lt;p&gt;JDeodorant encompasses a number of innovative features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Transformation of expert knowledge to fully automated processes&lt;/li&gt;
+&lt;li&gt;Pre-Evaluation of the effect for each suggested solution&lt;/li&gt;
+&lt;li&gt;User guidance in comprehending the design problems&lt;/li&gt;
+&lt;li&gt;User friendliness (one-click approach in improving design quality)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/channel/UCp-NaYVqKOERLreXxwCgWzg&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JDeodorant YouTube Channel&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=_WPtgG6JwJ8&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Refactoring of the Clones - Teaser Trailer&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=LtH8uF0epV0&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Code Smell Visualization Demo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Latest features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/tsantalis/JDeodorant/releases&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JDeodorant Release Information on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[11/11/2016] Bug fixes and improvements: - Extract Class Refactoring implementation tested with &lt;strong&gt;1475 refactorings&lt;/strong&gt; applied in JFreeChart-1.0.19 and &lt;strong&gt;1149 refactorings&lt;/strong&gt; applied in JFreeChart-1.0.10 - Move Method Refactoring implementation tested with &lt;strong&gt;99 refactorings&lt;/strong&gt; applied in JFreeChart-1.0.19 and &lt;strong&gt;65 refactorings&lt;/strong&gt; applied in JFreeChart-1.0.10 - Extract Class and Move Method candidate refactorings are no longer virtually applied. &lt;strong&gt;This makes the detection of refactoring opportunities much faster&lt;/strong&gt;. - Redundant Extract Method refactoring opportunities are no longer reported by eliminating identical slices expanding in different blocks.&lt;/li&gt;
+&lt;li&gt;[12/09/2016] Bug fixes and improvements in the Move Method Refactoring implementation.&lt;/li&gt;
+&lt;li&gt;[29/08/2016] Bug fixes and improvements in the Clone Refactoring feature.&lt;/li&gt;
+&lt;li&gt;[14/06/2016] Proper creation of incoming control dependence for Try statements without resources.&lt;/li&gt;
+&lt;li&gt;[11/06/2016] Bug fixes and improvements: - Fixed the check for unprocessed methods in call graph analysis. - Fixed an infinite loop in call graph analysis. - TypeSearchRequestor excludes anonymous types from the results when searching for subclass types.&lt;/li&gt;
+&lt;li&gt;[09/06/2016] Bug fixes and improvements: - Improved the detection of method declarations with a type parameter from method invocations. - Fixed a common bug in Extract Class and Move Method refactorings related to Enums. - Refactored the common logic for finding topics to class TopicFinder. - Added a right-click pop-up menu to show the code smell visualization on user demand. - Added a check box for the filtering of clone groups based on the Java files currently opened in the editor.&lt;/li&gt;
+&lt;li&gt;[06/04/2016] Extended method call analysis to class instance creations and constructor invocations.&lt;/li&gt;
+&lt;li&gt;[22/02/2016] Fixed all the bugs reported for &lt;strong&gt;Type-Checking&lt;/strong&gt; related refactorings in the paper by Francesca Arcelli Fontana, Marco Mangiacavalli, Domenico Pochiero, and Marco Zanoni titled &lt;strong&gt;On experimenting refactoring tools to remove code smells&lt;/strong&gt;. Special thanks to Marco Mangiacavalli for the detailed report he prepared.&lt;/li&gt;
+&lt;li&gt;[11/02/2016] Fixed all the bugs reported for &lt;strong&gt;Extract Method Refactoring&lt;/strong&gt; in the paper by Francesca Arcelli Fontana, Marco Mangiacavalli, Domenico Pochiero, and Marco Zanoni titled &lt;strong&gt;On experimenting refactoring tools to remove code smells&lt;/strong&gt;. Special thanks to Marco Mangiacavalli for the detailed report he prepared.&lt;/li&gt;
+&lt;li&gt;[01/02/2016] Improved the performance of method call analyzer. If the type of the reference through which a polymorphic method is called can be statically determined, then only the overriding implementation of the subclass type corresponding to the reference type is analyzed.&lt;/li&gt;
+&lt;li&gt;[21/01/2016] - Improved the views for Feature Envy, God Class, Long Method, Type-Checking by allowing the user to apply refactoring opportunities on the currently examined project, even if the user has selected another project in between. The active project is always the last project on which a detection of code smells has been performed. - If the user has opened multiple code smell views, and each one of them contains refactoring opportunities for a different project, then a change to one of the projects will disable the &quot;Apply Refactoring&quot; button only for the code smell view corresponding to the changed project.&lt;/li&gt;
+&lt;li&gt;[15/01/2016] The Extract Method refactoring opportunities in which the statement declaring the variable criterion is nested in a deeper level compared to the level in which the extracted method invocation will be placed (i.e., the level in which the first statement of the slice is nested) are automatically excluded from being reported.&lt;/li&gt;
+&lt;li&gt;[08/01/2016] - The project is always being built before getting parsed. AST parsing takes place only if there are no compilation errors. - Files generated by Parser generators are automatically skipped from the analysis for refactoring opportunities. Currently, JavaCC, ANTLR, JFlex, and CUP generators are supported.&lt;/li&gt;
+&lt;li&gt;[29/12/2015] Fixed all the bugs reported for &lt;strong&gt;Extract Class Refactoring&lt;/strong&gt; in the paper by Francesca Arcelli Fontana, Marco Mangiacavalli, Domenico Pochiero, and Marco Zanoni titled &lt;strong&gt;On experimenting refactoring tools to remove code smells&lt;/strong&gt;. Special thanks to Marco Mangiacavalli for the detailed report he prepared.&lt;/li&gt;
+&lt;li&gt;[14/12/2015] Improved the handling of block nested within control statements in the generation of the Program Dependence Graph.&lt;/li&gt;
+&lt;li&gt;[12/12/2015] Improved the clone statement mapping process to prevent the mapping of statements being nested in the same level, but belonging to different basic blocks.&lt;/li&gt;
+&lt;li&gt;[06/12/2015] Methods belonging to test classes are no longer reported as refactoring opportunities for Feature Envy. Fixed a bug occurring when the user is switching between the Duplicated Code view containing imported clones belonging to project X and the Refactoring of duplicated methods selected in the Package Explorer belonging to project Y.&lt;/li&gt;
+&lt;li&gt;[23/11/2015] The repeated clone groups and class-level clones are no longer stored in memory.&lt;/li&gt;
+&lt;li&gt;[20/11/2015] The Duplicated Code view is updated after a refactoring or any other source code edit to highlight the eliminated, edited, and shifted clones. In this way the user does not have to import new clone detection results after the application of a clone refactoring.&lt;/li&gt;
+&lt;li&gt;[03/11/2015] The import of clone detection results has become faster by disabling the resolution of bindings when configuring the JDT ASTParser.&lt;/li&gt;
+&lt;li&gt;[27/10/2015] Fixed NullPointerException taking place when the default constructor is called, but no such constructor declaration exists in the actual source code.&lt;/li&gt;
+&lt;li&gt;[20/10/2015] Bug fix in the parser for CCFinder clone detection results file.&lt;/li&gt;
+&lt;li&gt;[17/10/2015] Added a &lt;strong&gt;Clone Import Wizard&lt;/strong&gt; supporting the import of clones from 5 popular clone detection tools, namely CCFinder, ConQAT, Deckard, NiCad, and CloneDR. To use this feature go to Bad Smells -&amp;gt; Duplicated Code. This will open the &quot;Duplicated Code&quot; view for displaying the imported clone groups. Next, select a Java project from the Package Explorer, and click on the &quot;Import Clones&quot; button of the view.&lt;/li&gt;
+&lt;li&gt;[19/09/2015] Tons of bug fixes in Extract Clone Refactoring.&lt;/li&gt;
+&lt;li&gt;[20/08/2015] - Updated the detection of type-check elimination opportunities to support state variables having java.lang.String as type. - Fixed the case where the classes of the inheritance hierarchy belong to the same CompilationUnit with the code performing the Runtime Type Identification (bug reported by jasyn). - Tons of bug fixes in Extract Clone Refactoring.&lt;/li&gt;
+&lt;li&gt;[28/05/2015] The files containing the clones are opened in the editor before refactoring to avoid problems in the Undo history when applying successive Extract Clone refactorings.&lt;/li&gt;
+&lt;li&gt;[22/05/2015] Several bug fixes in Extract Clone Refactoring.&lt;/li&gt;
+&lt;li&gt;[07/05/2015] Fixed the refactoring of an if/else matched with a conditional expression (ternary operator).&lt;/li&gt;
+&lt;li&gt;[30/04/2015] - Excluded interfaces Serializable, Runnable, and Comparable from the list of accepted common super types. - Improved the matching of variable declaration statements with assignment statements.&lt;/li&gt;
+&lt;li&gt;[22/04/2015] Extended method commonSuperType() in class ASTNodeMatcher to find also the common superInterface of two types (if there is no common superclass).&lt;/li&gt;
+&lt;li&gt;[16/04/2015] Improved precondition for the parameterization of differences to ignore incoming dependencies from advanced matched nodes.&lt;/li&gt;
+&lt;li&gt;[26/03/2015] &lt;strong&gt;The first stable version of the Control Structure Variant Clone Visualization and Refactoring feature is released&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;[24/12/2014] - Fixed Extract Class Refactoring to make the extracted class implement the Serializable interface, if the source class implements the Serializable interface and at least one extracted field is non-transient. - Fixed the extraction of thrown exceptions in PDG nodes. Class Instance Creations throwing exceptions are also taken into account in addition to method invocations. - Added support for checking whether a method with the same name already exists in a class when performing an Extract Method Refactoring. - Fixed a bug related to the handling of Synchronized blocks during the generation of the PDG.&lt;/li&gt;
+&lt;li&gt;[25/10/2014] - The updating of the model is no longer performed asynchronously. This bug caused model inconsistencies when detecting refactoring opportunities in the new code elements introduced by a previously applied refactoring. - Added vertical scrolling to the Slice Profile table. - Added support for collecting comments (i.e., line, block, and javadoc comments) - Fixed the refactoring of clones already containing parameters with argN names (where N is an integer starting from 0) - Fixed a bug in the Extract Method Refactoring mechanics&lt;/li&gt;
+&lt;li&gt;[21/09/2014] Updated the slice-profile view to display all local variables declared inside the body of the examined method. Added an option that enables only the variables with a scope covering the entire method body.&lt;/li&gt;
+&lt;li&gt;[10/09/2014] Fixed the refactoring of clones with additionally matched statements coming from the advanced matching of control predicate statements.&lt;/li&gt;
+&lt;li&gt;[06/09/2014] Added support for the advanced matching of a VariableDeclaration statement having an initializer with a VariableDeclaration statement not having an initializer + an Assignment statement initializing the declared variable. See &lt;strong&gt;screenshots&lt;/strong&gt; for details.&lt;/li&gt;
+&lt;li&gt;[30/08/2014] Several fixes in Extract Clone Refactoring. - Updated the search scope for sub-types using SearchEngine.createStrictHierarchyScope() introduced in JDT 3.6 This update improved significantly the performance of the search for sub-types. - Added support for the &lt;strong&gt;advanced matching&lt;/strong&gt; of different loop structures and if statements with expressions using the ternary operator. This feature was developed by &lt;strong&gt;Zackary Valenta&lt;/strong&gt; as part of his NSERC USRA project.&lt;/li&gt;
+&lt;li&gt;[20/07/2014] &lt;strong&gt;The first stable version of the Software Clone Visualization and Refactoring feature is released&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;[06/04/2014] - Added support for Synchronized and Labeled statements in Extract Clone refactoring. - Added support for pulling up additional duplicated methods called from the original clones in Extract Clone refactoring.&lt;/li&gt;
+&lt;li&gt;[29/03/2014] Fixed the matching of method invocations with method declarations having &lt;strong&gt;varargs&lt;/strong&gt; parameters. - Added analysis support for &lt;strong&gt;Enum&lt;/strong&gt; types. - Added analysis support for &lt;strong&gt;Labeled&lt;/strong&gt; and &lt;strong&gt;Synchronized&lt;/strong&gt; statements.&lt;/li&gt;
+&lt;li&gt;[22/02/2014] Clone Visualization bug fixes: a) fixed the matching of InfixExpressions, b) fixed a bug in the highlighting of differences for SimpleTypes.&lt;/li&gt;
+&lt;li&gt;[21/12/2013] Improved the matching of method invocations with method declarations to address the cases where &#039;type parameter names&#039; are replaced with actual types in the method calls.&lt;/li&gt;
+&lt;li&gt;[14/12/2013] - Improved the user interface of Extract Clone Refactoring, so that it presents multiple refactoring opportunities from a pair of methods in the same Wizard page (using a combo for allowing the user to select among the different refactoring opportunities). - Added initial support for the mapping of if/else statements with expression statements containing a conditional expression (i.e., the ternary operator &lt;strong&gt;condition ? true : false&lt;/strong&gt;).&lt;/li&gt;
+&lt;li&gt;[13/10/2013] - Fixed the handling of additional methods moved along with source method in Move Method Refactoring. - Fixed the processing of if statements within the body of do-while loops in the construction of control flow graphs.&lt;/li&gt;
+&lt;li&gt;[06/10/2013] &lt;strong&gt;New Clone Visualization and Refactoring&lt;/strong&gt; (Beta) support. To use the new feature select two methods in the Package Explorer (holding the Ctrl key), right-click on one of the methods, and select &quot;Refactor Duplicated Code...&quot; - All inner types are parsed regardless of their nesting level. - Method calls with varargs are properly handled in method call analysis. - Program Dependence Graph generation has been enhanced with a caching mechanism for internal method calls.&lt;/li&gt;
+&lt;li&gt;[02/09/2013] &lt;strong&gt;New Code Smell Package Map Explorer for Feature Envy and God Class!!&lt;/strong&gt; This new visualization allows to explore the detected code smells at system level and discover relationships and dependencies between code smells. The visualization was developed by &lt;strong&gt;Kimberly Dextras-Romagnino&lt;/strong&gt; as part of her NSERC USRA project.&lt;/li&gt;
+&lt;li&gt;[02/07/2013] Code Smell Visualizations have been enhanced with &lt;strong&gt;auto scrollbar adjustment&lt;/strong&gt; and &lt;strong&gt;zoom support&lt;/strong&gt; (from the View menu options or by scrolling the mouse wheel).&lt;/li&gt;
+&lt;li&gt;[21/06/2013] The binding returned from SimpleName expressions should be checked for NullPointer. Many thanks to &lt;strong&gt;Wei Wu&lt;/strong&gt; (École Polytechnique de Montréal) for reporting the problem.&lt;/li&gt;
+&lt;li&gt;[13/06/2013] &lt;strong&gt;New Code Smell Visualizations for Feature Envy and God Class!!&lt;/strong&gt; Whenever you double-click on a refactoring suggestion a View will open displaying a visualization for the corresponding code smell instance. The visualizations were developed by &lt;strong&gt;Kimberly Dextras-Romagnino&lt;/strong&gt; as part of her NSERC USRA project.&lt;/li&gt;
+&lt;li&gt;[28/02/2013] Fixed a bug in the construction of control flow graphs. Many thanks to &lt;strong&gt;Danny Verloop&lt;/strong&gt; (TU Delft) for reporting the problem.&lt;/li&gt;
+&lt;li&gt;[06/11/2012] JDeodorant was updated to support &lt;strong&gt;Union Types&lt;/strong&gt; introduced in Java 7. Union types are mainly used in the new &lt;strong&gt;Multicatch&lt;/strong&gt; feature.&lt;/li&gt;
+&lt;li&gt;[04/11/2012] JDeodorant was updated to support the &lt;strong&gt;Java Language Specification 4&lt;/strong&gt; (Java 7). This affected the construction of Control Flow and Program Dependence graphs, since try statements may declare resources in JLS 4. More details can be found at the &lt;a href=&quot;http://users.encs.concordia.ca/~nikolaos/jdeodorant/index.php?option=com_content&amp;amp;view=article&amp;amp;id=71&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JDeodorant ChangeLog&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[26/10/2012] Alias analysis in the detection of Extract Method refactoring opportunities (Long method code smell) caused in some cases an infinite recursion. The new implementation of alias analysis improves significantly the performance. This is an &lt;strong&gt;important&lt;/strong&gt; update.&lt;/li&gt;
+&lt;li&gt;[09/10/2012] The exclusion of classes containing method with @Test annotations from the analysis may cause NullPointer exceptions (such a case was found in JUnit). As a result, test methods are not excluded from the analysis.&lt;/li&gt;
+&lt;li&gt;[28/02/2012] Created a Standalone version of JDeodorant for the detection of refactoring opportunities from Eclipse applications. The results of Type Checking bad smell are now reported in a tree view and are grouped per inheritance hierarchy or named constants.&lt;/li&gt;
+&lt;li&gt;[16/11/2011] Added a new precondition for Move Method refactoring. The variable (parameter or field of target class type) through which the moved method will be invoked must not be assigned within the body of the candidate method to be moved.&lt;/li&gt;
+&lt;li&gt;[04/09/2011] Fixed the unnecessary importing of nested types in all implemented refactorings.&lt;/li&gt;
+&lt;li&gt;[22/04/2011] Several improvements in the identification process and presentation of Extract Class refactoring opportunities. The application of the Extract Class Refactoring has been improved to handle the extraction of static members and the proper initialization of final fields in the extracted class when they are initialized inside constructors. More details can be found at the &lt;a href=&quot;http://users.encs.concordia.ca/~nikolaos/jdeodorant/index.php?option=com_content&amp;amp;view=article&amp;amp;id=71&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JDeodorant ChangeLog&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[15/03/2011] Added a user option in the input pages of the Move Method and Extract Class refactorings allowing to keep delegates to the public moved methods.&lt;/li&gt;
+&lt;li&gt;[12/03/2011] Extract Class Refactoring has been implemented from scratch and several bugs have been fixed. Added user rating support for the identified Extract Class refactoring opportunities.&lt;/li&gt;
+&lt;li&gt;[09/01/2011] Try/catch blocks and throw statements are handled according to the approach proposed by Allen &amp;amp; Horwitz (2003). Added a rule for the preservation of output dependences. M. Allen, and S. Horwitz, &quot;Slicing Java Programs that Throw and Catch Exceptions&quot;, ACM SIGPLAN Workshop on Partial Evaluation and semantics-based Program Manipulation, pp. 44-54, 2003.&lt;/li&gt;
+&lt;li&gt;[25/12/2010] The unlabeled break and continue statements within the body of loops and the break statements within the body of switch statements are handled according to the augmented program dependence graph (APDG) approach proposed by Ball &amp;amp; Horwitz (1993), Kumar &amp;amp; Horwitz (2002). T. Ball, and S. Horwitz, &quot;Slicing Programs with Arbitrary Control Flow&quot;, First International Workshop on Automated and Algorithmic Debugging, pp. 206-222, 1993. S. Kumar, and S. Horwitz, &quot;Better Slicing of Programs with Jumps and Switches&quot;, Fifth International Conference on Fundamental Approaches to Software Engineering, pp. 96-112, 2002.&lt;/li&gt;
+&lt;li&gt;[02/12/2010] Fixed a variety of problems related with the Type checking code smell.&lt;/li&gt;
+&lt;li&gt;[08/11/2010] Added functionality allowing the user to rate each identified refactoring opportunity with a rating ranging from 0 to 5 stars. The ratings provided by the users will help JDeodorant team to improve the ranking mechanism that sorts the identified refactoring opportunities.&lt;/li&gt;
+&lt;li&gt;[27/08/2010] Added support for code smell evolution analysis throughout successive versions of a given Java project. Just select an identified refactoring opportunity from the table view and click on &quot;Evolution Analysis&quot; button. JDeodorant will automatically analyze the evolution of the corresponding code smell in the relevant project versions loaded in the workspace. Eventually, JDeodorant will present a table showing the changes regarding the severity of the code smell among the successive project versions. Watch out the &lt;a href=&quot;http://users.encs.concordia.ca/~nikolaos/jdeodorant/webcasts/FeatureEnvyEvolution/FeatureEnvyEvolution.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;screencast&lt;/a&gt; showing the evolution analysis for a Feature Envy code smell.&lt;/li&gt;
+&lt;li&gt;[12/07/2010] Added an Update Site for JDeodorant.&lt;/li&gt;
+&lt;li&gt;[11/07/2010] The tool supports the identification of Extract Class refactoring opportunities for the decomposition of &quot;God&quot; classes. This feature is the outcome of a joint research effort with the &lt;a href=&quot;http://ssrg.cs.ualberta.ca/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;SSRG Lab&lt;/a&gt; at the Department of Computing Science, University of Alberta.&lt;/li&gt;
+&lt;li&gt;[01/07/2010] The speed of slice computation when constructing unions of slices has been &lt;strong&gt;significantly improved&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;[15/06/2010] A flexible calculator for slice-based cohesion metrics. Just right-click on a method from Package Explorer and click on &quot;Slice-based Cohesion Metrics...&quot; from the menu. The calculator will automatically compute the slices for all the variables which are declared within the body of the selected method and visually present its slice profile. The user can enable/disable any variable from the slice profile. The statements which are common to all enabled slices are highlighted in green color. The slice-based cohesion metrics (&lt;strong&gt;overlap&lt;/strong&gt;, &lt;strong&gt;tightness&lt;/strong&gt;, &lt;strong&gt;coverage&lt;/strong&gt;) are dynamically re-calculated after each modification of the slice profile. See the screenshots for details.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 28 Nov 2007 15:33:58 +0000</pubDate>
+ <dc:creator>tnikolaos</dc:creator>
+ <guid isPermaLink="false">593 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/jdeodorant#comments</comments>
   </item>
   <item>
-    <title>aiXcoder AI Code Completer</title>
-    <link>http://marketplace.eclipse.org/content/aixcoder-ai-code-completer</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo_s.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-11-18 08:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22aiXcoder%22&quot;&gt;aiXcoder&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-11-15 09:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/yhaoamy/listings&quot; title=&quot;Yiyang Hao&quot;&gt;Yiyang Hao&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;aiXcoder AI Code Completer&lt;/h2&gt;
-&lt;p&gt;
-AiXcoder is an code suggestions generator using the latest AI technologies. Our model is trained on over 1 TB of open source code and served from your own computer.&lt;/p&gt;
-&lt;p&gt;
-For now aiXcoder only supports Java.&lt;/p&gt;
-&lt;p&gt;Currently it runs on 64-bit Windows/Mac OS and Linux.&lt;/p&gt;
-&lt;h3&gt;Requirements&lt;/h3&gt;
-&lt;ol&gt;&lt;li&gt; Eclipse 4.3(Kepler) or higher&lt;/li&gt;
-&lt;li&gt; [JRE 1.8+](&lt;a href=&quot;https://adoptopenjdk.net/&quot; rel=&quot;nofollow&quot;&gt;https://adoptopenjdk.net/&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt; Around 500 MB of free memory.&lt;/li&gt;
-&lt;li&gt; More than 300 MB of free disk space in your home directory.&lt;/li&gt;
-&lt;/ol&gt;&lt;h3&gt;
-Features&lt;/h3&gt;
+    <title>MyBatis Generator</title>
+    <link>http://marketplace.eclipse.org/content/mybatis-generator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo-bird-ninja-smaller.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2019-11-24 17:22&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22MyBatis.org%22&quot;&gt;MyBatis.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-06-27 11:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jbutler384/listings&quot; title=&quot;Jeff Butler&quot;&gt;Jeff Butler&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;MyBatis Generator will introspect database tables and generate MyBatis. MyBatis Generator will generate either Java or Kotlin code for use with MyBatis. This helps to minimize the effort required to create simple CRUD operations for database files when using MyBatis. This solution enables interactive running of MyBatis Generator in eclipse. It includes the following features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;A wizard for creating new MyBatis Generator configuration files&lt;/li&gt;
+&lt;li&gt;A custom launcher for running MyBatis Generator&lt;/li&gt;
+&lt;li&gt;An Eclipse enabled Ant task for MyBatis Generator&lt;/li&gt;
+&lt;li&gt;MyBatis Generator DTD added to the XML catalog&lt;/li&gt;
+&lt;li&gt;Help fully integrated into the eclipse help system&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 27 Jun 2016 15:31:36 +0000</pubDate>
+ <dc:creator>jbutler384</dc:creator>
+ <guid isPermaLink="false">2947754 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/mybatis-generator#comments</comments>
+  </item>
+  <item>
+    <title>AnyEdit Tools</title>
+    <link>http://marketplace.eclipse.org/content/anyedit-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/about32.png&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-11-22 10:09&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Andrey%20Loskutov%22&quot;&gt;Andrey Loskutov&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2004-02-18 19:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aloskutov/listings&quot; title=&quot;Andrey Loskutov&quot;&gt;Andrey Loskutov&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a class=&quot;none&quot; href=&quot;http://www.eclipse.org/org/foundation/eclipseawards/winners09.php&quot; title=&quot;Eclipse ready&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AnyEdit plugin adds several new tools to the context menu of text- based Eclipse editors, to output consoles, to Eclipse main menu and editor toolbar. AnyEdit contributes also Import/Export working sets wizards.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;box&quot; href=&quot;http://andrei.gmxhome.de/anyedit/features.html&quot; rel=&quot;nofollow&quot;&gt;What can AnyEdit do for you? &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;   -&amp;gt; &lt;a class=&quot;box&quot; href=&quot;http://andrei.gmxhome.de/anyedit/examples.html&quot; rel=&quot;nofollow&quot;&gt; AnyEdit examples&lt;/a&gt; -&amp;gt; &lt;a class=&quot;box&quot; href=&quot;http://andrei.gmxhome.de/anyedit/preferences.html&quot; rel=&quot;nofollow&quot;&gt; AnyEdit preferences &lt;/a&gt; -&amp;gt; &lt;a class=&quot;box&quot; href=&quot;http://andrei.gmxhome.de/anyedit/examples2.html&quot; rel=&quot;nofollow&quot;&gt; AnyEdit in action &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AnyEdit can perform &lt;strong&gt;tabs &amp;lt;-&amp;gt; spaces&lt;/strong&gt; conversion on multiple files or entire directories.&lt;/p&gt;
+&lt;p&gt;AnyEdit has both workspace and project settings and allows also file exclusion filter for tabs &amp;lt;-&amp;gt; spaces action.&lt;/p&gt;
+&lt;p&gt;AnyEdit allows you &lt;strong&gt;automatically&lt;/strong&gt; remove trailing whitespace, perform tabs&amp;lt;-&amp;gt;spaces conversion and fix line delimiters (Windows: CRLF&amp;lt;-&amp;gt;Linux: LF&amp;lt;-&amp;gt;Mac: CR) on the &quot;save&quot; action in all text-based Eclipse editors. Also AnyEdit can automatically create a new line at the end of the file if the last line was not terminated by new line.&lt;/p&gt;
+&lt;p&gt;AnyEdit adds &quot;&lt;strong&gt;Save All&lt;/strong&gt;&quot; and &quot;&lt;strong&gt;Open File&lt;/strong&gt;&quot; buttons to the global Eclipse toolbar and can remove &quot;Print&quot; button from it on Eclipse 3.x (because it is completely useless on Linux).&lt;/p&gt;
+&lt;p&gt;AnyEdit adds &quot;&lt;strong&gt;Open File&lt;/strong&gt;&quot;, &quot;&lt;strong&gt;Open Type&lt;/strong&gt;&quot; and &quot;&lt;strong&gt;Save to file...&lt;/strong&gt;&quot; actions to supported output consoles and &quot;Save to file...&quot; toolbar button to the Console view.&lt;/p&gt;
+&lt;p&gt;AnyEdit adds four new context menu actions to &quot;&lt;strong&gt;Compare With&lt;/strong&gt;&quot; and &quot;&lt;strong&gt;Replace With&lt;/strong&gt;&quot; menus in both editors and files.&lt;/p&gt;
+&lt;p class=&quot;menu&quot;&gt;Overview about *visible* contributions provided by AnyEdit tools:&lt;/p&gt;
+
+
+
+What?
+Where?
+Details
+
+
+Open File under Cursor
+Editors, Console views, &lt;a href=&quot;http://andrei.gmxhome.de/bytecode/index.html&quot; rel=&quot;nofollow&quot;&gt;Bytecode Outline View&lt;/a&gt;
+Useful by many include&#039;s in jsp&#039;s, C/C++ files, file names in the console output etc. Can jump to the right line!&lt;br /&gt;
+			Works with run/debug and Ant console too, support &quot;jump to line&quot;!
+
+
+Open Type under Cursor
+Editors, Console views, &lt;a href=&quot;http://andrei.gmxhome.de/bytecode/index.html&quot; rel=&quot;nofollow&quot;&gt;Bytecode Outline View&lt;/a&gt;
+Useful for all xml&#039;s, tld&#039;s, jsp&#039;s etc files with referenced Java types.&lt;br /&gt;
+			Works with run/debug and Ant console too!
+
+
+Save to file...
+Most of the Console views, &lt;a href=&quot;http://andrei.gmxhome.de/bytecode/index.html&quot; rel=&quot;nofollow&quot;&gt;Bytecode Outline View&lt;/a&gt;
+Allows to save the console/view content and quickly reopen it in an editor.&lt;br /&gt;
+			Works with most of the existing consoles!
+
+
+Format Stack Trace
+Java Stack Trace Console view
+Formats the ill-formated stack traces (like from some JUnit test reports).
+
+
+
+&lt;p&gt;Edit&lt;br /&gt;
+			    Color Witespace in Editors&lt;/p&gt;
+
+&quot;Edit&quot; menu, main toolbar
+Allows to show tabs and spaces colored in the text editor. Shows trailing whitespace in a &quot;Gerrit&quot; mode per default. Has to be enabled once for the desired perspective via Window -&amp;gt; Customize Perspective -&amp;gt; Commands -&amp;gt; Whitespace
+
+
+File Import / Export&lt;br /&gt;
+			    Working Sets
+&quot;File&quot; menu
+Allows you to store working set definitions to the file and apply them to the another workspace by importing them.
+
+
+File&lt;br /&gt;
+			    Convert Tabs &amp;lt;-&amp;gt; Spaces
+&quot;File&quot; menu
+Enabled only if more then one file/folder is selected in Navigator or Project Explorer
+
+
+
+&lt;p&gt;Convert&lt;br /&gt;
+			    Tabs to Spaces&lt;br /&gt;
+			    Spaces to Tabs&lt;/p&gt;
+
+Editors
+Trailing whitespace will be removed and line delimiters will be fixed automatically (if set in preferences)
+
+
+
+&lt;p&gt;Convert&lt;br /&gt;
+			    Chars to Html entities&lt;br /&gt;
+			    Html Entities to Chars&lt;/p&gt;
+
+Editors
+Useful if working in bilingual team to convert é&#039;s, ô&#039;s, ä&#039;s etc between html and other sources ;)
+
+
+Convert&lt;br /&gt;
+			    Camel &amp;lt;-&amp;gt; Underscores
+Editors
+Auto-convert variable names from/to &quot;camel&quot; notation, like&lt;br /&gt;
+			thisIsMyFieldName &amp;lt;-&amp;gt; this_is_my_field_name
+
+
+Convert&lt;br /&gt;
+			    Capitalize
+Editors
+Only text selection in editor will be changed
+
+
+Convert&lt;br /&gt;
+			    Invert Case
+Editors
+Only text selection in editor will be changed
+
+
+Convert&lt;br /&gt;
+			    To Upper Case&lt;br /&gt;
+			    To Lower Case
+Editors
+Only text selection in editor will be changed
+
+
+Convert&lt;br /&gt;
+			    To Unicode Notation&lt;br /&gt;
+			    From Unicode Notation
+Editors
+Only text selection in editor will be changed
+
+
+Convert&lt;br /&gt;
+			    To Base64&lt;br /&gt;
+			    From Base64
+Editors
+Only text selection in editor will be changed
+
+
+Sort&lt;br /&gt;
+			    Case-Sensitive A-z&lt;br /&gt;
+			    Case-Sensitive z-A&lt;br /&gt;
+			    Case-Insensitive A-Z&lt;br /&gt;
+			    Case-Insensitive Z-A&lt;br /&gt;
+			    Numerically 0-9&lt;br /&gt;
+			    Numerically 9-0&lt;br /&gt;
+			    Line Length Short-Long&lt;br /&gt;
+			    Line Length Long-Short
+Editors
+If nothing is selected, entire editor content will be sorted, otherwise only text selection in editor will be changed
+
+
+Compare / Replace with&lt;br /&gt;
+			    Clipboard
+Editors, Navigator, Project Explorer
+If some text is selected in editor, then only this selection will be compared, otherwise entire editor
+
+
+Compare / Replace with&lt;br /&gt;
+			    Workspace File...
+Editors, Navigator, Project Explorer
+If some text is selected in editor, then only this selection will be compared, otherwise entire editor
+
+
+Compare / Replace with&lt;br /&gt;
+			    External File...
+Editors, Navigator, Project Explorer
+If some text is selected in editor, then only this selection will be compared, otherwise entire editor
+
+
+Compare / Replace with&lt;br /&gt;
+			    Opened Editor...
+Editors, Navigator, Project Explorer
+If some text is selected in editor, then only this selection will be compared, otherwise entire editor
+
+
+
+&lt;p&gt;Current version works with Eclipse from 3.8 to 4.6 and requires Java &amp;gt;= 1.7, but older AnyEdit versions for Eclipse 2.1 up to 3.7 may be downloaded from the homepage too.&lt;/p&gt;
+&lt;p&gt;See more details at &lt;a href=&quot;http://andrei.gmxhome.de/anyedit/index.html&quot; rel=&quot;nofollow&quot;&gt;the AnyEdit Tools homepage&lt;/a&gt; and &lt;a href=&quot;https://github.com/iloveeclipse/anyedittools/&quot; rel=&quot;nofollow&quot;&gt;Github project page&lt;/a&gt;&lt;a rel=&quot;nofollow&quot;&gt;. &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot;&gt;Support development of the plugin! &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;ol&gt;&lt;li&gt; Java completion powered by deep learning.&lt;/li&gt;
-&lt;li&gt; Completely works offline. Your code is safe in your hand.&lt;/li&gt;
-&lt;li&gt; Long completion result with length up to a full line.&lt;/li&gt;
-&lt;li&gt; Rearrange completion items in a likelyhood probability descending order.&lt;/li&gt;
-&lt;/ol&gt;&lt;p&gt; &lt;/p&gt;
-&lt;h3&gt;Troubleshooting&lt;/h3&gt;
-&lt;p&gt;
-The local server is downloaded into &amp;lt;home&amp;gt;/aiXcoder/installer/localserver/current/server/. Removing the folder and then restart Eclipse&lt;br /&gt;
-will force this plugin to re-download the service.&lt;br /&gt;
-The service is started as two processes with name &quot;aix-node(.exe)&quot;, you can safely kill them at any time. The plugin will automatically launch the service upon a completion event if not running.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Enjoy!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Fri, 15 Nov 2019 14:31:00 +0000</pubDate>
- <dc:creator>yhaoamy</dc:creator>
- <guid isPermaLink="false">4883142 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/aixcoder-ai-code-completer#comments</comments>
-  </item>
-  <item>
-    <title>DBeaver</title>
-    <link>http://marketplace.eclipse.org/content/dbeaver</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Community_icon.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2019-11-17 15:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22DBeaver%20Corp%22&quot;&gt;DBeaver Corp&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2012-11-04 11:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/sriderdp1/listings&quot; title=&quot;Serge Rider&quot;&gt;Serge Rider&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DBeaver is free universal SQL client/database tool for developers and database administrators. It can work with any database server which has JDBC or ODBC driver. It supports pluggable extensions. Includes extensions for: MySQL, MariaDB, Oracle, DB2, PostgreSQL, SQL Server, Sybase, Apache Hive, Drill, PrestoDB, Phoenix, Exasol, Informix, Teradata, Vertica, Netezza, Firebird, Derby, H2, H2GIS, WMI, Snowflake, Greenplum, AWS Redshift, AWS Athena, SAP HANA, NuoDB, MS Access, SQLite, CSV, DBF, Firebird, TimescaleDB, Yellowbrick, CockroachDB, OrientDB, MonetDB, Google BigQuery, Google Spanner, Apache Hive/Impala/Spark, Apache Ignite, MapD, Azure SQL, CrateDB, Elasticsearch.&lt;/p&gt;
-&lt;p&gt;Features: database schema browser, metadata editor (tables, columns, keys, indexes), SQL statements/scripts execution, SQL highlighting, autocompletion, formatting; result set/table view/edit/search; BLOB/CLOB view/edit support; GIS spatial data viewer, scrollable resultsets; transactions management; database metadata and full-text search; ER diagrams; server sessions management, transaction locks management, SSH/SOCKS support, mock data generator; automatic drivers download; stored procedures debugger; data import/export/migration; database health monitoring dashboards; spatial data viewer; git integration; etc.&lt;/p&gt;
-&lt;p&gt;Supports Color Theme and Darkest Dark themes.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Standalone version download available on &lt;a href=&quot;https://dbeaver.io/download/&quot; rel=&quot;nofollow&quot;&gt;https://dbeaver.io/download/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Source code: &lt;a href=&quot;https://github.com/dbeaver/dbeaver&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dbeaver/dbeaver&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;User guide: &lt;a href=&quot;https://github.com/dbeaver/dbeaver/wiki&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dbeaver/dbeaver/wiki&lt;/a&gt;&lt;/li&gt;
+&lt;a rel=&quot;nofollow&quot;&gt;   &lt;/a&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot;&gt;  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot;&gt;My other plugins on EPIC: &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://marketplace.eclipse.org/content/bytecode-outline&quot; rel=&quot;nofollow&quot;&gt;Bytecode Outline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://marketplace.eclipse.org/content/extended-vs-presentation&quot; rel=&quot;nofollow&quot;&gt;Extended VS Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://marketplace.eclipse.org/content/filesync&quot; rel=&quot;nofollow&quot;&gt;FileSync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://marketplace.eclipse.org/content/jdepend4eclipse&quot; rel=&quot;nofollow&quot;&gt;JDepend4Eclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://marketplace.eclipse.org/content/data-hierarchy&quot; rel=&quot;nofollow&quot;&gt;Data Hierarchy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://marketplace.eclipse.org/content/findbugs-eclipse-plugin&quot; rel=&quot;nofollow&quot;&gt;FindBugs plugin for Eclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://marketplace.eclipse.org/content/plugin-dependencies-explorer&quot; rel=&quot;nofollow&quot;&gt;Plug-In Dependencies Explorer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Sun, 04 Nov 2012 16:30:36 +0000</pubDate>
- <dc:creator>sriderdp1</dc:creator>
- <guid isPermaLink="false">507775 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/dbeaver#comments</comments>
+     <pubDate>Thu, 19 Feb 2004 00:29:00 +0000</pubDate>
+ <dc:creator>aloskutov</dc:creator>
+ <guid isPermaLink="false">87 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/anyedit-tools#comments</comments>
   </item>
   <item>
-    <title>SU-statemodeler</title>
-    <link>http://marketplace.eclipse.org/content/su-statemodeler</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/icon_10.png&quot; width=&quot;109&quot; height=&quot;79&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/cpauliadp/listings&quot; title=&quot;Christian Pauli&quot;&gt;Christian Pauli&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2019-11-17 13:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-04-04 14:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;(imple) &lt;strong&gt;U&lt;/strong&gt;(ML)-statemodeler enables you to develop state-based software systems with only little programming effort. The application is easy to use and does not require any programming skills. So you can focus on functional requirements.&lt;/p&gt;
-&lt;p&gt;The application consists of a graphical editor for UML-statecharts and a code-generator. With the editor every kind of state-based system can be modeled. These models can be compiled into code of several programming languages. Currently the following languages are supported:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Java&lt;/li&gt;
-&lt;li&gt;C# and&lt;/li&gt;
-&lt;li&gt;C++
-&lt;ul&gt;&lt;li&gt;for Windows, Linux and Arduino-platform&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Code-generation is made with one click. The generated code can easlily be integrated in other software systems.&lt;/p&gt;
-&lt;p&gt;The application is available as standalone editor and as plug-in for Eclipse. Supported languages are English and German.&lt;/p&gt;
-&lt;p&gt;It is free for private and commercial use.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Mon, 04 Apr 2016 18:42:43 +0000</pubDate>
- <dc:creator>cpauliadp</dc:creator>
- <guid isPermaLink="false">2812174 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/su-statemodeler#comments</comments>
-  </item>
-  <item>
-    <title>Bash Editor</title>
-    <link>http://marketplace.eclipse.org/content/bash-editor</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/bash-editor-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2019-11-16 18:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-07-10 06:27&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plugin is a bash script editor.&lt;/p&gt;
-&lt;p&gt;Features:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Integrated bash debugger&lt;br /&gt;
-	(Update: 2 Preferences have changed see &lt;a href=&quot;https://github.com/de-jcup/eclipse-bash-editor/releases/tag/v2.2.3&quot; rel=&quot;nofollow&quot;&gt;Release 2.2.3&lt;/a&gt; for details)&lt;/li&gt;
-&lt;li&gt;Syntax highlighting&lt;/li&gt;
-&lt;li&gt;Outline&lt;/li&gt;
-&lt;li&gt;Quick-Outline (CTRL + o )&lt;/li&gt;
-&lt;li&gt;Open referenced functions by hyperlink (script, project or even workspace scope possible)&lt;/li&gt;
-&lt;li&gt;Validation&lt;/li&gt;
-&lt;li&gt;Simple code completion (keywords + existing words)&lt;/li&gt;
-&lt;li&gt;Colors can be customized. Also additional defaults for dark theme exists.&lt;/li&gt;
-&lt;li&gt;Bracket switching + highlighting&lt;/li&gt;
-&lt;li&gt;Block commenting (CTRL+7)&lt;/li&gt;
-&lt;li&gt;Auto bracket closing for []&lt;/li&gt;
-&lt;li&gt;Small (&amp;lt;560 kb)&lt;/li&gt;
-&lt;li&gt;Tooltips for keywords (offline description + link to online information)&lt;/li&gt;
-&lt;li&gt;Works on Linux, Windows and Mac out of the box.&lt;/li&gt;
-&lt;li&gt;Save Actions
-&lt;ul&gt;&lt;li&gt;External Tool can be used for auto format on save, default is set to beautysh&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Additional links&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-bash-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue Tracker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLaBYAz_I_8tF7sZVIcUv8zOVe2RMiWn-L&quot; rel=&quot;nofollow&quot;&gt;YouTube Videos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-bash-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-bash-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://htmlpreview.github.io/?https://raw.githubusercontent.com/de-jcup/eclipse-bash-editor/master/basheditor-plugin/html/toc.html&quot; rel=&quot;nofollow&quot;&gt;Internal help (Preview master branch)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Mon, 10 Jul 2017 10:27:25 +0000</pubDate>
- <dc:creator>atregnaghi</dc:creator>
- <guid isPermaLink="false">3536358 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/bash-editor#comments</comments>
+    <title>SonarLint</title>
+    <link>http://marketplace.eclipse.org/content/sonarlint</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/sonarlint-110x80_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-11-22 08:43&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22SonarSource%20S.A%22&quot;&gt;SonarSource S.A&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2015-10-15 14:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jhenrym6y/listings&quot; title=&quot;Julien HENRY&quot;&gt;Julien HENRY&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. Like a spell checker, SonarLint squiggles flaws so they can be fixed before committing code. You can get it directly from the Eclipse Marketplace, and it will then detect new bugs and quality issues as you code (Java, JavaScript, PHP, Python and HTML).&lt;/p&gt;
+&lt;p&gt;If your project is analyzed on SonarQube or on SonarCloud, SonarLint can connect to the server to retrieve the appropriate quality profiles and settings for that project, as well as some additional languages support.&lt;/p&gt;
+&lt;p&gt;Discover more at &lt;a href=&quot;http://www.sonarlint.org&quot; rel=&quot;nofollow&quot;&gt;www.sonarlint.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SonarLint requires Eclipse to use Java 8+ as runtime (but you can analyze Java projects targeting older Java versions). For any question or feedback please join the &lt;a href=&quot;https://community.sonarsource.com/c/help/sl&quot; rel=&quot;nofollow&quot;&gt;SonarSource Community Forum&lt;/a&gt; .&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 15 Oct 2015 18:54:47 +0000</pubDate>
+ <dc:creator>jhenrym6y</dc:creator>
+ <guid isPermaLink="false">2568658 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/sonarlint#comments</comments>
   </item>
   </channel>
 </rss>

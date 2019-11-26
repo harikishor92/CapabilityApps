@@ -1,6 +1,0 @@
-package com.capability.qa.Pages;
-
-public class Dev2TopicPage extends VerifyTopic{
-	
-
-}

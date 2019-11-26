@@ -1,0 +1,26 @@
+package com.capability.qa.Pages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.capability.qa.Base.BaseTest;
+
+public class EditQuestionsPage extends BaseTest{
+	
+	@FindBy(xpath = "//input[@class='form-control question']")
+	private  WebElement editQuestion;
+	
+	public EditQuestionsPage()
+	{
+		PageFactory.initElements(driver, this);
+	}
+	
+	
+	public void editQuestion(String que)
+	{
+		editQuestion.clear();
+		editQuestion.sendKeys(que);
+	}
+
+}

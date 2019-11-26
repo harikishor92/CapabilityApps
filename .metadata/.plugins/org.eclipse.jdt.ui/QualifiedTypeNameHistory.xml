@@ -38,13 +38,15 @@
 <fullyQualifiedTypeName name="org.testng.Assert"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
-<fullyQualifiedTypeName name="com.capability.qa.Base.BaseTest"/>
-<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
 <fullyQualifiedTypeName name="com.capability.qa.Pages.AddQuestionsPage"/>
 <fullyQualifiedTypeName name="ObjectRepository.OR"/>
 <fullyQualifiedTypeName name="com.capability.qa.ObjectRepository.OR"/>
-<fullyQualifiedTypeName name="com.capability.qa.Util.TestUtil"/>
 <fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
+<fullyQualifiedTypeName name="com.capability.qa.Base.BaseTest"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+<fullyQualifiedTypeName name="com.capability.qa.Pages.EditQuestionsPage"/>
+<fullyQualifiedTypeName name="com.capability.qa.Util.TestUtil"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>

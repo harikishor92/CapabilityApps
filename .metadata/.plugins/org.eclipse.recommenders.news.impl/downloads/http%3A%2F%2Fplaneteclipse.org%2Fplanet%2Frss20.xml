@@ -9,6 +9,71 @@
 	<atom:link rel="self" href="http://planeteclipse.org/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>Eclipse Dirigible: Release 4.0</title>
+	<guid isPermaLink="false">http://dirigible.io/release/2019/11/24/news_new_release_4_0</guid>
+	<link>http://dirigible.io/release/2019/11/24/news_new_release_4_0.html</link>
+	<description>&lt;p&gt;New version &lt;a href=&quot;https://download.eclipse.org/dirigible/drops/R-4.0-201911241404/index.html&quot;&gt;4.0&lt;/a&gt; released.&lt;/p&gt;
+
+&lt;p&gt;Release of &lt;em&gt;Type B&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;features&quot;&gt;Features&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Major change for API to v4&lt;/li&gt;
+  &lt;li&gt;Destination API v4 with Managed Destination Provider&lt;/li&gt;
+  &lt;li&gt;Mail API v4&lt;/li&gt;
+  &lt;li&gt;Workspace API v4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;fixes&quot;&gt;Fixes&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Migration related fixes&lt;/li&gt;
+  &lt;li&gt;User Interface related fixes&lt;/li&gt;
+  &lt;li&gt;Git pull with Gitlab&lt;/li&gt;
+  &lt;li&gt;Minor fixes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;statistics&quot;&gt;Statistics&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4300+ Downloads&lt;/li&gt;
+  &lt;li&gt;11K+ Docker Pulls&lt;/li&gt;
+  &lt;li&gt;5.5K+ Trial Users&lt;/li&gt;
+  &lt;li&gt;62K+ Sessions&lt;/li&gt;
+  &lt;li&gt;179 Countries&lt;/li&gt;
+  &lt;li&gt;356 Repositories in DirigibleLabs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;operational&quot;&gt;Operational&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Available packages for download - &lt;a href=&quot;https://download.eclipse.org/dirigible/drops/R-4.0-201911241404/index.html&quot;&gt;https://download.eclipse.org/dirigible/drops/R-4.0-201911241404/index.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker images at Docker Hub under DirigibleLabs organization:	&lt;a href=&quot;https://hub.docker.com/u/dirigiblelabs/&quot;&gt;https://hub.docker.com/u/dirigiblelabs/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Maven Central artifacts by org.eclipse.dirigible namespace: &lt;a href=&quot;https://mvnrepository.com/artifact/org.eclipse.dirigible&quot;&gt;https://mvnrepository.com/artifact/org.eclipse.dirigible&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The full list of bug-fixes and enhancements can be found here: &lt;a href=&quot;https://github.com/eclipse/dirigible/milestone/24?closed=1&quot;&gt;https://github.com/eclipse/dirigible/milestone/24?closed=1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The source code is available at GitHub repository here: &lt;a href=&quot;https://github.com/eclipse/dirigible/tree/4.0.0&quot;&gt;https://github.com/eclipse/dirigible/tree/4.0.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The instant trial is updated accordingly with the released version here: &lt;a href=&quot;http://trial.dirigible.io&quot;&gt;http://trial.dirigible.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;enjoy&quot;&gt;Enjoy!&lt;/h4&gt;</description>
+	<pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Maximilian and Jonas: How to create/develop an Eclipse Theia IDE extension</title>
+	<guid isPermaLink="false">https://eclipsesource.com/?p=42245</guid>
+	<link>https://eclipsesource.com/blogs/2019/11/21/how-to-create-develop-an-eclipse-theia-ide-extension/</link>
+	<description>&lt;p&gt;In this article, we provide an overview on how to extend the Eclipse Theia IDE with custom extensions. We will show...&lt;/p&gt;&lt;p&gt;The post &lt;a href=&quot;https://eclipsesource.com/blogs/2019/11/21/how-to-create-develop-an-eclipse-theia-ide-extension/&quot; rel=&quot;nofollow&quot;&gt;How to create/develop an Eclipse Theia IDE extension&lt;/a&gt; appeared first on &lt;a href=&quot;https://eclipsesource.com&quot; rel=&quot;nofollow&quot;&gt;EclipseSource&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Thu, 21 Nov 2019 09:05:23 +0000</pubDate>
+</item>
+<item>
+	<title>Maximilian and Jonas: How to install/run/try Eclipse Che</title>
+	<guid isPermaLink="false">https://eclipsesource.com/?p=42172</guid>
+	<link>https://eclipsesource.com/blogs/2019/11/20/how-to-install-run-try-eclipse-che/</link>
+	<description>&lt;p&gt;In this article series we provide an overview of how to get started with Eclipse Che. In this first part, we...&lt;/p&gt;&lt;p&gt;The post &lt;a href=&quot;https://eclipsesource.com/blogs/2019/11/20/how-to-install-run-try-eclipse-che/&quot; rel=&quot;nofollow&quot;&gt;How to install/run/try Eclipse Che&lt;/a&gt; appeared first on &lt;a href=&quot;https://eclipsesource.com&quot; rel=&quot;nofollow&quot;&gt;EclipseSource&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Wed, 20 Nov 2019 13:12:07 +0000</pubDate>
+</item>
+<item>
 	<title>Christopher Guindon: Modernizing our GitHub Sync Toolset</title>
 	<guid isPermaLink="true">https://www.chrisguindon.com/post/modernizing-our-github-sync-script/</guid>
 	<link>https://www.chrisguindon.com/post/modernizing-our-github-sync-script/</link>
@@ -1723,68 +1788,6 @@ You can &lt;a href=&quot;https://news.obeo.fr/en/post/world-cleanup-day-obeo-sup
 	<pubDate>Tue, 10 Sep 2019 07:07:37 +0000</pubDate>
 </item>
 <item>
-	<title>Eclipse Dirigible: Release 3.5</title>
-	<guid isPermaLink="false">http://dirigible.io/release/2019/09/10/news_new_release_3_5</guid>
-	<link>http://dirigible.io/release/2019/09/10/news_new_release_3_5.html</link>
-	<description>&lt;p&gt;New version &lt;a href=&quot;http://download.eclipse.org/dirigible/drops/R-3.5-201909101520/index.html&quot;&gt;3.5&lt;/a&gt; released.&lt;/p&gt;
-
-&lt;p&gt;Release of &lt;em&gt;Type B&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;features&quot;&gt;Features&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Select branch for Push&lt;/li&gt;
-  &lt;li&gt;Select branch for Pull&lt;/li&gt;
-  &lt;li&gt;Usage Statistics&lt;/li&gt;
-  &lt;li&gt;Import an arbitrary file into a workspace folder&lt;/li&gt;
-  &lt;li&gt;Generic support for Statusbar&lt;/li&gt;
-  &lt;li&gt;Programmatic Custom Datasources Support&lt;/li&gt;
-  &lt;li&gt;Destinations API v4&lt;/li&gt;
-  &lt;li&gt;jsonpath and alphanumeric APIs v4&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;fixes&quot;&gt;Fixes&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Reset perspective option in Dirigible&lt;/li&gt;
-  &lt;li&gt;Validation of the Listener handler to be done on Start&lt;/li&gt;
-  &lt;li&gt;Restart the Listener after modification&lt;/li&gt;
-  &lt;li&gt;Require confirmation from user on deletion of files, folders or projects&lt;/li&gt;
-  &lt;li&gt;Problem with setTimestamp, setTime and setDate of Statement&lt;/li&gt;
-  &lt;li&gt;Response API println and print donâ€™t work with UTF-8 characters&lt;/li&gt;
-  &lt;li&gt;Security - Missing isInRole() method&lt;/li&gt;
-  &lt;li&gt;Updating Date is not working on HANA database&lt;/li&gt;
-  &lt;li&gt;Updating Boolean is not working on HANA database&lt;/li&gt;
-  &lt;li&gt;Fiori theme fixes and improvements&lt;/li&gt;
-  &lt;li&gt;Minor fixes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;statistics&quot;&gt;Statistics&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;4000+ Downloads&lt;/li&gt;
-  &lt;li&gt;10K+ Docker Pulls&lt;/li&gt;
-  &lt;li&gt;5.4K+ Trial Users&lt;/li&gt;
-  &lt;li&gt;59K+ Sessions&lt;/li&gt;
-  &lt;li&gt;179 Countries&lt;/li&gt;
-  &lt;li&gt;354 Repositories in DirigibleLabs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;operational&quot;&gt;Operational&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Available packages for download - &lt;a href=&quot;https://download.eclipse.org/dirigible/drops/R-3.5-201909101520/index.html&quot;&gt;https://download.eclipse.org/dirigible/drops/R-3.5-201909101520/index.html&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Docker images at Docker Hub under DirigibleLabs organization:	&lt;a href=&quot;https://hub.docker.com/u/dirigiblelabs/&quot;&gt;https://hub.docker.com/u/dirigiblelabs/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Maven Central artifacts by org.eclipse.dirigible namespace: &lt;a href=&quot;https://mvnrepository.com/artifact/org.eclipse.dirigible&quot;&gt;https://mvnrepository.com/artifact/org.eclipse.dirigible&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The full list of bug-fixes and enhancements can be found here: &lt;a href=&quot;https://github.com/eclipse/dirigible/milestone/27&quot;&gt;https://github.com/eclipse/dirigible/milestone/27&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The source code is available at GitHub repository here: &lt;a href=&quot;https://github.com/eclipse/dirigible/tree/3.5.0&quot;&gt;https://github.com/eclipse/dirigible/tree/3.5.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The instant trial is updated accordingly with the released version here: &lt;a href=&quot;http://trial.dirigible.io&quot;&gt;http://trial.dirigible.io&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;enjoy&quot;&gt;Enjoy!&lt;/h4&gt;</description>
-	<pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-</item>
-<item>
 	<title>Cedric Brun: The Rising Adoption of Capella</title>
 	<guid isPermaLink="false">https://cedric.brun.io/eclipse/rising-adoption-of-MBSE-capella</guid>
 	<link>https://cedric.brun.io/eclipse/rising-adoption-of-MBSE-capella/</link>
@@ -2138,25 +2141,6 @@ https://twitter.com/CloudNativeFdn/status/1154783210221527040
 	<description>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot;&gt;This weekend I've tried to write a &lt;a href=&quot;https://git.eclipse.org/r/#/c/146706/1/org.eclipse.jdt.debug.tests/tests/org/eclipse/jdt/debug/tests/ui/DebugHoverTests.java@169&quot;&gt;test for Eclipse debug hover&lt;/a&gt;, that required to know exact position of the selected text, somewhere in the middle of the editor. If you think this is easy - go figure out in Eclipse at which offset is your cursor - surprisingly there is no obvious way to do so!&lt;br /&gt;&lt;br /&gt;So I've used some 3rd party editor that was kind enough to provide this information in the status line. Why shouldn't this be offered by Eclipse itself?&lt;br /&gt;&lt;br /&gt;So I've created an &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=549604&quot;&gt;enhancement request&lt;/a&gt; and &lt;a href=&quot;https://git.eclipse.org/r/146707&quot;&gt;pushed patch&lt;/a&gt; that adds both features to Eclipse. By default, status line shows now cursor position, and if editor has something selected, the number of characters in the selection (works also in block selection mode). Both new additions to the status line can be disabled via preferences.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-6JdWZY0NQgA/XT3Q7KD_0AI/AAAAAAAAlKk/Dh05jqydDNwY56E5IVTB4uFlb8JZ8-kfACLcBGAs/s1600/selection.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;261&quot; src=&quot;https://1.bp.blogspot.com/-6JdWZY0NQgA/XT3Q7KD_0AI/AAAAAAAAlKk/Dh05jqydDNwY56E5IVTB4uFlb8JZ8-kfACLcBGAs/s640/selection.png&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt; If there is no selection, cursor offset is shown:&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-xBdqrKMSgrQ/XT3Q83kAOTI/AAAAAAAAlKo/7wOG4lsXhUEv7SdBwc4XVMtXdowiHzFtgCLcBGAs/s1600/cursor_offset.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;258&quot; src=&quot;https://1.bp.blogspot.com/-xBdqrKMSgrQ/XT3Q83kAOTI/AAAAAAAAlKo/7wOG4lsXhUEv7SdBwc4XVMtXdowiHzFtgCLcBGAs/s640/cursor_offset.png&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Both new additions to the status line can be disabled via preferences:&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-KKk69IFHhCo/XT3Q_qDD2lI/AAAAAAAAlKs/49iYXizuftoP6Lpi-bGG-IEQfKzd1iyqACLcBGAs/s1600/preferences.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;640&quot; src=&quot;https://1.bp.blogspot.com/-KKk69IFHhCo/XT3Q_qDD2lI/AAAAAAAAlKs/49iYXizuftoP6Lpi-bGG-IEQfKzd1iyqACLcBGAs/s640/preferences.png&quot; width=&quot;420&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=549604&quot;&gt;WDYT?&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
 	<pubDate>Sun, 28 Jul 2019 16:50:05 +0000</pubDate>
 	<author>noreply@blogger.com (Andrey Loskutov)</author>
-</item>
-<item>
-	<title>Andrey Loskutov: Incompatible Eclipse workspaces</title>
-	<guid isPermaLink="false">tag:blogger.com,1999:blog-342159971341432126.post-3852949671843488587</guid>
-	<link>http://javaclipse.blogspot.com/2019/05/incompatible-eclipse-workspaces.html</link>
-	<description>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot;&gt;&lt;br /&gt;Eclipse has mechanism to recognize if the workspace to be used is created with older Eclipse version.&lt;br /&gt;In such case, to be safe, Eclipse shows dialog like:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://2.bp.blogspot.com/-bzIVjTZG780/XN0sZj-ZbJI/AAAAAAAAjw0/FA3w7k-vlLwAkttD9rsM3asrAl0w8cW-ACLcBGAs/s1600/old_workspace_warning.png&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https://2.bp.blogspot.com/-bzIVjTZG780/XN0sZj-ZbJI/AAAAAAAAjw0/FA3w7k-vlLwAkttD9rsM3asrAl0w8cW-ACLcBGAs/s1600/old_workspace_warning.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;As of today (Eclipse 4.12 M1), if you click on &quot;Cancel&quot; button, Eclipse will behave differently, depending on the use cases &quot;history&quot;:&lt;br /&gt;&lt;br /&gt;&lt;h4 style=&quot;text-align: left;&quot;&gt;A. If the workbench was not started yet:&lt;/h4&gt;&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;If Eclipse was started &lt;b&gt;without&lt;/b&gt; &quot;-data&quot; argument and user selects incompatible workspace, Eclipse will show &quot;Older Workspace Version&quot; dialog above and by clicking on &quot;Cancel&quot; it will offer workspace selection dialog.&lt;/li&gt;&lt;li&gt;If Eclipse was started &lt;b&gt;with&lt;/b&gt; &quot;-data&quot; argument pointing to the incompatible workspace, Eclipse will show &quot;Older Workspace Version&quot; dialog above and by clicking on &quot;Cancel&quot; it will &lt;span style=&quot;color: red;&quot;&gt;terminate&lt;/span&gt; (instead of offering to select another workspace).&lt;/li&gt;&lt;/ol&gt;&lt;h4 style=&quot;text-align: left;&quot;&gt;B. If the workbench was started:&lt;/h4&gt;&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;If user selects &lt;b&gt;compatible&lt;/b&gt; workspace in the &quot;File -&amp;gt; Switch Workspace&quot; dialog, Eclipse restarts fine.&lt;/li&gt;&lt;li&gt;If user selects &lt;b&gt;incompatible&lt;/b&gt; workspace in the &quot;File -&amp;gt; Switch Workspace&quot; dialog, Eclipse restarts, shows the &quot;Older Workspace Version&quot; dialog above and by clicking on &quot;Cancel&quot; it will &lt;span style=&quot;color: red;&quot;&gt;terminate&lt;/span&gt; (instead of offering to select another workspace).&lt;/li&gt;&lt;/ol&gt;This behavior is inconvenient (at least), so we have &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=538830&quot;&gt;bug 538830&lt;/a&gt;.&lt;br /&gt;&lt;h4 style=&quot;text-align: left;&quot;&gt;Fix Proposal #1&lt;/h4&gt;The proposal is, that &lt;b&gt;independently&lt;/b&gt; on the way Eclipse was started, if user clicks on the &quot;Cancel&quot; button in the &quot;Older Workspace Version&quot; dialog, we &lt;b&gt;always&lt;/b&gt; show the default workspace selection dialog (instead of termination):&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://2.bp.blogspot.com/-U2VeCqT6SEk/XN0uJV2m7EI/AAAAAAAAjxA/D5Kdw_JQKiMOmuzCZmfDJ56abEwLBMXSgCLcBGAs/s1600/workspace_selection_dialog.png&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https://2.bp.blogspot.com/-U2VeCqT6SEk/XN0uJV2m7EI/AAAAAAAAjxA/D5Kdw_JQKiMOmuzCZmfDJ56abEwLBMXSgCLcBGAs/s1600/workspace_selection_dialog.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;In this dialog above user has two choices: launch any workspace or finally terminate Eclipse via &quot;Cancel&quot;.&lt;br /&gt;&lt;h4 style=&quot;text-align: left;&quot;&gt;Proposal #1 Matrix&lt;/h4&gt;&lt;h4&gt;A1. If the workbench was not started yet:&lt;/h4&gt;&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;If Eclipse was started &lt;b&gt;with or without&lt;/b&gt; &quot;-data&quot; argument and user selects incompatible workspace, Eclipse will show &quot;Older Workspace Version&quot; dialog above and by clicking on &quot;Cancel&quot; it will offer workspace selection dialog. To terminate Eclipse, user has to click &quot;Cancel&quot; in the workspace selection dialog.&lt;/li&gt;&lt;/ol&gt;&lt;h4&gt;B1. If the workbench was started:&lt;/h4&gt;&lt;ol&gt;&lt;li&gt;If user selects &lt;b&gt;compatible&lt;/b&gt; workspace in the &quot;File -&amp;gt; Switch Workspace&quot; dialog, Eclipse restarts fine.&lt;/li&gt;&lt;li&gt;If user selects &lt;b&gt;incompatible&lt;/b&gt; workspace in the &quot;File -&amp;gt; Switch Workspace&quot; dialog, Eclipse restarts, shows the &quot;Older Workspace Version&quot; dialog above and by clicking on &quot;Cancel&quot; it will offer to select another workspace.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;h4&gt;Fix Proposal #2&lt;/h4&gt;The proposal is, that &lt;b&gt;depending&lt;/b&gt; on the way Eclipse was started, if user clicks on the &quot;Cancel&quot; button in the &quot;Older Workspace Version&quot; dialog, we &lt;b&gt;may or may not&lt;/b&gt; show the default workspace selection dialog. So what happens after &quot;Older Workspace Version&quot; dialog is shown is &lt;b&gt;not predictable&lt;/b&gt; by just looking on this dialog - it depends on the &lt;b&gt;history&lt;/b&gt; of this dialog.&lt;br /&gt;&lt;h4 style=&quot;text-align: left;&quot;&gt;Proposal #2 Matrix&lt;/h4&gt;&lt;h4&gt;A2. If the workbench was not started yet:&lt;/h4&gt;&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;If Eclipse was started &lt;b&gt;without&lt;/b&gt; &quot;-data&quot; argument and user selects incompatible workspace, Eclipse will show &quot;Older Workspace Version&quot; dialog above and by clicking on &quot;Cancel&quot; it will offer workspace selection dialog.&lt;/li&gt;&lt;li&gt;If Eclipse was started &lt;b&gt;with&lt;/b&gt; &quot;-data&quot; argument pointing to the incompatible workspace, Eclipse will show &quot;Older Workspace Version&quot; dialog above and by clicking on &quot;Cancel&quot; it will &lt;span style=&quot;color: red;&quot;&gt;terminate&lt;/span&gt; (instead of offering to select another workspace).&lt;/li&gt;&lt;/ol&gt;&lt;h4&gt;B2. If the workbench was started:&lt;/h4&gt;&lt;ol&gt;&lt;li&gt;If user selects &lt;b&gt;compatible&lt;/b&gt; workspace in the &quot;File -&amp;gt; Switch Workspace&quot; dialog, Eclipse restarts fine.&lt;/li&gt;&lt;li&gt;If user selects &lt;b&gt;incompatible&lt;/b&gt; workspace in the &quot;File -&amp;gt; Switch Workspace&quot; dialog, Eclipse restarts, shows the &quot;Older Workspace Version&quot; dialog above and by clicking on &quot;Cancel&quot; it will offer to select another workspace.&lt;/li&gt;&lt;/ol&gt;&lt;h4 style=&quot;text-align: left;&quot;&gt;Similarities&lt;/h4&gt;&lt;div&gt;Both proposals fix second bullet in the use case B2.&lt;/div&gt;&lt;h4 style=&quot;text-align: left;&quot;&gt;Differences&lt;/h4&gt;&lt;div&gt;We see that Proposal #1 has no second bullet for A1 case, and is always consistent in the way how UI behaves after clicking on &quot;Cancel&quot; in the &quot;Older Workspace Version&quot; dialog. Proposal #2 fixes only B2 use case, inconsistency in UI behavior for the second part of A1 use case remains.&lt;/div&gt;&lt;h4 style=&quot;text-align: left;&quot;&gt;Technical (biased) notes:&lt;/h4&gt;&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Proposal #1 is implemented and the &lt;a href=&quot;https://git.eclipse.org/r/142139&quot;&gt;patch is available&lt;/a&gt;, along with the &lt;a href=&quot;https://bugs.eclipse.org/bugs/attachment.cgi?id=278605&quot;&gt;demo video&lt;/a&gt;. To test it live, one has to build Eclipse - but here I have &lt;a href=&quot;https://drive.google.com/drive/folders/0B7vALkuico9heWlDMlhfRGlRbm8&quot;&gt;SDK binaries with the patch applied&lt;/a&gt;. The patch is relatively simple and only affects Platform UI internal code.&lt;/li&gt;&lt;li&gt;Proposal #2 is not implemented yet. I assume that this will require more work compared to the patch #1. We will need a new command line argument for Eclipse to differentiate between &quot;&lt;i&gt;I want you not to terminate even if incompatible -data is supplied because I'm calling you from UI&lt;/i&gt;&quot; and &quot;&lt;i&gt;Please terminate if incompatible data is supplied because I'm calling you from the command line&lt;/i&gt;&quot;. A new command line argument for Eclipse means not just Platform UI internal change, but also requires changes in the Equinox and Help, and also means public interface change.&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;&lt;h4&gt;Question to the masses!&lt;/h4&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: red; font-size: large;&quot;&gt;We want to know your opinion - which proposal should be implemented?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Please reply here or on the &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=538830&quot;&gt;bug 538830&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Update:&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;This version was implemented and available in 4.13 M1:&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-oJMooR48pR8/XT3OfYIFEaI/AAAAAAAAlKY/xnEhIZt_aYACFYd8N9LhLQKkJncs5nsoQCLcBGAs/s1600/workspace_selection_dialog1.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https://1.bp.blogspot.com/-oJMooR48pR8/XT3OfYIFEaI/AAAAAAAAlKY/xnEhIZt_aYACFYd8N9LhLQKkJncs5nsoQCLcBGAs/s1600/workspace_selection_dialog1.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;</description>
-	<pubDate>Sun, 28 Jul 2019 16:35:08 +0000</pubDate>
-	<author>noreply@blogger.com (Andrey Loskutov)</author>
-</item>
-<item>
-	<title>PapyrusUML: Papyrus SysML 1.6  available from the Eclipse Marketplace.</title>
-	<guid isPermaLink="false">http://papyrusuml.wordpress.com/?p=2364</guid>
-	<link>https://papyrusuml.wordpress.com/2019/07/12/papyrus-sysml-1-6-available-from-the-eclipse-marketplace/</link>
-	<description>&lt;p&gt;I should have mentioned, yesterday, that Papyrus SysML 1.6 is available from the Eclipse market place at &lt;a href=&quot;https://marketplace.eclipse.org/content/papyrus-sysml-16&quot;&gt;https://marketplace.eclipse.org/content/papyrus-sysml-16&lt;/a&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;/p&gt;</description>
-	<pubDate>Fri, 12 Jul 2019 14:03:10 +0000</pubDate>
 </item>
 
 </channel>

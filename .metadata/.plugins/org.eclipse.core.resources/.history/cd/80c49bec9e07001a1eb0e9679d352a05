@@ -1,7 +1,0 @@
-package com.capability.qa.testcases;
-
-import com.capability.qa.Base.BaseTest;
-
-public class Dev2TopicPageTest extends BaseTest{
-
-}

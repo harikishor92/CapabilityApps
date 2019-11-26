@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 import com.capability.qa.Base.BaseTest;
 import com.capability.qa.Pages.AddQuestionsPage;
 import com.capability.qa.Pages.DashBoardPage;
+import com.capability.qa.Pages.EditQuestionsPage;
 import com.capability.qa.Pages.JavaTopicPage;
 import com.capability.qa.Pages.LoginPage;
 import com.capability.qa.Pages.WelcomePage;
@@ -17,12 +18,13 @@ public class EditQuestionsPageTest extends BaseTest{
 	
 Logger logger = Logger.getLogger(EditQuestionsPageTest.class);
 	
-	String sheetName ="add_Question";
+	String sheetName ="editQuestions";
 	WelcomePage wlcm;
 	LoginPage login;
 	DashBoardPage dashBaord;
 	JavaTopicPage jtp;
 	AddQuestionsPage addQues;
+	EditQuestionsPage editQuestion;
 	
 	EditQuestionsPageTest()
 	{
@@ -49,6 +51,7 @@ Logger logger = Logger.getLogger(EditQuestionsPageTest.class);
 		jtp.clickOnSearchBtn();
 		
 		
+		
 	}
 	
 	@DataProvider()
@@ -59,11 +62,24 @@ Logger logger = Logger.getLogger(EditQuestionsPageTest.class);
 		
 	}
 	
-	@Test
-	//public void editQuestion(String SearchQuestion)
-	public void editQuestion()
+	@Test(dataProvider = "getCapabilityTestData")
+	public void editQuestion(String searchQuestion, String topic, String Complexcity, String type,
+			String chapter, String eQuestion, String editA, String editB, String editC, 
+			String editD, String selectA, String selectB, String selectC, String selectD)
 	{
-		jtp.enterValueInSearchBox("What happens if we put a key object in a HashMap which exists?");
+		jtp.enterValueInSearchBox(searchQuestion);
+		jtp.selectCheckBox();
+		jtp.clickOnEditBtn();
+		addQues = new AddQuestionsPage();
+		addQues.selectTopicDropDown(topic);
+		addQues.selectComplexicityDropDown(Complexcity);
+		addQues.selectTypeDropDown(type);
+		addQues.selectChapterDropDown(chapter);
+		editQuestion = new EditQuestionsPage();
+		editQuestion.editQuestion(eQuestion, editA, editB, editC, editD);
+		addQues.selectAnswarOptions(type, selectA, selectB, selectC, selectD);
+		
+		
 	}
 
 }

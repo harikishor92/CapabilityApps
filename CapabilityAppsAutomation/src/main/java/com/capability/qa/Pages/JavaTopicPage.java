@@ -11,15 +11,16 @@ public class JavaTopicPage extends BaseTest{
 	@FindBy(xpath = "//h6[.='Questions']")
 	private WebElement verifyJavaPage;
 	
-	@FindBy(xpath = "//body/div[@id='root']/div/div/div[@class='side-content mt-5']"
-			+ "/div[@class='MuiPaper-root MuiPaper-elevation4 jss251 mt-5 MuiPaper-rounded']"
-			+ "/div[@class='MuiToolbar-root MuiToolbar-regular jss286 MuiToolbar-gutters']"
-			+ "/div[@class='jss288']/button[@class='MuiButtonBase-root MuiIconButton-root jss291']"
-			+ "/span[@class='MuiIconButton-label']/*[1] ")
+	@FindBy(xpath = "//*[@id='root']/div/div/div[2]/div[3]/div[1]/div[2]/button")
+	//@FindBy(xpath = "(//button[@class = 'MuiButtonBase-root MuiIconButton-root jss258'])[1]")
 	private WebElement searchBtn;
 	
 	@FindBy(xpath = "//input[@class='MuiInputBase-input MuiInput-input']")
 	private WebElement enterValueSearchBox;
+	
+	//@FindBy(xpath = "//*[@id='MUIDataTableBodyRow-2']/td[1]/div/span/span[1]/svg")
+	@FindBy(xpath = "(//span)[14]")
+	private WebElement selectCheckBoxbtn;
 	
 	@FindBy(xpath = "//button[.='Add Question']")
 	private WebElement addQuestionbtn;
@@ -27,10 +28,7 @@ public class JavaTopicPage extends BaseTest{
 	@FindBy(xpath = "//span//button[@class='MuiButtonBase-root MuiIconButton-root jss248']")
 	private WebElement filterBtn;
 	
-	@FindBy(xpath = " //tr[@id='MUIDataTableBodyRow-0']//*[@class='MuiSvgIcon-root']")
-	private WebElement selectCheckbox;
-	
-	@FindBy(xpath = "//*[@class='MuiSvgIcon-root jss797']")
+	@FindBy(xpath = "//*[@class='MuiSvgIcon-root jss264']")
 	private WebElement editBtn;
 	
 	
@@ -49,14 +47,27 @@ public class JavaTopicPage extends BaseTest{
 	
 	public AddQuestionsPage clickOnaddQuestionBtn() throws InterruptedException
 	{
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		addQuestionbtn.click();
 		return new AddQuestionsPage();
 	}
 	
-	public void clickOnSearchBtn()
+	public void clickOnSearchBtn() throws InterruptedException
 	{
+		Thread.sleep(3000);
 		searchBtn.click();
+	}
+	
+	public void selectCheckBox()
+	{
+		if(selectCheckBoxbtn.isSelected())
+		{
+			System.out.println("ChechBox is already selected");
+		}
+		else 
+		{
+			selectCheckBoxbtn.click();
+		}
 	}
 	
 	public void enterValueInSearchBox(String value)
@@ -73,11 +84,6 @@ public class JavaTopicPage extends BaseTest{
 	{
 		editBtn.click();
 		return new EditQuestionsPage();
-	}
-	
-	public void selectCheckBoxBtn()
-	{
-		selectCheckbox.click();
 	}
 
 }
